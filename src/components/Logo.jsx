@@ -17,8 +17,8 @@ export function Logo(props) {
     <Image
       src="/small_logo.png"
       alt="Logo do seminário"
-      width={106}
-      height={40}
+      width={126}
+      height={48}
     />
   )
 }

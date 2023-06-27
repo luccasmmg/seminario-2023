@@ -21,7 +21,7 @@ export function Hero() {
       icon: <CalendarDaysIcon className="h-6 w-6" />,
     },
     {
-      title: 'Increva-se',
+      title: 'Inscreva-se',
       href: 'https://sigeva.ccsa.ufrn.br/event/649067933e3d350ff15a2522',
       icon: <UserPlusIcon className="h-6 w-6" />,
     },
