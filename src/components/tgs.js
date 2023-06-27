@@ -19,6 +19,13 @@ export const Tgs = {
           coordinators: '',
           id: '64907c315995d60010a1e4f4',
         },
+        {
+          name: 'Estudos Críticos em Tecnologia da Informação',
+          syllabus:
+            'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
+          coordinators: '',
+          id: '64907c0f5995d60010a1e4db',
+        },
       ],
     },
     {
@@ -119,15 +126,7 @@ export const Tgs = {
     },
     {
       name: 'Ciência da Informação',
-      tgs: [
-        {
-          name: 'Estudos Críticos em Tecnologia da Informação',
-          syllabus:
-            'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
-          coordinators: '',
-          id: '64907c0f5995d60010a1e4db',
-        },
-      ],
+      tgs: [],
     },
     {
       name: 'Turismo',
