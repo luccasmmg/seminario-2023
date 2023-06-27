@@ -13,18 +13,18 @@ export const Tgs = {
           id: '64907c055995d60010a1e4c2',
         },
         {
-          name: 'Gestão do comportamento humano, trabalho e saúde na área pública',
-          syllabus:
-            'Comportamento humano no trabalho; saúde e adoecimento; qualidade de vida; o papel da gestão pública.',
-          coordinators: '',
-          id: '64907c315995d60010a1e4f4',
-        },
-        {
           name: 'Estudos Críticos em Tecnologia da Informação',
           syllabus:
             'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
           coordinators: '',
           id: '64907c0f5995d60010a1e4db',
+        },
+        {
+          name: 'Gestão do comportamento humano, trabalho e saúde na área pública',
+          syllabus:
+            'Comportamento humano no trabalho; saúde e adoecimento; qualidade de vida; o papel da gestão pública.',
+          coordinators: '',
+          id: '64907c315995d60010a1e4f4',
         },
       ],
     },
@@ -134,23 +134,30 @@ export const Tgs = {
         {
           name: 'Gestão em Turismo',
           syllabus:
-            'Competitividade Turística de Destinos e Organizações; Redes e Alianças Estratégicas; Marketing Turístico; Comunicação e Promoção Turística; Gestão da Qualidade dos Serviços Turísticos; Gestão de Pessoas no Turismo; Planejamento e Gestão em Turismo.',
+            'Competitividade Turística de Destinos e Organizações; Redes e Alianças Estratégicas; Marketing Turístico; Comunicação e Promoção Turística; Gestão da Qualidade dos Serviços Turísticos; Planejamento e Gestão em Turismo.',
           coordinators: '',
           id: '64907b955995d60010a1e42e',
         },
         {
-          name: 'Eventos, lazer e hospitalidade',
+          name: 'Hospitalidade e lazer',
           syllabus:
-            'Aspectos gerais da hospitalidade. Hospitalidade e Turismo. Hospitalidade em meios de hospedagem. Estudos do lazer. Práticas de lazer em destinos turísticos. Lazer e entretenimento como atrações turísticas. O lúdico e o bem-estar social. Eventos: planejamento e organização. Impactos e importância dos eventos nos destinos turísticos. Cerimonial e protocolo. Eventos temáticos. Hospitalidade em eventos.',
+            ' Aspectos gerais da hospitalidade. Hospitalidade e Turismo. Hospitalidade em meios de hospedagem. Estudos do lazer. Práticas de lazer em destinos turísticos. Lazer e entretenimento como atrações turísticas. O lúdico e o bem-estar social. ',
           coordinators: '',
           id: '64907bb45995d60010a1e447',
         },
         {
-          name: 'Gastronomia no Turismo',
+          name: 'Eventos e Gastronomia no turismo',
           syllabus:
-            'Estudos sobre Identidade Alimentar e Territorialidade; Cozinhas Regionais; Turismo Gastronômico; Restaurantes e Bares como atrativos turísticos, roteiros gastronômicos e ou revisões sobre Movimentos gastronômicos.',
+            'Eventos: planejamento e organização. Impactos e importância dos eventos nos destinos turísticos. Cerimonial e protocolo. Eventos temáticos. Hospitalidade em eventos. Estudos sobre Identidade Alimentar e Territorialidade; Cozinhas Regionais; Turismo Gastronômico; Restaurantes e Bares como atrativos turísticos e ou revisões sobre Movimentos gastronômicos.\n',
           coordinators: '',
           id: '64907bbb5995d60010a1e460',
+        },
+        {
+          name: 'Planejamento e organização do turismo',
+          syllabus:
+            'Turismo, governança e governabilidade. Participação Popular e as Políticas Públicas de Turismo. Teoria do Planejamento Turístico. Planejamento e Organização do Turismo. Planejamento e Segmentação Turística.',
+          coordinators: '',
+          id: '649b05e755c6e80010774208',
         },
       ],
     },
