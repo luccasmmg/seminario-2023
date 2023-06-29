@@ -11,12 +11,20 @@ import {
 export function Hero() {
   const actions = [
     {
-      title: 'Programação(Em breve)',
+      title: 'Programação',
+      subtitle: '(Em breve)',
       href: '#',
       icon: <CalendarIcon className="h-6 w-6" />,
     },
     {
-      title: 'Subeventos(Em breve)',
+      title: 'Anais',
+      subtitle: '(Em breve)',
+      href: '#',
+      icon: <CalendarIcon className="h-6 w-6" />,
+    },
+    {
+      title: 'Subeventos',
+      subtitle: '(Em breve)',
       href: '#',
       icon: <CalendarDaysIcon className="h-6 w-6" />,
     },
@@ -40,28 +48,28 @@ export function Hero() {
               <Image
                 width={1200}
                 height={800}
-                src="/big_logo.png"
+                src="/big_logo.svg"
                 alt="Logo 25 Seminário do CCSA"
               />
             </div>
           </div>
-          <h2 className="py-8 text-center text-3xl font-medium tracking-tight text-gray-700">
-            11 a 15 de Setembro de 2023
-          </h2>
         </div>
       </Container>
-      <div className="bg-red-950">
+      <div >
         <Container>
-          <div className="grid grid-cols-1 gap-3 py-12 md:grid-cols-2 lg:grid-cols-4">
+          <img src='/divider.svg' className='w-full'   />
+          <div className="grid grid-cols-1 gap-3 py-8 md:grid-cols-2 lg:grid-cols-5">
             {actions.map((action) => (
               <HeroCard
                 href={action.href}
                 key={action.href}
                 title={action.title}
+                subtitle={action.subtitle}
                 icon={action.icon}
               />
             ))}
           </div>
+          <img src='/divider.svg' className='w-full'   />
         </Container>
       </div>
       <Container>

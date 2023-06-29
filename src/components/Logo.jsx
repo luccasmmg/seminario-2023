@@ -15,10 +15,10 @@ export function Logomark(props) {
 export function Logo(props) {
   return (
     <Image
-      src="/small_logo.png"
+      src="/small_logo.svg"
       alt="Logo do seminário"
-      width={126}
-      height={48}
+      width={160}
+      height={50}
     />
   )
 }

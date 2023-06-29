@@ -35,6 +35,7 @@ module.exports = {
       },
       colors: ({ colors }) => ({
         gray: colors.neutral,
+        red: { ...colors.red, 900: '#6B0B0C', 600: '#B5191E' },
       }),
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
