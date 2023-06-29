@@ -58,7 +58,7 @@ export function Hero() {
       <div >
         <Container>
           <img src='/divider.svg' className='w-full'   />
-          <div className="grid grid-cols-1 gap-3 py-8 md:grid-cols-2 lg:grid-cols-5">
+          <div className="grid grid-cols-1 gap-3 py-8 md:grid-cols-5">
             {actions.map((action) => (
               <HeroCard
                 href={action.href}
