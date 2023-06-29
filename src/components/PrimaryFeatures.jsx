@@ -54,7 +54,6 @@ const unna = Unna({ subsets: ['latin'], weight: '700' })
 
 export function PrimaryFeatures() {
   const tgs = Tgs
-  console.log(tgs)
   return (
     <section
       id="features"

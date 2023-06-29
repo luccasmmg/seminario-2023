@@ -12,6 +12,13 @@ export const Tgs = {
           coordinators: 'Marconi Neves Macedo',
           id: '64907c055995d60010a1e4c2',
         },
+        {
+          name: 'Gestão do comportamento humano, trabalho e saúde na área pública',
+          syllabus:
+            'Comportamento humano no trabalho; saúde e adoecimento; qualidade de vida; o papel da gestão pública.',
+          coordinators: '',
+          id: '64907c315995d60010a1e4f4',
+        },
       ],
     },
     {
@@ -23,13 +30,6 @@ export const Tgs = {
             'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
           coordinators: '',
           id: '64907c0f5995d60010a1e4db',
-        },
-        {
-          name: 'Gestão do comportamento humano, trabalho e saúde na área pública',
-          syllabus:
-            'Comportamento humano no trabalho; saúde e adoecimento; qualidade de vida; o papel da gestão pública.',
-          coordinators: '',
-          id: '64907c315995d60010a1e4f4',
         },
       ],
     },
