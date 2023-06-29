@@ -77,7 +77,44 @@ export const Tgs = {
     },
     {
       name: 'Economia',
-      tgs: [],
+      tgs: [
+        {
+          name: 'Análise Econômica Multissetorial, Estratégica e Conjuntural(Pendente de confirmação)',
+          syllabus:
+            'Estudo das relações entre as atividades econômicas, o qual é realizado por meio de modelos multissetoriais, e das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional.   Estimativas   de   matrizes   insumo-produto, nacional   e/ou   estadual.   Análise   das   relações   econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil   tipicamente   relacionada   a  médios  e   longos  prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.',
+          coordinators:
+            'André Luís Cabral Lourenço, Fabrício Pitombo Leite, William Eufrasio Nunes Pereira, Denílson da Silva Araújo',
+          id: '5c261fba322746000f6ed794',
+        },
+        {
+          name: 'Grupo Interdisciplinar de Estudos e Avaliação de Políticas Públicas (GIAPP)(Pendente de confirmação)',
+          syllabus:
+            'As contribuições acadêmicas sobre avaliação e análise de políticas públicas, inclusive: avaliação de produtos, efeitos e impactos das diversas políticas como saúde, educação, agricultura, assistência social etc.',
+          coordinators: 'João Matos Filho, Lincoln Moraes de Souza',
+          id: '5c261fca322746000f6ed7b0',
+        },
+        {
+          name: 'Estudos e Pesquisas em Espaço, Trabalho, Inovação e Sustentabilidade(Pendente de confirmação)',
+          syllabus:
+            'Serão discutidas questões teóricas e políticas da economia regional e urbana, priorizando as análises que envolvam o trabalho, a inovação e a sustentabilidade nesses espaços.',
+          coordinators: '',
+          id: '5c261fd1322746000f6ed7be',
+        },
+        {
+          name: 'Análise   Econômica   Multissetorial,   Estratégica   e Conjuntural (Pendente de confirmação)',
+          syllabus:
+            'Estudo das relações entre as atividades econômicas, o qual é   realizado   por   meio   de   modelos   multissetoriais,   e   das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional.   Estimativas   de   matrizes   insumo-produto, nacional   e/ou   estadual.   Análise   das   relações   econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil   tipicamente   relacionada   a  médios  e   longos  prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.',
+          coordinators: 'Diego de Maria André, Janaína da Silva Alves',
+          id: '5c261fd8322746000f6ed7cc',
+        },
+        {
+          name: 'Núcleo de Estudos em Economia e Políticas para o Desenvolvimento Rural (NERUR)(Pendente de confirmação)',
+          syllabus:
+            'Análise da heterogeneidade da agropecuária brasileira. Análise das formas de organização da produção da agricultura familiar e do agronegócio. Análise das políticas públicas voltadas para o meio rural. Análise das transformações do Sistema agroalimentar. As novas formas de produção, comercialização e distribuição dos produtos agroalimentares. Análise da Nova Geografia do meio Rural. Meio rural e sustentabilidade. Empreendedorismo no meio rural.',
+          coordinators: 'Thales Augusto Medeiros Penha',
+          id: '5c6ff79d444b78000fdf3774',
+        },
+      ],
     },
     {
       name: 'Serviço Social',
@@ -126,7 +163,56 @@ export const Tgs = {
     },
     {
       name: 'Ciência da Informação',
-      tgs: [],
+      tgs: [
+        {
+          name: 'Estudos Históricos e Epistemológicos da Biblioteconomia e da Ciência da Informação(Pendente de confirmação)',
+          syllabus:
+            'Estudos Históricos e Epistemológicos da Biblioteconomia e da Ciência da Informação. Constituição do campo científico e discussões sobre o objeto de estudo da Biblioteconomia e da Ciência da Informação. Reflexões sobre disciplinaridade, interdisciplinaridade e transdisciplinaridade, assim como a construção do conhecimento na área. Estudos sobre perfil, formação, competências profissionais e mercado de trabalho. Teóricos e teorias da Biblioteconomia e da Ciência da Informação.',
+          coordinators:
+            'Gabrielle Francinne de Souza Carvalho Tanus, Antônia Neta, Francisco Araújo',
+          id: '5c262050322746000f6ed83c',
+        },
+        {
+          name: 'Gestão da Informação e Conhecimento(Pendente de confirmação)',
+          syllabus:
+            'Gestão de ambientes, sistemas, unidades, serviços e produtos de informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuários da informação como instrumentos de gestão. Gestão do conhecimento, aprendizagem organizacional e redes sociais. Marketing da informação. Monitoramento ambiental e inteligência competitiva. Gestão documental. Segurança da informação. Empreendedorismo informacional.\n',
+          coordinators:
+            'Andréa Carvalho, Pedro Neto, Luciana Moreira, Eliane Ferreira da Silva',
+          id: '5c262058322746000f6ed84a',
+        },
+        {
+          name: 'Informação, Tecnologia e Mediação(Pendente de confirmação)',
+          syllabus:
+            'Planejamento, implantação e avaliação de produtos e serviços de informação. Redes, recursos e fontes de informação. Estudo dos processos e das relações entre mediação, circulação e apropriação de informações, em diferentes contextos. Tecnologias de Informação e Comunicação. Redes sociais. Repositórios digitais. Curadoria de conteúdos. Arquitetura da informação.',
+          coordinators:
+            'Fernando Luiz Vechiato, Gabrielle Francinne de Souza Carvalho Tanus, Jacqueline Souza, Andréa Carvalho',
+          id: '5c26205f322746000f6ed858',
+        },
+        {
+          name: 'Organização e Representação do Conhecimento(Pendente de confirmação)',
+          syllabus:
+            'Teorias, metodologias e práticas relacionadas à organização e representação de documentos e da informação em ambiências informacionais, tais como: arquivos, bibliotecas, museus e centros de documentação. Compreende estudos relacionados aos processos, produtos e instrumentos de representação do conhecimento bem como estudos de análise da informação.',
+          coordinators:
+            'Francisco Araújo, Jacqueline Souza, Monica Marques Carvalho Gallotti, Nancy Sanchez Tarrago, Malkene Wytiza Freire de Medeiros Noronha',
+          id: '5c262069322746000f6ed866',
+        },
+        {
+          name: 'Informação e Sociedade(Pendente de confirmação)',
+          syllabus:
+            'Políticas de informação e suas expressões em diferentes campos. Sociedade da informação. Informação, Estado e governo. Propriedade intelectual. Acesso à informação. Economia política da informação e da comunicação; produção colaborativa. Informação, conhecimento e inovação. Inclusão informacional e inclusão digital. Ética e informação. Informação e meio ambiente.',
+          coordinators:
+            'Luciana Moreira, Gabrielle Francinne de Souza Carvalho Tanus, Pedro Neto, Ana Cláudia Ribeiro',
+          id: '5c262071322746000f6ed874',
+        },
+        {
+          name: 'Produção Científica e Estudos Métricos da Informação(Pendente de confirmação)',
+          syllabus:
+            'Produção, comunicação e uso da informação em Ciência, Tecnologia e Inovação. Métodos de avaliação: Bibliometria, Cientometria, Informetria, Webometria, Cibermetria, Altmetria, Arquivometria. Repositórios digitais. Movimento Open Access. Ciência aberta.',
+          coordinators:
+            'Nancy Sanchez Tarrago, Monica Marques Carvalho Gallotti',
+          id: '5c26207d322746000f6ed882',
+        },
+      ],
     },
     {
       name: 'Turismo',

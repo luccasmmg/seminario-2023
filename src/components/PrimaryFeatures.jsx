@@ -1,8 +1,5 @@
-import { Fragment, useEffect, useId, useRef, useState } from 'react'
 import { Disclosure, Tab, Transition } from '@headlessui/react'
-import clsx from 'clsx'
-import { AnimatePresence, motion } from 'framer-motion'
-import { useDebouncedCallback } from 'use-debounce'
+import { motion } from 'framer-motion'
 
 import { AppScreen } from '@/components/AppScreen'
 import { Container } from '@/components/Container'
@@ -14,7 +11,7 @@ const MotionAppScreenBody = motion(AppScreen.Body)
 
 function Tg({ tg }) {
   return (
-    <Disclosure key={tg.id}>
+    <Disclosure>
       <Disclosure.Button
         as="h4"
         className="flex cursor-pointer items-center font-medium tracking-tight text-gray-400 transition hover:text-gray-200"
@@ -45,11 +42,15 @@ function Area({ area }) {
         {area.name}
       </h3>
       {area.tgs.map((tg) => {
-        return <Tg tg={tg} key={tg.id} />
+        return <div  key={tg.id} className="py-2"><Tg tg={tg} /></div>
       })}
     </div>
   )
 }
+import { Unna } from 'next/font/google'
+ 
+const unna = Unna({ subsets: ['latin'], weight: '700' })
+
 
 export function PrimaryFeatures() {
   const tgs = Tgs
@@ -57,14 +58,17 @@ export function PrimaryFeatures() {
     <section
       id="features"
       aria-label="Features for investing all your money"
-      className="bg-slate-900 py-20 sm:py-32"
+      className="py-20 sm:py-32"
+      style={{ backgroundColor:'rgb(30, 41, 59);',
+      backgroundImage: 'radial-gradient(at 7% 85%, #00002E, transparent 100%), radial-gradient(at 61% 13%,  #B5191E, transparent 100%), radial-gradient(at 88% 83%,  #6B0B0C, transparent 100%), radial-gradient(at 87% 10%,  #6B0B0C, transparent 100%);'
+    }}
     >
       <Container>
-        <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-3xl">
-          <h2 className="text-3xl font-medium tracking-tight text-white">
+        <div className="mx-auto lg:mx-0">
+          <h2 className={`text-6xl  max-w-2xl  lg:max-w-3xl font-medium tracking-tight text-white ${unna.className}`}>
             Grupos Temáticos
           </h2>
-          <p className="mt-2 text-lg text-gray-400">
+          <p className="mt-8 text-lg text-white">
             Todos os trabalhos do seminário são discutidos e avaliados dentro de
             grupos temáticos que tem como objetivo fomentar a discussão e
             diálogo dentro do contexto de um recorte específico, cada grupo faz
@@ -72,13 +76,12 @@ export function PrimaryFeatures() {
             sociais aplicadas
           </p>
         </div>
-        <div className="grid grid-cols-1 gap-4 py-12 sm:grid-cols-2">
+        <div className="grid grid-cols-1 gap-4 py-12 lg:grid-cols-3">
           <div>
             {Tgs.data
               .filter(
                 (area) =>
-                  area.name === 'Direito Privado e Público' ||
-                  area.name === 'Serviço Social'
+                  area.name === 'Direito Privado e Público'
               )
               .map((area) => {
                 return <Area area={area} key={area.name} />
@@ -88,8 +91,19 @@ export function PrimaryFeatures() {
             {Tgs.data
               .filter(
                 (area) =>
-                  area.name !== 'Direito Privado e Público' &&
-                  area.name !== 'Serviço Social'
+                  area.name === 'Ciências Administrativas' ||
+                  area.name === 'Economia' || area.name === 'Ciências Contábeis'
+              )
+              .map((area) => {
+                return <Area area={area} key={area.name} />
+              })}
+          </div>
+          <div>
+            {Tgs.data
+              .filter(
+                (area) =>
+                  area.name === 'Ciência da Informação' ||
+                  area.name === 'Turismo' || area.name === 'Serviço Social'
               )
               .map((area) => {
                 return <Area area={area} key={area.name} />
