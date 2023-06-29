@@ -7,6 +7,10 @@ import {
   UserPlusIcon,
   ArrowRightOnRectangleIcon,
 } from '@heroicons/react/24/solid'
+import DownloadSection from './DownloadSection'
+import { Unna } from 'next/font/google'
+
+const unna = Unna({ subsets: ['latin'], weight: '700' })
 
 export function Hero() {
   const actions = [
@@ -55,9 +59,9 @@ export function Hero() {
           </div>
         </div>
       </Container>
-      <div >
+      <div>
         <Container>
-          <img src='/divider.svg' className='w-full'   />
+          <img src="/divider.svg" className="w-full" />
           <div className="grid grid-cols-1 gap-3 py-8 md:grid-cols-5">
             {actions.map((action) => (
               <HeroCard
@@ -69,7 +73,7 @@ export function Hero() {
               />
             ))}
           </div>
-          <img src='/divider.svg' className='w-full'   />
+          <img src="/divider.svg" className="w-full" />
         </Container>
       </div>
       <Container>
@@ -96,6 +100,7 @@ export function Hero() {
           </p>
         </div>
       </Container>
+      <DownloadSection />
     </div>
   )
 }

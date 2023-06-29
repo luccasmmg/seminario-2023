@@ -3,6 +3,18 @@ export const Tgs = {
   error_info: 'Sem mensagem de erro',
   data: [
     {
+      name: 'Administração',
+      tgs: [
+        {
+          name: 'Estudos Críticos em Tecnologia da Informação',
+          syllabus:
+            'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
+          coordinators: '',
+          id: '64907c0f5995d60010a1e4db',
+        },
+      ],
+    },
+    {
       name: 'Administração Pública',
       tgs: [
         {
@@ -22,14 +34,54 @@ export const Tgs = {
       ],
     },
     {
-      name: 'Administração',
+      name: 'Ciência da Informação',
       tgs: [
         {
-          name: 'Estudos Críticos em Tecnologia da Informação',
+          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
           syllabus:
-            'Objetiva-se fomentar discussões que envolvam o impacto e a mediação da tecnologia da informação nos processos produtivos e nas relações de trabalho, apoiado por reflexões críticas das diversas vertentes teóricas. Temas de interesse: uberização do trabalho; plataformização na prática empreendedora; colonialismo digital; tecnologia da informação e gênero; gestão algorítmica e racismo; Inteligência artificial generativa baseada em grandes modelos de linguagem (ex. ChatGPT).',
+            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
           coordinators: '',
-          id: '64907c0f5995d60010a1e4db',
+          id: '649dda9855c6e80010777272',
+        },
+        {
+          name: 'Organização, Mediação, Tecnologia e Sociedade',
+          syllabus:
+            'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
+          coordinators: '',
+          id: '649ddab455c6e8001077728c',
+        },
+      ],
+    },
+    {
+      name: 'Ciências Contábeis',
+      tgs: [
+        {
+          name: 'Contabilidade para Usuários Externos',
+          syllabus:
+            'Contabilidade Societária, Análise das demonstrações contábeis, IFRS, Tributação, Auditoria e Perícia Contábil, Educação Fiscal.',
+          coordinators: 'Raimundo Marciano de Freitas Neto',
+          id: '64907b445995d60010a1e3ca',
+        },
+        {
+          name: 'Contabilidade para os usuários internos',
+          syllabus:
+            'Sistemas de Informação, Controles de Gestão, Custos, Análise de custos, Custeio da Qualidade, Orçamento empresarial, Avaliação de desempenho, informação de custo.',
+          coordinators: 'EDZANA ROBERTA FERREIRA DA CUNHA VIEIRA LUCENA',
+          id: '64907b575995d60010a1e3e3',
+        },
+        {
+          name: 'Educação e Pesquisa em Contabilidade',
+          syllabus:
+            'Formação do Contador; Processo de ensino-aprendizagem; Estilos e Estratégias de Aprendizagem em Ciências Contábeis; Avaliação de aprendizagem; Tecnologia da Educação: Educação online; métodos de pesquisa qualitativa e quantitativa em contabilidade; Perfil e Evolução do egresso; Expectativas de mercado e do curso de Ciências Contábeis; Avaliação de programas educacionais.',
+          coordinators: '',
+          id: '64907b7f5995d60010a1e3fc',
+        },
+        {
+          name: 'Contabilidade pública e Auditoria aplicados ao setor público',
+          syllabus:
+            'Contabilidade governamental, Orçamento público, Análise financeira governamental, qualidade do gasto público e Auditoria aplicados ao setor público',
+          coordinators: '',
+          id: '64907b895995d60010a1e415',
         },
       ],
     },
@@ -37,9 +89,9 @@ export const Tgs = {
       name: 'Direito',
       tgs: [
         {
-          name: 'Processo Civil Contemporâneo\n(Processo Internacional; Processo Constitucional; Novas dimensões do Processo Civil)',
+          name: 'Processo Civil Contemporâneo',
           syllabus:
-            'O direito processual tem ganhado novos contornos na contemporaneidade, em especial no que toca aos novos instrumentos processuais, ampliação de sua aplicação territorial e dinamização do processo nos Tribunais Superiores. O estudo dessas novas perspectivas, aliadas aos fundamentos tradicionais do processo é fundamental para a obtenção de um processo efetivo, eficiente e célere.',
+            'Processo Internacional; Processo Constitucional; Novas dimensões do Processo Civil. O direito processual tem ganhado novos contornos na contemporaneidade, em especial no que toca aos novos instrumentos processuais, ampliação de sua aplicação territorial e dinamização do processo nos Tribunais Superiores. O estudo dessas novas perspectivas, aliadas aos fundamentos tradicionais do processo é fundamental para a obtenção de um processo efetivo, eficiente e célere.',
           coordinators: '',
           id: '64907cf45995d60010a1e50d',
         },
@@ -51,30 +103,30 @@ export const Tgs = {
           id: '64907cfa5995d60010a1e526',
         },
         {
-          name: 'Direito, desenvolvimento e inovação tecnológica\n(Direito Digital e proteção de dados pessoais; Direito e Governança institucional; Direito e desenvolvimento sustentável)',
+          name: 'Direito, desenvolvimento e inovação tecnológica',
           syllabus:
-            'Iniciativa multidisciplinar que se dedica a explorar e abordar os desafios legais e éticos relacionados ao avanço tecnológico, para  garantir que a inovação seja conduzida dentro de um quadro legal adequado e que as questões éticas e sociais sejam consideradas para promover um desenvolvimento tecnológico responsável. Promove discussões e pesquisas  que abordem questões legais e éticas, inclusive ambientais,  relacionadas à inovação tecnológica, para examinar as implicações legais e regulatórias de novas tecnologias e como essas inovações podem afetar os direitos individuais, o trabalho, as práticas comerciais, a privacidade, a segurança e outros aspectos sociais e  legais das instituições.',
+            'Direito Digital e proteção de dados pessoais; Direito e Governança institucional; Direito e desenvolvimento sustentável. Iniciativa multidisciplinar que se dedica a explorar e abordar os desafios legais e éticos relacionados ao avanço tecnológico, para  garantir que a inovação seja conduzida dentro de um quadro legal adequado e que as questões éticas e sociais sejam consideradas para promover um desenvolvimento tecnológico responsável. Promove discussões e pesquisas  que abordem questões legais e éticas, inclusive ambientais,  relacionadas à inovação tecnológica, para examinar as implicações legais e regulatórias de novas tecnologias e como essas inovações podem afetar os direitos individuais, o trabalho, as práticas comerciais, a privacidade, a segurança e outros aspectos sociais e  legais das instituições.',
           coordinators: 'Anderson Souza da Silva Lanzillo',
           id: '64907d095995d60010a1e53f',
         },
         {
-          name: 'Direito Internacional e sua concretização no âmbito doméstico (Direito Internacional; Direito Internacional e Jurisdição)',
+          name: 'Direito Internacional e sua concretização no âmbito doméstico',
           syllabus:
-            'A relação entre a ordem jurídica estatal e o direito internacional apresenta-se como um tema bastante relevante para se compreender a concretização dos direitos na América Latina. Sem embargo, Constituições de países latino-americanos e decisões de Cortes e Tribunais Constitucionais pavimentaram um caminho de razoável abertura e diálogo com a Cortes e Tribunais internacionais. Nesse contexto, eis que se levanta a seguinte problemática: as decisões das Cortes e Tribunais latino-americanos reconhecem a devida relevância ao direito internacional? Para tentar responder a presente indagação, o presente GT tem por objeto avaliar trabalhos acadêmicos que possam contribuir para o debate acerca da atuação dos tribunais domésticos em matéria de concretização do direito internacional. O presente GT vincula-se ao Programa de Pós-Graduação em Direito (PPGD/UFRN), notadamente a sua linha 3 - Direito Internacional e Concretização de Direitos - e aos Grupo de Pesquisa Direito Internacional dos Direitos Humanos e as Pessoas em Situação de Vulnerabilidade (CNPq/UFRN) e Observatório de Direito Internacional do Rio Grande do Norte (OBDI/UFRN), bem como aos projetos de pesquisa "Direito Internacional e Jurisdição" e "O Direito Internacional dos Direitos Humano e sua Concretização no Âmbito Doméstico".',
+            'Direito Internacional; Direito Internacional e Jurisdição. A relação entre a ordem jurídica estatal e o direito internacional apresenta-se como um tema bastante relevante para se compreender a concretização dos direitos na América Latina. Sem embargo, Constituições de países latino-americanos e decisões de Cortes e Tribunais Constitucionais pavimentaram um caminho de razoável abertura e diálogo com a Cortes e Tribunais internacionais. Nesse contexto, eis que se levanta a seguinte problemática: as decisões das Cortes e Tribunais latino-americanos reconhecem a devida relevância ao direito internacional? Para tentar responder a presente indagação, o presente GT tem por objeto avaliar trabalhos acadêmicos que possam contribuir para o debate acerca da atuação dos tribunais domésticos em matéria de concretização do direito internacional. O presente GT vincula-se ao Programa de Pós-Graduação em Direito (PPGD/UFRN), notadamente a sua linha 3 - Direito Internacional e Concretização de Direitos - e aos Grupo de Pesquisa Direito Internacional dos Direitos Humanos e as Pessoas em Situação de Vulnerabilidade (CNPq/UFRN) e Observatório de Direito Internacional do Rio Grande do Norte (OBDI/UFRN), bem como aos projetos de pesquisa "Direito Internacional e Jurisdição" e "O Direito Internacional dos Direitos Humano e sua Concretização no Âmbito Doméstico".',
           coordinators: 'Marco Bruno Miranda Clementino',
           id: '64907d145995d60010a1e558',
         },
         {
-          name: 'Direitos sociais na contemporaneidade\n(Direto do Trabalho; Seguridade; Assistência Social)',
+          name: 'Direitos sociais na contemporaneidade',
           syllabus:
-            'A sociedade capitalista moderna e as relações sociais que ela engendra têm colocado várias questões e desafios para o estabelecimento, proteção e garantia de direitos sociais. Antes amparados em uma concepção de estado de Bem-estar Social e de relações de solidariedade, o Estado atual na feição neoliberal põe a primazia do indivíduo muitas vezes em detrimento social, o que tem impactado e transfigurado os direitos sociais (reforma trabalhista, reforma da previdência e seguridade social, precarização das relações de trabalho). Diante disto, este GT quer discutir a situação dos direitos sociais face ao contexto atual, especialmente temas como a precarização das relações do trabalho, a luta pelo trabalho decente, combate ao trabalho infantil e ao assédio, a proteção constitucional do trabalhador e os direitos assistenciais.',
+            'Direto do Trabalho; Seguridade; Assistência Social. A sociedade capitalista moderna e as relações sociais que ela engendra têm colocado várias questões e desafios para o estabelecimento, proteção e garantia de direitos sociais. Antes amparados em uma concepção de estado de Bem-estar Social e de relações de solidariedade, o Estado atual na feição neoliberal põe a primazia do indivíduo muitas vezes em detrimento social, o que tem impactado e transfigurado os direitos sociais (reforma trabalhista, reforma da previdência e seguridade social, precarização das relações de trabalho). Diante disto, este GT quer discutir a situação dos direitos sociais face ao contexto atual, especialmente temas como a precarização das relações do trabalho, a luta pelo trabalho decente, combate ao trabalho infantil e ao assédio, a proteção constitucional do trabalhador e os direitos assistenciais.',
           coordinators: 'Anderson Souza da Silva Lanzillo',
           id: '64907d1f5995d60010a1e571',
         },
         {
-          name: 'Internet, Tecnologia e Sociedade no Contexto da Defesa dos Direitos Humanos (Direito Digital; LGPD e IA; Regulação das Plataformas; Discurso de ódio e desinformação)',
+          name: 'Internet, Tecnologia e Sociedade no Contexto da Defesa dos Direitos Humanos',
           syllabus:
-            'A proposta do GT é a de acolher as mais variadas pesquisas sobre a interface entre Internet e Sociedade, a partir da ótica da defesa dos Direitos Humanos. Serão acolhidos trabalhos das mais variadas searas, de modo a motivar a interdisciplinaridade e saberes transversais.\n',
+            'Direito Digital; LGPD e IA; Regulação das Plataformas; Discurso de ódio e desinformação. A proposta do GT é a de acolher as mais variadas pesquisas sobre a interface entre Internet e Sociedade, a partir da ótica da defesa dos Direitos Humanos. Serão acolhidos trabalhos das mais variadas searas, de modo a motivar a interdisciplinaridade e saberes transversais.\n',
           coordinators: '',
           id: '64907d2c5995d60010a1e58a',
         },
@@ -134,54 +186,14 @@ export const Tgs = {
       ],
     },
     {
-      name: 'Ciências Contábeis',
+      name: 'Transdisciplinar',
       tgs: [
         {
-          name: 'Contabilidade para Usuários Externos',
+          name: 'Casos para ensino',
           syllabus:
-            'Contabilidade Societária, Análise das demonstrações contábeis, IFRS, Tributação, Auditoria e Perícia Contábil, Educação Fiscal.',
-          coordinators: 'Raimundo Marciano de Freitas Neto',
-          id: '64907b445995d60010a1e3ca',
-        },
-        {
-          name: 'Contabilidade para os usuários internos',
-          syllabus:
-            'Sistemas de Informação, Controles de Gestão, Custos, Análise de custos, Custeio da Qualidade, Orçamento empresarial, Avaliação de desempenho, informação de custo.',
-          coordinators: 'EDZANA ROBERTA FERREIRA DA CUNHA VIEIRA LUCENA',
-          id: '64907b575995d60010a1e3e3',
-        },
-        {
-          name: 'Educação e Pesquisa em Contabilidade',
-          syllabus:
-            'Formação do Contador; Processo de ensino-aprendizagem; Estilos e Estratégias de Aprendizagem em Ciências Contábeis; Avaliação de aprendizagem; Tecnologia da Educação: Educação online; métodos de pesquisa qualitativa e quantitativa em contabilidade; Perfil e Evolução do egresso; Expectativas de mercado e do curso de Ciências Contábeis; Avaliação de programas educacionais.',
+            'A apresentação do caso refere-se ao relato descritivo da situação e do problema a…podendo a critério do autor se subdividir. Uma boa apresentação do caso deve apresentar: uma introdução definindo o problema a ser investigado e…que requeiram análise para resolver uma questão específica.',
           coordinators: '',
-          id: '64907b7f5995d60010a1e3fc',
-        },
-        {
-          name: 'Contabilidade pública e Auditoria aplicados ao setor público',
-          syllabus:
-            'Contabilidade governamental, Orçamento público, Análise financeira governamental, qualidade do gasto público e Auditoria aplicados ao setor público',
-          coordinators: '',
-          id: '64907b895995d60010a1e415',
-        },
-      ],
-    },
-    {
-      name: 'Ciência da Informação',
-      tgs: [
-        {
-          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
-          syllabus:
-            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
-          coordinators: '',
-          id: '649dda9855c6e80010777272',
-        },
-        {
-          name: 'Organização, Mediação, Tecnologia e Sociedade',
-          syllabus:
-            'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
-          coordinators: '',
-          id: '649ddab455c6e8001077728c',
+          id: '649df0a355c6e80010777470',
         },
       ],
     },

@@ -42,15 +42,18 @@ function Area({ area }) {
         {area.name}
       </h3>
       {area.tgs.map((tg) => {
-        return <div  key={tg.id} className="py-2"><Tg tg={tg} /></div>
+        return (
+          <div key={tg.id} className="py-2">
+            <Tg tg={tg} />
+          </div>
+        )
       })}
     </div>
   )
 }
 import { Unna } from 'next/font/google'
- 
-const unna = Unna({ subsets: ['latin'], weight: '700' })
 
+const unna = Unna({ subsets: ['latin'], weight: '700' })
 
 export function PrimaryFeatures() {
   const tgs = Tgs
@@ -59,13 +62,17 @@ export function PrimaryFeatures() {
       id="features"
       aria-label="Features for investing all your money"
       className="py-20 sm:py-32"
-      style={{ backgroundColor:'rgb(30, 41, 59);',
-      backgroundImage: 'radial-gradient(at 7% 85%, #00002E, transparent 100%), radial-gradient(at 61% 13%,  #B5191E, transparent 100%), radial-gradient(at 88% 83%,  #6B0B0C, transparent 100%), radial-gradient(at 87% 10%,  #6B0B0C, transparent 100%);'
-    }}
+      style={{
+        backgroundColor: 'rgb(30, 41, 59);',
+        backgroundImage:
+          'radial-gradient(at 7% 85%, #00002E, transparent 100%), radial-gradient(at 61% 13%,  #B5191E, transparent 100%), radial-gradient(at 88% 83%,  #6B0B0C, transparent 100%), radial-gradient(at 87% 10%,  #6B0B0C, transparent 100%);',
+      }}
     >
       <Container>
         <div className="mx-auto lg:mx-0">
-          <h2 className={`text-6xl  max-w-2xl  lg:max-w-3xl font-medium tracking-tight text-white ${unna.className}`}>
+          <h2
+            className={`max-w-2xl  text-6xl  font-medium tracking-tight text-white lg:max-w-3xl ${unna.className}`}
+          >
             Grupos Temáticos
           </h2>
           <p className="mt-8 text-lg text-white">
@@ -77,38 +84,9 @@ export function PrimaryFeatures() {
           </p>
         </div>
         <div className="grid grid-cols-1 gap-4 py-12 lg:grid-cols-3">
-          <div>
-            {Tgs.data
-              .filter(
-                (area) =>
-                  area.name === 'Direito Privado e Público' || area.name === 'Administração Pública'
-              )
-              .map((area) => {
-                return <Area area={area} key={area.name} />
-              })}
-          </div>
-          <div>
-            {Tgs.data
-              .filter(
-                (area) =>
-                  area.name === 'Economia' || area.name === 'Ciências Contábeis'
-              )
-              .map((area) => {
-                return <Area area={area} key={area.name} />
-              })}
-          </div>
-          <div>
-            {Tgs.data
-              .filter(
-                (area) =>
-                  area.name === 'Ciência da Informação' ||
-                  area.name === 'Administração' ||
-                  area.name === 'Turismo' || area.name === 'Serviço Social'
-              )
-              .map((area) => {
-                return <Area area={area} key={area.name} />
-              })}
-          </div>
+          {Tgs.data.map((area) => {
+            return <Area area={area} key={area.name} />
+          })}
         </div>
       </Container>
     </section>
