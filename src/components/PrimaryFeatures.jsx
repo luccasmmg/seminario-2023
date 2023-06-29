@@ -54,6 +54,7 @@ const unna = Unna({ subsets: ['latin'], weight: '700' })
 
 export function PrimaryFeatures() {
   const tgs = Tgs
+  console.log(tgs)
   return (
     <section
       id="features"
@@ -81,7 +82,7 @@ export function PrimaryFeatures() {
             {Tgs.data
               .filter(
                 (area) =>
-                  area.name === 'Direito Privado e Público'
+                  area.name === 'Direito Privado e Público' || area.name === 'Administração Pública'
               )
               .map((area) => {
                 return <Area area={area} key={area.name} />
@@ -91,7 +92,6 @@ export function PrimaryFeatures() {
             {Tgs.data
               .filter(
                 (area) =>
-                  area.name === 'Ciências Administrativas' ||
                   area.name === 'Economia' || area.name === 'Ciências Contábeis'
               )
               .map((area) => {
@@ -103,6 +103,7 @@ export function PrimaryFeatures() {
               .filter(
                 (area) =>
                   area.name === 'Ciência da Informação' ||
+                  area.name === 'Administração' ||
                   area.name === 'Turismo' || area.name === 'Serviço Social'
               )
               .map((area) => {

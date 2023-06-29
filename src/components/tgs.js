@@ -3,7 +3,7 @@ export const Tgs = {
   error_info: 'Sem mensagem de erro',
   data: [
     {
-      name: 'Ciências Administrativas',
+      name: 'Administração Pública',
       tgs: [
         {
           name: 'Governança na Administração Pública',
@@ -12,6 +12,11 @@ export const Tgs = {
           coordinators: 'Marconi Neves Macedo',
           id: '64907c055995d60010a1e4c2',
         },
+      ],
+    },
+    {
+      name: 'Administração',
+      tgs: [
         {
           name: 'Estudos Críticos em Tecnologia da Informação',
           syllabus:
@@ -165,52 +170,18 @@ export const Tgs = {
       name: 'Ciência da Informação',
       tgs: [
         {
-          name: 'Estudos Históricos e Epistemológicos da Biblioteconomia e da Ciência da Informação(Pendente de confirmação)',
+          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
           syllabus:
-            'Estudos Históricos e Epistemológicos da Biblioteconomia e da Ciência da Informação. Constituição do campo científico e discussões sobre o objeto de estudo da Biblioteconomia e da Ciência da Informação. Reflexões sobre disciplinaridade, interdisciplinaridade e transdisciplinaridade, assim como a construção do conhecimento na área. Estudos sobre perfil, formação, competências profissionais e mercado de trabalho. Teóricos e teorias da Biblioteconomia e da Ciência da Informação.',
-          coordinators:
-            'Gabrielle Francinne de Souza Carvalho Tanus, Antônia Neta, Francisco Araújo',
-          id: '5c262050322746000f6ed83c',
+            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
+          coordinators: '',
+          id: '649dda9855c6e80010777272',
         },
         {
-          name: 'Gestão da Informação e Conhecimento(Pendente de confirmação)',
+          name: 'Organização, Mediação, Tecnologia e Sociedade',
           syllabus:
-            'Gestão de ambientes, sistemas, unidades, serviços e produtos de informação. Curadoria de conteúdos. Estudos de fluxos, processos, uso e usuários da informação como instrumentos de gestão. Gestão do conhecimento, aprendizagem organizacional e redes sociais. Marketing da informação. Monitoramento ambiental e inteligência competitiva. Gestão documental. Segurança da informação. Empreendedorismo informacional.\n',
-          coordinators:
-            'Andréa Carvalho, Pedro Neto, Luciana Moreira, Eliane Ferreira da Silva',
-          id: '5c262058322746000f6ed84a',
-        },
-        {
-          name: 'Informação, Tecnologia e Mediação(Pendente de confirmação)',
-          syllabus:
-            'Planejamento, implantação e avaliação de produtos e serviços de informação. Redes, recursos e fontes de informação. Estudo dos processos e das relações entre mediação, circulação e apropriação de informações, em diferentes contextos. Tecnologias de Informação e Comunicação. Redes sociais. Repositórios digitais. Curadoria de conteúdos. Arquitetura da informação.',
-          coordinators:
-            'Fernando Luiz Vechiato, Gabrielle Francinne de Souza Carvalho Tanus, Jacqueline Souza, Andréa Carvalho',
-          id: '5c26205f322746000f6ed858',
-        },
-        {
-          name: 'Organização e Representação do Conhecimento(Pendente de confirmação)',
-          syllabus:
-            'Teorias, metodologias e práticas relacionadas à organização e representação de documentos e da informação em ambiências informacionais, tais como: arquivos, bibliotecas, museus e centros de documentação. Compreende estudos relacionados aos processos, produtos e instrumentos de representação do conhecimento bem como estudos de análise da informação.',
-          coordinators:
-            'Francisco Araújo, Jacqueline Souza, Monica Marques Carvalho Gallotti, Nancy Sanchez Tarrago, Malkene Wytiza Freire de Medeiros Noronha',
-          id: '5c262069322746000f6ed866',
-        },
-        {
-          name: 'Informação e Sociedade(Pendente de confirmação)',
-          syllabus:
-            'Políticas de informação e suas expressões em diferentes campos. Sociedade da informação. Informação, Estado e governo. Propriedade intelectual. Acesso à informação. Economia política da informação e da comunicação; produção colaborativa. Informação, conhecimento e inovação. Inclusão informacional e inclusão digital. Ética e informação. Informação e meio ambiente.',
-          coordinators:
-            'Luciana Moreira, Gabrielle Francinne de Souza Carvalho Tanus, Pedro Neto, Ana Cláudia Ribeiro',
-          id: '5c262071322746000f6ed874',
-        },
-        {
-          name: 'Produção Científica e Estudos Métricos da Informação(Pendente de confirmação)',
-          syllabus:
-            'Produção, comunicação e uso da informação em Ciência, Tecnologia e Inovação. Métodos de avaliação: Bibliometria, Cientometria, Informetria, Webometria, Cibermetria, Altmetria, Arquivometria. Repositórios digitais. Movimento Open Access. Ciência aberta.',
-          coordinators:
-            'Nancy Sanchez Tarrago, Monica Marques Carvalho Gallotti',
-          id: '5c26207d322746000f6ed882',
+            'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
+          coordinators: '',
+          id: '649ddab455c6e8001077728c',
         },
       ],
     },
