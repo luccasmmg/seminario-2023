@@ -34,7 +34,7 @@ export const Tgs = {
       ],
     },
     {
-      name: 'Direito Privado e Público',
+      name: 'Direito',
       tgs: [
         {
           name: 'Processo Civil Contemporâneo\n(Processo Internacional; Processo Constitucional; Novas dimensões do Processo Civil)',
