@@ -38,6 +38,13 @@ export const Tgs = {
           coordinators: '',
           id: '64907c315995d60010a1e4f4',
         },
+        {
+          name: 'Gestão Social e Políticas Públicas',
+          syllabus:
+            'Este grupo de trabalho tem como objetivo discutir estudos e pesquisas sobre  processos e tendências do campo da gestão social e suas interfaces com as políticas públicas e práticas sociais com ênfase nas áreas da educação alimentar e nutricional, economia solidária, agricultura familiar e reforma agrária. Busca abranger também trabalhos que discutam teorias, metodologias e experiências concretas de ações públicas ou de organizações da sociedade civil que estimulam o desenvolvimento sustentável  no Rio Grande do Norte e no Brasil.',
+          coordinators: '',
+          id: '64907c315995d60010a1e4f4',
+        },
       ],
     },
     {
