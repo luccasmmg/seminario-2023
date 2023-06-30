@@ -190,6 +190,20 @@ export const Tgs = {
           coordinators: '',
           id: '64907bf75995d60010a1e4a9',
         },
+        {
+          name: 'Direitos Humanos, Diversidade Humana e Serviço Social',
+          syllabus:
+            'Consiste num espaço de socialização de estudos e pesquisas na área de Serviço\nSocial e áreas afins, e tem como principal objetivo contribuir com a reflexão\ncrítica sobre: Trabalho em sentido ontológico e histórico; Serviço Social; Cultura;\nFeminismo; Formação Profissional e Trabalho do/a Assistente Social na defesa\ndos direitos e da diversidade. Os processos de violação dos direitos humanos e\nda diversidade humana na sociedade capitalista, considerando, dentre outras,\nas seguintes expressões: gênero; orientação sexual; identidade e expressão de\ngênero; raça-etnia; geração; anticapacitismo.',
+          coordinators: '',
+          id: '649f0a1786a45000101296c1',
+        },
+        {
+          name: 'Questão Urbana Agrária, Ambiental, Movimentos Sociais e Serviço Social',
+          syllabus:
+            'Consiste num espaço de socialização de estudos e pesquisas na área de Serviço\nSocial e áreas afins e tem como principal objetivo a contribuição à reflexão crítica\nde pesquisas que estudam as seguintes temáticas: Trabalho; Serviço Social e\nformas de produção e reprodução capitalista. Organização das classes sociais:\nmovimentos sociais; partidos políticos; comunicação e mídia. Questão Urbana\nAgrária, propriedade privada da terra; Questão Socioambiental.',
+          coordinators: '',
+          id: '649f0a2186a45000101296db',
+        },
       ],
     },
     {

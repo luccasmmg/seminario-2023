@@ -4,11 +4,15 @@ import { Unna } from 'next/font/google'
 
 const unna = Unna({ subsets: ['latin'], weight: '700' })
 
-function DownloadButton({ href, title }) {
+function DownloadButton({ href, title, subtitle, centerItem = false }) {
   return (
     <Link href={href} passHref>
       <div className="group flex cursor-pointer flex-col items-start justify-center gap-y-1">
-        <div className="flex w-fit flex-col items-start">
+        <div
+          className={`flex w-fit flex-col ${
+            centerItem ? 'items-start md:items-center' : 'items-start'
+          }`}
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -25,6 +29,11 @@ function DownloadButton({ href, title }) {
           <span className="ml-2 text-sm font-semibold text-slate-800 transition-all duration-500 ease-in-out group-hover:text-red-900">
             {title}
           </span>
+          {subtitle && (
+            <span className="ml-2 text-sm font-semibold text-slate-800 transition-all duration-500 ease-in-out group-hover:text-red-900">
+              {subtitle}
+            </span>
+          )}
         </div>
       </div>
     </Link>
@@ -39,20 +48,22 @@ export default function DownloadSection() {
       >
         Normas e templates
       </h2>
-      <div className="flex flex-col items-start gap-x-8 pt-8 sm:flex-row">
-        <DownloadButton title="Normas" href="/documents/normas.pdf" />
-        <DownloadButton
-          title="Template para Pôster"
-          href="/documents/template_poster.pptx"
-        />
-        <DownloadButton
-          title="Template para Artigo"
-          href="/documents/template_artigo.docx"
-        />
-        <DownloadButton
-          title="Template para Casos para Ensino"
-          href="/documents/template_casos_para_ensino.docx"
-        />
+      <div className="grid grid-cols-2">
+        <div className="grid grid-cols-1 items-start gap-x-8 pt-8 sm:grid-cols-2 lg:grid-cols-4">
+          <DownloadButton title="Normas" href="/documents/normas.pdf" />
+          <DownloadButton
+            title="Template para Pôster"
+            href="/documents/template_poster.pptx"
+          />
+          <DownloadButton
+            title="Template para Artigo"
+            href="/documents/template_artigo.docx"
+          />
+          <DownloadButton
+            title="Template para Casos para Ensino"
+            href="/documents/template_casos_para_ensino.docx"
+          />
+        </div>
       </div>
       <h2
         className={`max-w-2xl pt-12  text-6xl font-medium tracking-tight text-red-900 lg:max-w-3xl ${unna.className}`}
