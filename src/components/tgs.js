@@ -12,6 +12,13 @@ export const Tgs = {
           coordinators: '',
           id: '64907c0f5995d60010a1e4db',
         },
+        {
+          name: 'Estratégia e Gestão Organizacional',
+          syllabus:
+            'estudo do processo da administração estratégica com ênfase nos desafios para implementação, geração da vantagem competitiva e desempenho para criação de valor, gestão de processos e projetos estratégicos, abrangendo pesquisas com diferentes abordagens teóricas e metodológicas, em diferentes contextos e tipos de organizações, públicas ou privadas, e/ou em setores específicos.',
+          coordinators: '',
+          id: '649e10f455c6e800107776fe',
+        },
       ],
     },
     {
