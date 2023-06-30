@@ -48,22 +48,20 @@ export default function DownloadSection() {
       >
         Normas e templates
       </h2>
-      <div className="grid grid-cols-2">
-        <div className="grid grid-cols-1 items-start gap-x-8 pt-8 sm:grid-cols-2 lg:grid-cols-4">
-          <DownloadButton title="Normas" href="/documents/normas.pdf" />
-          <DownloadButton
-            title="Template para Pôster"
-            href="/documents/template_poster.pptx"
-          />
-          <DownloadButton
-            title="Template para Artigo"
-            href="/documents/template_artigo.docx"
-          />
-          <DownloadButton
-            title="Template para Casos para Ensino"
-            href="/documents/template_casos_para_ensino.docx"
-          />
-        </div>
+      <div className="grid grid-cols-1 items-start gap-x-8 pt-8 sm:grid-cols-2 lg:grid-cols-8">
+        <DownloadButton title="Normas" href="/documents/normas.pdf" />
+        <DownloadButton
+          title="Template para Pôster"
+          href="/documents/template_poster.pptx"
+        />
+        <DownloadButton
+          title="Template para Artigo"
+          href="/documents/template_artigo.docx"
+        />
+        <DownloadButton
+          title="Template para Casos para Ensino"
+          href="/documents/template_casos_para_ensino.docx"
+        />
       </div>
       <h2
         className={`max-w-2xl pt-12  text-6xl font-medium tracking-tight text-red-900 lg:max-w-3xl ${unna.className}`}
