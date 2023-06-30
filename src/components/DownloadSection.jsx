@@ -8,7 +8,7 @@ function DownloadButton({ href, title }) {
   return (
     <Link href={href} passHref>
       <div className="group flex cursor-pointer flex-col items-start justify-center gap-y-1">
-        <div className="flex w-fit flex-col items-center">
+        <div className="flex w-fit flex-col items-start">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
