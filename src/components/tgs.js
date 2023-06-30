@@ -143,40 +143,46 @@ export const Tgs = {
       name: 'Economia',
       tgs: [
         {
-          name: 'Análise Econômica Multissetorial, Estratégica e Conjuntural(Pendente de confirmação)',
-          syllabus:
-            'Estudo das relações entre as atividades econômicas, o qual é realizado por meio de modelos multissetoriais, e das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional.   Estimativas   de   matrizes   insumo-produto, nacional   e/ou   estadual.   Análise   das   relações   econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil   tipicamente   relacionada   a  médios  e   longos  prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.',
-          coordinators:
-            'André Luís Cabral Lourenço, Fabrício Pitombo Leite, William Eufrasio Nunes Pereira, Denílson da Silva Araújo',
-          id: '5c261fba322746000f6ed794',
-        },
-        {
-          name: 'Grupo Interdisciplinar de Estudos e Avaliação de Políticas Públicas (GIAPP)(Pendente de confirmação)',
-          syllabus:
-            'As contribuições acadêmicas sobre avaliação e análise de políticas públicas, inclusive: avaliação de produtos, efeitos e impactos das diversas políticas como saúde, educação, agricultura, assistência social etc.',
-          coordinators: 'João Matos Filho, Lincoln Moraes de Souza',
-          id: '5c261fca322746000f6ed7b0',
-        },
-        {
-          name: 'Estudos e Pesquisas em Espaço, Trabalho, Inovação e Sustentabilidade(Pendente de confirmação)',
+          name: 'Estudos e Pesquisas em Espaço, Trabalho, Inovação e Sustentabilidade',
           syllabus:
             'Serão discutidas questões teóricas e políticas da economia regional e urbana, priorizando as análises que envolvam o trabalho, a inovação e a sustentabilidade nesses espaços.',
           coordinators: '',
-          id: '5c261fd1322746000f6ed7be',
+          id: '649f18020e9dba00104b11d1',
         },
         {
-          name: 'Análise   Econômica   Multissetorial,   Estratégica   e Conjuntural (Pendente de confirmação)',
+          name: 'Análise Econômica Multissetorial, Estratégica e Conjuntural.',
           syllabus:
-            'Estudo das relações entre as atividades econômicas, o qual é   realizado   por   meio   de   modelos   multissetoriais,   e   das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional.   Estimativas   de   matrizes   insumo-produto, nacional   e/ou   estadual.   Análise   das   relações   econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil   tipicamente   relacionada   a  médios  e   longos  prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.',
-          coordinators: 'Diego de Maria André, Janaína da Silva Alves',
-          id: '5c261fd8322746000f6ed7cc',
+            'Estudo das relações entre as atividades econômicas, o qual é realizado por meio de modelos multissetoriais, e das consequências dessas inter-relações para a análise de um espaço econômico específico, seja um espaço nacional ou subnacional. Estimativas de matrizes insumo-produto, nacional e/ou estadual. Análise das relações econômicas intersetoriais para o espaço nacional, regional ou estadual. Análise conjuntural e estudos de análise estratégica para o Brasil tipicamente relacionada a médios e longos prazos. Modelos de consistência entre fluxos e estoques (stock-flow consistent - SFC) e modelos macroeconômicos em geral.',
+          coordinators: '',
+          id: '649f1b4e0e9dba00104b1309',
         },
         {
-          name: 'Núcleo de Estudos em Economia e Políticas para o Desenvolvimento Rural (NERUR)(Pendente de confirmação)',
+          name: 'Avaliação e Análise de Políticas  Públicas',
+          syllabus:
+            'As contribuições acadêmicas sobre avaliação e análise de políticas públicas, inclusive: avaliação de produtos, efeitos e impactos das diversas políticas como saúde, educação, agricultura, assistência social etc.',
+          coordinators: '',
+          id: '649f1b5c0e9dba00104b1323',
+        },
+        {
+          name: 'Métodos Quantitativos aplicados à Economia',
+          syllabus:
+            'Discutir as contribuições metodológicas quantitativas aplicadas à\nEconomia. Neste caso, pretende-se analisar temas como saúde, educação,\ncriminalidade, crescimento econômico, integração de mercados etc.,\nutilizando ferramentas estatísticas, matemáticas e econométricas que têm\nsido aplicadas na literatura nacional e internacional, a fim de trazer\ncontribuições ao desenvolvimento regional.',
+          coordinators: '',
+          id: '649f1b6c0e9dba00104b133d',
+        },
+        {
+          name: 'Estudos sobre agropecuária e desenvolvimento rural',
           syllabus:
             'Análise da heterogeneidade da agropecuária brasileira. Análise das formas de organização da produção da agricultura familiar e do agronegócio. Análise das políticas públicas voltadas para o meio rural. Análise das transformações do Sistema agroalimentar. As novas formas de produção, comercialização e distribuição dos produtos agroalimentares. Análise da Nova Geografia do meio Rural. Meio rural e sustentabilidade. Empreendedorismo no meio rural.',
-          coordinators: 'Thales Augusto Medeiros Penha',
-          id: '5c6ff79d444b78000fdf3774',
+          coordinators: '',
+          id: '649f1b760e9dba00104b1357',
+        },
+        {
+          name: 'Pobreza, Desigualdades e Insuficiência Socioeconômica no Brasil',
+          syllabus:
+            'O objetivo desse GT é discutir sobre a trajetória recente e os rumos do país quanto a sua condição estrutural de desigualdades, elevado nível de pobreza e de insuficiência socioeconômica a partir de uma visão multidimensional.',
+          coordinators: '',
+          id: '649f1b830e9dba00104b1371',
         },
       ],
     },
