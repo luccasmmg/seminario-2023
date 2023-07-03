@@ -197,7 +197,7 @@ export const Tgs = {
       name: 'Serviço Social',
       tgs: [
         {
-          name: 'Grupo de estudos e pesquisa em Questão Social,  Polícia Social e Serviço Social ',
+          name: 'Grupo de estudos e pesquisa em Questão Social, Política Social e Serviço Social ',
           syllabus:
             '"O grupo de estudos e pesquisas em Questão Social, Política Social e Serviço Social trabalha com os seguintes eixos temáticos: a) estudos voltados para articulação entre as determinações gerais da questão social contemporânea e a realidade local do Rio Grande do Norte e para o desvendamento de mecanismos que contribuem para a reprodução da desigualdade social, bem como o estágio de desenvolvimento das políticas sociais, da participação do Estado e dos movimentos sociais; b) estudos voltados a consubstanciar a análise dos elementos acima, com os rebatimentos na formação e exercício profissional do Serviço Social. Assim, visa ampliar o desenvolvimento da pesquisa na área do serviço social em torno das linhas de pesquisa definidas pelo Grupo. As pesquisas privilegiarão a interlocução com instituições acadêmicas e, aquelas que desenvolvem trabalhos sociais junto à população que estejam ancoradas na defesa da emancipação humana e dos direitos sociais.\n\nNossas linhas de pesquisa\nEstado, Sociedade, Políticas Sociais e Direitos\nServiço Social, Trabalho e Questão Social"',
           coordinators: '',
