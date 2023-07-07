@@ -47,7 +47,7 @@ function MobileNavLink({ children, ...props }) {
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-50 bg-red-900 shadow-sm">
+    <header className="sticky top-0 z-10 bg-red-900 shadow-sm">
       <nav>
         <Container className="relative z-50 flex justify-between py-6">
           <div className="relative z-10 flex items-center gap-16">
@@ -60,7 +60,9 @@ export function Header() {
               {({ open }) => (
                 <>
                   <Popover.Button
-                    className={`relative z-10 -m-2 inline-flex items-center rounded-lg ${open ? 'stroke-black' : 'stroke-white'} p-2 hover:bg-gray-200/50  active:stroke-gray-900 [&:not(:focus-visible)]:focus:outline-none`}
+                    className={`relative z-10 -m-2 inline-flex items-center rounded-lg ${
+                      open ? 'stroke-black' : 'stroke-white'
+                    } p-2 hover:bg-gray-200/50  active:stroke-gray-900 [&:not(:focus-visible)]:focus:outline-none`}
                     aria-label="Toggle site navigation"
                   >
                     {({ open }) =>
