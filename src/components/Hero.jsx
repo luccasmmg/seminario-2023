@@ -33,13 +33,13 @@ export function Hero() {
       icon: <CalendarDaysIcon className="h-6 w-6" />,
     },
     {
-      title: 'Inscreva-se',
+      title: 'Inscrição/Acesso',
       href: 'https://sigeva.ccsa.ufrn.br/event/649067933e3d350ff15a2522',
       icon: <UserPlusIcon className="h-6 w-6" />,
     },
     {
-      title: 'Acesse',
-      href: 'https://sigeva.ccsa.ufrn.br',
+      title: 'Cadastro de Voluntários',
+      href: 'https://docs.google.com/forms/d/e/1FAIpQLSdOLWiJhgRr6JRltulTOEhw3J1O9DFaF9njMapvYHSM3banYw/viewform?usp=sf_link',
       icon: <ArrowRightOnRectangleIcon className="h-6 w-6" />,
     },
   ]
