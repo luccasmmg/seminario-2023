@@ -45,6 +45,13 @@ export const Tgs = {
           coordinators: '',
           id: '64907c315995d60010a1e4f4',
         },
+        {
+          name: 'Inovação no Setor Público',
+          syllabus:
+            'Discutir trabalhos que abordem as inovações no campo da gestão pública e das políticas públicas, contribuindo para a disseminação das boas práticas e, com isso, com o fortalecimento do setor público e a melhoria nos serviços ofertados à população. Serão bem vindos trabalhos que abordem: inovação nos serviços públicos; inovação em políticas públicas; cocriação e coprodução públicas; laboratórios de inovação pública; redes e governança da inovação; transformação digital em governo; metodologias para a inovação; inovação aberta pública; capacidade e tendência para a inovação pública, entre outros. ',
+          coordinators: '',
+          id: '64affa51ea39bd00105a9be2',
+        },
       ],
     },
     {
