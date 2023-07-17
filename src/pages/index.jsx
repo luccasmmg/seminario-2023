@@ -94,7 +94,7 @@ export function PopUp() {
                             para atuarem no apoio ao evento
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 17/7</span> -
+                            <span className="font-bold">16/6 a 31/7</span> -
                             Submissão de propostas de minicursos, oficinas e
                             mesas-redondas
                           </li>
@@ -109,7 +109,7 @@ export function PopUp() {
                             apresentação de trabalhos
                           </li>
                           <li>
-                            <span className="font-bold">17/7 a 1/9</span> -
+                            <span className="font-bold">1/8 a 1/9</span> -
                             Inscrições (pagamento até o dia 30/8) em
                             conferências, minicursos, oficinas e mesasredondas
                           </li>
