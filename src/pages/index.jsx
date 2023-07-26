@@ -104,11 +104,6 @@ export function PopUp() {
                             para ensino)
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 21/8 </span> -
-                            Inscrições (pagamento até o dia 18/8) para a
-                            apresentação de trabalhos
-                          </li>
-                          <li>
                             <span className="font-bold">1/8 a 1/9</span> -
                             Inscrições (pagamento até o dia 30/8) em
                             conferências, minicursos, oficinas e mesasredondas
