@@ -117,6 +117,7 @@ export function PopUp() {
                       </div>
                     </div>
                   </div>
+                  <p className='text-sm'>Para mais informações entre em contato com suporteseminarioccsa@gmail.com</p>
                 </div>
               </Dialog.Panel>
             </Transition.Child>
