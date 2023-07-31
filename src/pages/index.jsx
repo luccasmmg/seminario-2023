@@ -94,12 +94,12 @@ export function PopUp() {
                             para atuarem no apoio ao evento
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 31/7</span> -
+                            <span className="font-bold">16/6 a 15/08</span> -
                             Submissão de propostas de minicursos, oficinas e
                             mesas-redondas
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 31/7</span> -
+                            <span className="font-bold">16/6 a 18/08</span> -
                             Submissão de trabalhos (pôsteres, artigos e casos
                             para ensino)
                           </li>
@@ -117,7 +117,10 @@ export function PopUp() {
                       </div>
                     </div>
                   </div>
-                  <p className='text-sm'>Para mais informações entre em contato com suporteseminarioccsa@gmail.com</p>
+                  <p className="text-sm">
+                    Para mais informações entre em contato com
+                    suporteseminarioccsa@gmail.com
+                  </p>
                 </div>
               </Dialog.Panel>
             </Transition.Child>
