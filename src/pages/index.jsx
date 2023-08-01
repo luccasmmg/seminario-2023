@@ -109,9 +109,8 @@ export function PopUp() {
                             conferências, minicursos, oficinas e mesasredondas
                           </li>
                           <li>
-                            <span className="font-bold">14/8 </span> -
-                            Comunicado de aceitação ou não dos trabalhos
-                            submetidos
+                            <span className="font-bold">1/9 </span> - Comunicado
+                            de aceitação ou não dos trabalhos submetidos
                           </li>
                         </ul>
                       </div>
