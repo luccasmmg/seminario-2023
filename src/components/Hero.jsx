@@ -16,8 +16,8 @@ export function Hero() {
   const actions = [
     {
       title: 'Programação',
-      subtitle: '(Em breve)',
-      href: '#',
+      subtitle: '',
+      href: '/programacao',
       icon: <CalendarIcon className="h-6 w-6" />,
     },
     {
