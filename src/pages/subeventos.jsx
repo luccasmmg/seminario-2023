@@ -20,14 +20,14 @@ export default function Home() {
         <Container>
           <div className="flex">
             <h2
-              className={`mx-auto  max-w-2xl text-6xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+              className={`mx-auto mt-8 max-w-2xl text-6xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
             >
               Subeventos
             </h2>
           </div>
           <div className="py-8">
             <h3
-              className={`mx-auto  max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+              className={`mx-auto max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
             >
               III Colóquio Feminismo Materialista: Feministas contra o
               capitalismo
@@ -160,7 +160,7 @@ export default function Home() {
             </Link>
           </div>
           <h3
-            className={`mx-auto  max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+            className={`mx-auto mt-8 max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
           >
             X Colóquio de Pesquisa em Ciência da Informação
           </h3>
@@ -250,9 +250,472 @@ export default function Home() {
           >
             Mais informações
           </Link>
+          <h3
+            className={`mx-auto  mt-8 max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            Colóquio 45 Anos de PPGA: A Administração no contexto da
+            inteligência artificial
+          </h3>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            12 de Set. Manhâ
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Adrianne Paula Vieira de Andrade (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Mesa-redonda: Pesquisando na era do ChatGPT: ferramentas e
+                  impactos
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Palestrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Profa. Anatalia Saraiva Martins Ramos – DEPAD/UFRN</li>
+                  <li>Prof. Elias Jacob de Medeiros Neto - IMD/UFRN</li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            12 de Set. Tarde
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Janaynna de Moura Ferraz (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Conferência de Abertura: Tecnologia e mundo do trabalho na
+                  administração: agenda de pesquisa
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Palestrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>
+                    Prof.a Dr.a Deise Luiza da Silva Ferraz - CEPEAD/UFMG.
+                  </li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            13 de Set. Tarde
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Janaynna de Moura Ferraz (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Mesa-redonda: Uberização do trabalho e empresas-plataforma
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Palestrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Profa. Janaynna de Moura Ferraz – DEPAD/UFRN</li>
+                  <li>Prof.a Dr.a Deise Luiza da Silva Ferraz - CEPEAD/UFMG</li>
+                  <li>
+                    Doutoranda Aline Francilurdes Nery do Vale – PPGA/UFRN
+                  </li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            14 de Set. Manhã
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Anatália Saraiva Martins Ramos (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Mesa-redonda: Diálogos sobre IA e o Trabalho do Amanhã: O
+                  Futuro em Debate
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Palestrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Profa. Janaynna de Moura Ferraz – DEPAD/UFRN</li>
+                  <li>Convidado externo - a confirmar</li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            12, 13, 14 de Set. Tarde
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Anatália Saraiva Martins Ramos (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>Minicurso: Introdução ao TextMining com uso do R</p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Ministrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Prof. Fernando Lhamas (EA/UFBA)</li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            14 de Set. Noite
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Janaynna de Moura Ferraz (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Oficina: Estudos críticos sobre a prática empreendedora:
+                  operacionalização de agenda de pesquisa
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Ministrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Profa. Janaynna de Moura Ferraz – DEPAD/UFRN</li>
+                  <li>Luana Borges – NIP/TraMa/UFRN</li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <h4
+            className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            15 de Set. Noite
+          </h4>
+          <div className="flex flex-col gap-y-2">
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Coordenação
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                Prof.a Dr.a Janaynna de Moura Ferraz (DEPAD- PPGA/UFRN)
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Conferência
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <p>
+                  Oficina: Estudos críticos sobre a prática empreendedora:
+                  operacionalização de agenda de pesquisa
+                </p>
+              </dd>
+            </div>
+            <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+              <dt className="text-sm font-medium leading-6 text-gray-900">
+                Ministrantes
+              </dt>
+              <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
+                <ul>
+                  <li>Profa. Janaynna de Moura Ferraz – DEPAD/UFRN</li>
+                  <li>Luana Borges – NIP/TraMa/UFRN</li>
+                </ul>
+              </dd>
+            </div>
+          </div>
+          <Link
+            href="/documents/subevents/coloquio_adm.pdf"
+            className={`max-w-2xl py-4 text-xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            Mais informações
+          </Link>
+          <h3
+            className={`mx-auto mt-8 max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            Ciclo de Debates em Administração Pública
+          </h3>
+          <div className="mt-8 flow-root">
+            <div className="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+              <div className="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
+                <div className="overflow-hidden shadow ring-1 ring-black ring-opacity-5 sm:rounded-lg">
+                  <table className="min-w-full divide-y divide-gray-300">
+                    <thead className="bg-gray-50">
+                      <tr>
+                        <th
+                          scope="col"
+                          className="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 sm:pl-6"
+                        >
+                          Data
+                        </th>
+                        <th
+                          scope="col"
+                          className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900"
+                        >
+                          Turno
+                        </th>
+                        <th
+                          scope="col"
+                          className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900"
+                        >
+                          Tipo
+                        </th>
+                        <th
+                          scope="col"
+                          className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900"
+                        >
+                          Título
+                        </th>
+                        <th
+                          scope="col"
+                          className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900"
+                        >
+                          Responsável
+                        </th>
+                        <th
+                          scope="col"
+                          className="px-3 py-3.5 text-left text-sm font-semibold text-gray-900"
+                        >
+                          Participantes
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-200 bg-white">
+                      {publicAdmActivities.map((item) => (
+                        <tr key={item.title}>
+                          <td className="py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
+                            {item.date}
+                          </td>
+                          <td className="px-3 py-4 text-sm text-gray-500">
+                            {item.turn}
+                          </td>
+                          <td className="px-3 py-4 text-sm text-gray-500">
+                            {item.type}
+                          </td>
+                          <td className="px-3 py-4 text-sm text-gray-500">
+                            {item.title}
+                          </td>
+                          <td className="px-3 py-4 text-sm text-gray-500">
+                            {item.responsible}
+                          </td>
+                          <td className="px-3 py-4 text-sm text-gray-500">
+                            {item.participants}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <Link
+            href="/documents/subevents/coloquio_adm_publica.pdf"
+            className={`max-w-2xl py-4 text-xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            Mais informações
+          </Link>
         </Container>
       </main>
       <Footer />
     </>
   )
 }
+
+const publicAdmActivities = [
+  {
+    date: '12/set',
+    turn: '03 Noite',
+    type: 'Conferência',
+    title:
+      'Integrando Carreira, Inovação e Tecnologia no Mundo do Trabalho Contemporâneo',
+    responsible: 'Marconi Macedo',
+    participants: 'Anielson Barbosa da Silva (UFPB)',
+  },
+  {
+    date: '13/set',
+    turn: '03 Noite',
+    type: 'Conferência',
+    title:
+      'Inteligência Artificial e seus Impactos nas Organizações Públicas - Ciclo de Debates em Administração Pública',
+    responsible:
+      'Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)',
+    participants:
+      'Joaquim Caeiro (ISCSP/ULisboa - Portugal) e Hironobu Sano (UFRN)',
+  },
+  {
+    date: '12/set',
+    turn: '02 Tarde',
+    type: 'Mesa Redonda',
+    title:
+      'Desmonte das Políticas Públicas no Brasil: desafios para sua reconstrução',
+    responsible: 'Arlete Araújo',
+    participants: 'Arlete Araújo, Marconi Macedo',
+  },
+  {
+    date: '13/set',
+    turn: '02 Tarde',
+    type: 'Mesa Redonda',
+    title:
+      'As atividades da CONAB e o seu impacto no Estado do RN: inteligência agropecuária',
+    responsible:
+      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
+    participants:
+      'Marconi Neves Macedo (mediador), Marcos Frederico Carrera Simões (debatedor), Sebastião José de Arruda Júnior (debatedor)',
+  },
+  {
+    date: '14/set',
+    turn: '01 Manhã',
+    type: 'Mesa Redonda',
+    title:
+      'Pessoas trans e mercado de trabalho: cenário, desafios e perspectivas',
+    responsible: 'Antonio Alves',
+    participants:
+      'Antônio Alves (UFRN), Thais Godeiro (SEPLAN/RN) e Rebecka de França (SEMJIDH/RN).',
+  },
+  {
+    date: '14/set',
+    turn: '03 Noite',
+    type: 'Mesa Redonda',
+    title:
+      'Estratégias de Inovação no Setor Público: o papel dos Laboratórios de Inovação- Ciclo de Debates em Administração Pública',
+    responsible:
+      'Thiago Dias e Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)',
+    participants:
+      'James Batista Vieira (UFPB), Thiago Dias (UFRN) e Hironobu Sano (UFRN)',
+  },
+  {
+    date: '12a14/set',
+    turn: '01 Manhã',
+    type: 'Minicurso',
+    title: 'O Ciclo de Políticas Públicas: conceitos básicos',
+    responsible: 'Arlete Araújo',
+    participants: 'Arlete Araújo',
+  },
+  {
+    date: '12a14/set',
+    turn: '02 Tarde',
+    type: 'Minicurso',
+    title: 'Prevenção do stress e autocuidado com a saúde mental',
+    responsible:
+      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
+    participants: 'Maria Teresa Pires Costa',
+  },
+  {
+    date: '14/set',
+    turn: '02 Tarde',
+    type: 'Oficina',
+    title: 'Qualidade de Vida e Bem-estar no trabalho',
+    responsible: 'Antonio Alves ',
+    participants: 'Antonio Alves ',
+  },
+  {
+    date: 'A definir',
+    turn: '02 Tarde',
+    type: 'Oficina',
+    title: 'Design Science Research: um método de pesquisa inovador',
+    responsible:
+      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
+    participants: 'Maria Teresa Pires Costa',
+  },
+  {
+    date: 'A definir',
+    turn: '03 Noite',
+    type: 'Oficina',
+    title:
+      'Revisão integrativa de literatura para decisões baseadas em evidências',
+    responsible:
+      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
+    participants: 'Maria Teresa Pires Costa',
+  },
+]

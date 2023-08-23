@@ -28,8 +28,8 @@ export function Hero() {
     },
     {
       title: 'Subeventos',
-      subtitle: '(Em breve)',
-      href: '#',
+      subtitle: '',
+      href: '/subeventos',
       icon: <CalendarDaysIcon className="h-6 w-6" />,
     },
     {
