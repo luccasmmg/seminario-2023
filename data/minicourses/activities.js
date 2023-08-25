@@ -3714,7 +3714,7 @@ export const minicourseActivities = [
       },
       code: 'MjbfcoQhqXlCdtZ',
       _id: '64c82a7eea39bd00105e0f14',
-      title: 'Introdução ao TextMining com uso do R',
+      title: 'Revisão da Literatura aprimorada com Text Mining',
       shift: 1,
       syllabus:
         'Conceitos básicos de processamento de linguagem natural e textmining, suas aplicações na pesquisa em ciências sociais e na gestão. Pré-processamento de Texto. Apresentação do Posit, R e R-Studio.',

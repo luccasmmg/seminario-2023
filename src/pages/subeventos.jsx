@@ -373,7 +373,7 @@ export default function Home() {
           <h4
             className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
           >
-            14 de Set. Manhã
+            13 de Set. Manhã
           </h4>
           <div className="flex flex-col gap-y-2">
             <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -390,8 +390,8 @@ export default function Home() {
               </dt>
               <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
                 <p>
-                  Mesa-redonda: Diálogos sobre IA e o Trabalho do Amanhã: O
-                  Futuro em Debate
+                  Mesa-redonda: Impacto da Inteligência Artificial na
+                  Empregabilidade: oportunidades e desafios
                 </p>
               </dd>
             </div>
@@ -401,8 +401,10 @@ export default function Home() {
               </dt>
               <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
                 <ul>
-                  <li>Profa. Janaynna de Moura Ferraz – DEPAD/UFRN</li>
-                  <li>Convidado externo - a confirmar</li>
+                  <li>Profa. Anatalia Ramos</li>
+                  <li>
+                    Prof. Luiz Pinheiro (Universidade Positivo - Curitiba)
+                  </li>
                 </ul>
               </dd>
             </div>
@@ -426,7 +428,9 @@ export default function Home() {
                 Conferência
               </dt>
               <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-                <p>Minicurso: Introdução ao TextMining com uso do R</p>
+                <p>
+                  Minicurso: Revisão da Literatura aprimorada com Text Mining
+                </p>
               </dd>
             </div>
             <div className="px-4 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
