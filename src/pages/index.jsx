@@ -84,7 +84,7 @@ export function PopUp() {
                         </p>
                         <ul className="space-y-1 py-4">
                           <li>
-                            <span className="font-bold">16/6 a 01/9</span> -
+                            <span className="font-bold">16/6 a 28/8</span> -
                             Cadastramento de voluntários discentes de
                             pósgraduação para avaliação de trabalhos
                           </li>
