@@ -52,6 +52,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64e732f3431f3e001045a605',
+          user: {
+            _id: '64ddf40f67aaa40010e49fe6',
+            name: 'LUANA RAQUEL NASCIMENTO DA SILVA',
+            email: 'luana.silva.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64e7d391431f3e0010464f13',
+          user: {
+            _id: '64e1126167aaa40010e70fc0',
+            name: 'Maria Eduarda Silva de Lima',
+            email: 'maeduardasdelima@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -219,6 +237,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64e92fea431f3e001047765d',
+          user: {
+            _id: '5aac84507b9ca4000fed9b0e',
+            email: 'carla.j.s@hotmail.com',
+            name: 'Carla Julia da Silva',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -284,6 +311,42 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64e7ccd5431f3e0010463b80',
+          user: {
+            _id: '64de273a67aaa40010e4d4b1',
+            name: 'Victória Letícia dos Santos',
+            email: 'victoria_leticia@live.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ebe24e431f3e001048c57c',
+          user: {
+            _id: '64c6d213ea39bd00105c9815',
+            name: 'Yasmin Carvalho Arcanjo da Silva',
+            email: 'yasarcanjo098@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ebf1f4431f3e001048d66f',
+          user: {
+            _id: '5cb742c84f5229000fc9b354',
+            email: 'julia_nogueira03@outlook.com',
+            name: 'JÚLIA MARIA DA SILVA NOGUEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec7de6431f3e0010493107',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -328,6 +391,24 @@ export const conferenceActivities = [
             _id: '64c97144ea39bd00105f05a5',
             name: 'Roseane Alves Silvestre',
             email: 'anirose888@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64e732db431f3e001045a5d6',
+          user: {
+            _id: '64ddf40f67aaa40010e49fe6',
+            name: 'LUANA RAQUEL NASCIMENTO DA SILVA',
+            email: 'luana.silva.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64e7d23d431f3e0010464c38',
+          user: {
+            _id: '64e1126167aaa40010e70fc0',
+            name: 'Maria Eduarda Silva de Lima',
+            email: 'maeduardasdelima@gmail.com',
           },
           present: false,
         },
@@ -385,6 +466,60 @@ export const conferenceActivities = [
             _id: '64c97144ea39bd00105f05a5',
             name: 'Roseane Alves Silvestre',
             email: 'anirose888@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64e92fff431f3e001047768f',
+          user: {
+            _id: '5aac84507b9ca4000fed9b0e',
+            email: 'carla.j.s@hotmail.com',
+            name: 'Carla Julia da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64e93fec431f3e0010478a75',
+          user: {
+            _id: '5aaffd537b9ca4000fedb568',
+            email: 'beatriz.tim@hotmail.com',
+            name: 'Anna Beatriz Valentim de Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64eb4846431f3e0010483cfb',
+          user: {
+            _id: '64e6957f431f3e00104582ff',
+            name: 'Ádria Laíse de Araújo Chaves',
+            email: 'adria.chaves.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eb7608431f3e0010485543',
+          user: {
+            _id: '64dfaf8067aaa40010e60172',
+            name: 'Gabriel Victor Souza de Medeiros',
+            email: 'gabriel.medeiros.084@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec756c431f3e001048f959',
+          user: {
+            _id: '64df7f3867aaa40010e5d0b2',
+            name: 'Jhonata Lopes Silva do Nascimento',
+            email: 'jhonata.lopes.078@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec79b0431f3e001049143d',
+          user: {
+            _id: '64e1562267aaa40010e73751',
+            name: 'Lucas Rodrigo Silva de Oliveira',
+            email: 'lucasrodrigohuck@gmail.com',
           },
           present: false,
         },
@@ -454,6 +589,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64e93004431f3e00104776c1',
+          user: {
+            _id: '5aac84507b9ca4000fed9b0e',
+            email: 'carla.j.s@hotmail.com',
+            name: 'Carla Julia da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec844c431f3e0010494206',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -492,7 +645,26 @@ export const conferenceActivities = [
       syllabus:
         'PALESTRANTES: Prof.Dra. Milena Barroso (UFS)\n(vídeo conferência); Prof.Dra. Fernanda Marques (UERN)\n\nCoordenação:\nProf. Dra. Miriam Inácio\n(UFRN); Quitéria (Discente\nPós-Graduação)',
       ofFields: [],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64eb4840431f3e0010483ccc',
+          user: {
+            _id: '64e6957f431f3e00104582ff',
+            name: 'Ádria Laíse de Araújo Chaves',
+            email: 'adria.chaves.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec7df6431f3e0010493139',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -518,17 +690,17 @@ export const conferenceActivities = [
             finalDate: '2023-09-13T20:25:00.000Z',
           },
         ],
-        _id: '64dcf9a967aaa40010e441b4',
-        location: 'Auditório Nepsa 1',
+        _id: '64eca153431f3e0010497e5e',
+        location: 'Auditório de Contabilidade',
         vacancies: 103,
       },
       code: 'asyNIO1ny5LhiNF',
       _id: '64dcf86b67aaa40010e44078',
       title:
-        'Palestra de abertura e Aula Magna do PPGIC com o professor Dr. Ricardo Medeiros Pimenta',
+        'Palestra de abertura e Aula Magna do PPGIC com o professora Dra. Silvana Vidotti “Representação de patrimônios culturais em ambientes digitais.”',
       shift: 0,
       syllabus:
-        '15:30 Apresentação Cultural\n\n15:45 Mesa de Abertura\nProfa. Dra. Maria Lussieu da Silva (Diretora do CCSA/UFRN);\nProfa. Dra. Monica Marques Carvalho Gallotti (Chefe do DECIN/UFRN);\nProfa. Dra. Nancy Sánchez-Tarragó (Coordenadora COBIB/UFRN);\nProf. Dr. Fernando Luiz Vecchiato (Coordenador PPGIC/UFRN);\nProfa. Dra. Patricia Macêdo (Coordenadora X CPCI).\n\n16h às 17h30: Palestra de abertura e Aula Magna do PPGIC com o professor Dr. Ricardo\nMedeiros Pimenta',
+        '15:30 Apresentação Cultural\n\n15:45 Mesa de Abertura\nProfa. Dra. Maria Lussieu da Silva (Diretora do CCSA/UFRN);\nProfa. Dra. Monica Marques Carvalho Gallotti (Chefe do DECIN/UFRN);\nProfa. Dra. Nancy Sánchez-Tarragó (Coordenadora COBIB/UFRN);\nProf. Dr. Fernando Luiz Vecchiato (Coordenador PPGIC/UFRN);\nProfa. Dra. Patricia Macêdo (Coordenadora X CPCI).\n\n16h às 17h30: Palestra de abertura e Aula Magna do PPGIC com o professora Dra. Silvana Vidotti “Representação de patrimônios culturais em ambientes digitais.”',
       ofFields: [],
       ofEnrollments: [
         {
@@ -594,6 +766,15 @@ export const conferenceActivities = [
             _id: '64dd3def67aaa40010e472e3',
             name: 'ZILLEYDE MARINHO OLIVEIRA DE MELLO',
             email: 'zilleydemarinho@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64e7d066431f3e00104646c6',
+          user: {
+            _id: '64de273a67aaa40010e4d4b1',
+            name: 'Victória Letícia dos Santos',
+            email: 'victoria_leticia@live.com',
           },
           present: false,
         },
