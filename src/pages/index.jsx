@@ -89,7 +89,7 @@ export function PopUp() {
                             pósgraduação para avaliação de trabalhos
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 1/9</span> -
+                            <span className="font-bold">16/6 a 28/8</span> -
                             Cadastramento de voluntários discentes de graduação
                             para atuarem no apoio ao evento
                           </li>
