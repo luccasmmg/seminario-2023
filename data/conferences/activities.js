@@ -191,6 +191,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ede2ba431f3e00104b346a',
+          user: {
+            _id: '64e8c417431f3e0010470903',
+            name: 'Albemom Feliciano de Carvalho Filho',
+            email: 'albemom.carvalho.133@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -381,6 +390,33 @@ export const conferenceActivities = [
             _id: '64e3e4ea67aaa40010e81e9d',
             name: 'IRLAN SOARES DE LIMA JUNIOR',
             email: 'irlanjr699@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ede27d431f3e00104b31b9',
+          user: {
+            _id: '64e8c417431f3e0010470903',
+            name: 'Albemom Feliciano de Carvalho Filho',
+            email: 'albemom.carvalho.133@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64edfcef431f3e00104b8e32',
+          user: {
+            _id: '64eba3c8431f3e0010488c3b',
+            name: 'MATHEUS DE ARAUJO BARBOSA',
+            email: 'matheus.ar.ju@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee0653431f3e00104ba17b',
+          user: {
+            _id: '64ecb8bf431f3e0010499be7',
+            name: 'Maria Fernanda Pereira de Paiva Silva',
+            email: 'maria.fernandafp39@gmail.com',
           },
           present: false,
         },
@@ -614,6 +650,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ede23f431f3e00104b2f8a',
+          user: {
+            _id: '64a5c800ea39bd001059bc20',
+            name: 'ANA JULIA ASSIS DE SOUSA',
+            email: 'julia.assis.104@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -713,6 +758,15 @@ export const conferenceActivities = [
             _id: '64c7a129ea39bd00105ce24e',
             name: 'Mayanne Kelly Macedo Torres',
             email: 'mayannekm@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ede265431f3e00104b3140',
+          user: {
+            _id: '64a5c800ea39bd001059bc20',
+            name: 'ANA JULIA ASSIS DE SOUSA',
+            email: 'julia.assis.104@ufrn.edu.br',
           },
           present: false,
         },
@@ -938,6 +992,81 @@ export const conferenceActivities = [
       shift: 0,
       syllabus:
         'Ao fundar o polêmico website WikiLeaks, Julian Assange (Benedict Cumberbatch) contou com o apoio do amigo Daniel Domscheit-Berg (Daniel Brühl). Com o crescimento do site e do grau de influência de Assange, a relação entre os dois acabou bastante abalada. Carice van Houten, Laura Linney e Anthony Mackie completam o elenco.\nComentário: Sandra Fernandes Erickson prof.ª Letras/UFRN',
+      ofFields: [],
+      ofEnrollments: [],
+    },
+  },
+  {
+    _id: '64ee22b7431f3e00104bf2c8',
+    entity: 'conference',
+    data: {
+      vacancies: 103,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'consolidated',
+      deleted: false,
+      consolidation: {
+        sessions: [
+          {
+            _id: '64ee2325431f3e00104bf4d1',
+            initialDate: '2023-09-14T13:00:48.000Z',
+            finalDate: '2023-09-14T14:30:48.000Z',
+          },
+        ],
+        _id: '64ee232f431f3e00104bf4e8',
+        location: 'Nepsa 1',
+        vacancies: 103,
+      },
+      code: 'C6jYczX2yqdTHEU',
+      _id: '64ee22b7431f3e00104bf2c7',
+      title:
+        '5° SEMINÁRIO INTERNACIONAL DE CONTABILIDADE: Reforma Tributária: Oportunidades e desafios para atuação e pesquisa ',
+      shift: 0,
+      syllabus: 'Felipe Guerra, Dr. ',
+      ofFields: [],
+      ofEnrollments: [],
+    },
+  },
+  {
+    _id: '64ee22ca431f3e00104bf3e2',
+    entity: 'conference',
+    data: {
+      vacancies: 103,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'consolidated',
+      deleted: false,
+      consolidation: {
+        sessions: [
+          {
+            _id: '64ee22f1431f3e00104bf3ef',
+            initialDate: '2023-09-15T12:00:45.000Z',
+            finalDate: '2023-09-15T14:30:45.000Z',
+          },
+        ],
+        _id: '64ee2302431f3e00104bf4b8',
+        location: 'Nepsa 1',
+        vacancies: 103,
+      },
+      code: '39g0koWesptev1L',
+      _id: '64ee22ca431f3e00104bf3e1',
+      title:
+        '5° SEMINÁRIO INTERNACIONAL DE CONTABILIDADE: Macroeconomic instability, institutions, and earnings management: An analysis in developed and emerging market countries ',
+      shift: 0,
+      syllabus:
+        'Dante Baiardo Cavalcante Viana Junior, Dr. \n\nDebatedor: Edilson Paulo, Dr. ',
       ofFields: [],
       ofEnrollments: [],
     },
