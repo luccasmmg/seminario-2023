@@ -129,37 +129,52 @@ function ActivitiesList({ sessions, activities }) {
                   {formatDate(session.finalDate)}
                 </h4>
               </div>
-              {thisSessionActivities.map((activity) => (
-                <div className="flex flex-col gap-y-2 py-4" key={activity._id}>
-                  <h5
-                    className={`text-2xl font-bold capitalize tracking-tight text-red-900 ${unna.className}`}
+              {thisSessionActivities.map((activity) => {
+                const debaters = activity.data.ofFields.find((field) => {
+                  return field.request.name === 'debaters'
+                })
+                return (
+                  <div
+                    className="flex flex-col gap-y-2 py-4"
+                    key={activity._id}
                   >
-                    {activity.data.title.toLowerCase()}
-                  </h5>
-                  <h6 className={`max-w-2xl lg:max-w-3xl`}>
-                    <span className="font-bold">Propositores:</span>{' '}
-                    {activity.data.ofProposersUsers
-                      .map((user) => `${user.name} (${user.email})`)
-                      .join(', ')}
-                  </h6>
-                  <h6 className={`max-w-2xl lg:max-w-3xl `}>
-                    <span className="font-bold">Local:</span>{' '}
-                    {activity.data.consolidation
-                      ? activity.data.consolidation.location
-                      : 'A definir'}
-                  </h6>
-                  <h6 className={`max-w-2xl lg:max-w-3xl`}>
-                    <span className="font-bold">Vagas:</span>{' '}
-                    {activity.data.consolidation
-                      ? activity.data.consolidation.vacancies
-                      : 'Número ilimitado'}
-                  </h6>
-                  <p className={`tracking-tight `}>
-                    <span className="font-bold">Ementa: </span>
-                    {activity.data.syllabus}
-                  </p>
-                </div>
-              ))}
+                    <h5
+                      className={`text-2xl font-bold capitalize tracking-tight text-red-900 ${unna.className}`}
+                    >
+                      {activity.data.title.toLowerCase()}
+                    </h5>
+                    {!debaters ? (
+                      <h6 className={`max-w-2xl lg:max-w-3xl`}>
+                        <span className="font-bold">Propositores:</span>{' '}
+                        {activity.data.ofProposersUsers
+                          .map((user) => `${user.name} (${user.email})`)
+                          .join(', ')}
+                      </h6>
+                    ) : (
+                      <h6 className={`max-w-2xl lg:max-w-3xl`}>
+                        <span className="font-bold">Debatedores:</span>{' '}
+                        {debaters.value}
+                      </h6>
+                    )}
+                    <h6 className={`max-w-2xl lg:max-w-3xl `}>
+                      <span className="font-bold">Local:</span>{' '}
+                      {activity.data.consolidation
+                        ? activity.data.consolidation.location
+                        : 'A definir'}
+                    </h6>
+                    <h6 className={`max-w-2xl lg:max-w-3xl`}>
+                      <span className="font-bold">Vagas:</span>{' '}
+                      {activity.data.consolidation
+                        ? activity.data.consolidation.vacancies
+                        : 'Número ilimitado'}
+                    </h6>
+                    <p className={`tracking-tight `}>
+                      <span className="font-bold">Ementa: </span>
+                      {activity.data.syllabus}
+                    </p>
+                  </div>
+                )
+              })}
             </>
           )
         })}
