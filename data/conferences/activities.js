@@ -107,7 +107,17 @@ export const conferenceActivities = [
       shift: 1,
       syllabus: '',
       ofFields: [],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64edcf1d431f3e00104aed43',
+          user: {
+            _id: '625d62f60eabf50010b4748f',
+            name: 'Andréia de Andrade Cavalcante',
+            email: 'andreia.andrade.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -246,6 +256,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64edcfbc431f3e00104af079',
+          user: {
+            _id: '5ab8e05e3fa6b4000f36a836',
+            email: 'tathiane.silva97@gmail.com',
+            name: 'Tathiane Conceição Silva de Souza',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -347,6 +366,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ed13a8431f3e00104a452d',
+          user: {
+            _id: '64e3e4ea67aaa40010e81e9d',
+            name: 'IRLAN SOARES DE LIMA JUNIOR',
+            email: 'irlanjr699@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed13a8431f3e00104a4535',
+          user: {
+            _id: '64e3e4ea67aaa40010e81e9d',
+            name: 'IRLAN SOARES DE LIMA JUNIOR',
+            email: 'irlanjr699@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -404,7 +441,34 @@ export const conferenceActivities = [
           present: false,
         },
         {
-          _id: '64e7d23d431f3e0010464c38',
+          _id: '64ed039d431f3e00104a179a',
+          user: {
+            _id: '64e874aa431f3e001046a888',
+            name: 'Artur Capistrano Braga',
+            email: 'arturcbbraga@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed1483431f3e00104a49f3',
+          user: {
+            _id: '64de7cf967aaa40010e54100',
+            name: 'JOSE JAILSON DA SILVA JUNIOR',
+            email: 'jjailson2004@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed1665431f3e00104a4fbf',
+          user: {
+            _id: '64e6957f431f3e00104582ff',
+            name: 'Ádria Laíse de Araújo Chaves',
+            email: 'adria.chaves.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed3249431f3e00104a9203',
           user: {
             _id: '64e1126167aaa40010e70fc0',
             name: 'Maria Eduarda Silva de Lima',
@@ -523,6 +587,33 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ed148d431f3e00104a4a22',
+          user: {
+            _id: '64de7cf967aaa40010e54100',
+            name: 'JOSE JAILSON DA SILVA JUNIOR',
+            email: 'jjailson2004@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64eddab6431f3e00104b14d0',
+          user: {
+            _id: '64a4ae9c0e9dba00104b8700',
+            name: 'Julia Mariane Januario de Souza',
+            email: 'julia.souza.709@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eddbf6431f3e00104b187a',
+          user: {
+            _id: '64c7a129ea39bd00105ce24e',
+            name: 'Mayanne Kelly Macedo Torres',
+            email: 'mayannekm@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -607,6 +698,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64eddac8431f3e00104b14ff',
+          user: {
+            _id: '64a4ae9c0e9dba00104b8700',
+            name: 'Julia Mariane Januario de Souza',
+            email: 'julia.souza.709@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eddbf8431f3e00104b18b8',
+          user: {
+            _id: '64c7a129ea39bd00105ce24e',
+            name: 'Mayanne Kelly Macedo Torres',
+            email: 'mayannekm@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -647,20 +756,20 @@ export const conferenceActivities = [
       ofFields: [],
       ofEnrollments: [
         {
-          _id: '64eb4840431f3e0010483ccc',
-          user: {
-            _id: '64e6957f431f3e00104582ff',
-            name: 'Ádria Laíse de Araújo Chaves',
-            email: 'adria.chaves.017@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
           _id: '64ec7df6431f3e0010493139',
           user: {
             _id: '64eba9e7431f3e0010488fa2',
             name: 'Eveny Lays Fernandes Lima',
             email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64eddae8431f3e00104b15cf',
+          user: {
+            _id: '64a4ae9c0e9dba00104b8700',
+            name: 'Julia Mariane Januario de Souza',
+            email: 'julia.souza.709@ufrn.edu.br',
           },
           present: false,
         },
@@ -779,6 +888,58 @@ export const conferenceActivities = [
           present: false,
         },
       ],
+    },
+  },
+  {
+    _id: '64edd379431f3e00104afb4f',
+    entity: 'conference',
+    data: {
+      vacancies: 103,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'waiting',
+      deleted: false,
+      consolidation: null,
+      code: 'Plqb3BY6qwXUWWI',
+      _id: '64edd379431f3e00104afb4e',
+      title: 'Mostra de Cinema CCSA - VOCÊ NÃO ESTAVA AQUI ',
+      shift: 0,
+      syllabus:
+        'A ação se passa em Newcastle, Inglaterra. O desempregado Ricky Turner (Kris Hitchen) aceita um posto de motorista-entregador em uma empresa de entregas de encomendas da chamada nova economia, sem quaisquer vínculo empregatício, direitos trabalhistas ou outras garantias. O foco é a exploração do trabalho pela nova economia e suas consequências para a sociabilidade humana.\nComentário: Marcos Botelho - prof. Serviço Social/UFRJ',
+      ofFields: [],
+      ofEnrollments: [],
+    },
+  },
+  {
+    _id: '64edd393431f3e00104afc0f',
+    entity: 'conference',
+    data: {
+      vacancies: 103,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'waiting',
+      deleted: false,
+      consolidation: null,
+      code: 'orQe487LiKiLeKm',
+      _id: '64edd393431f3e00104afc0e',
+      title: 'Mostra de Cinema CCSA - O QUINTO PODER',
+      shift: 0,
+      syllabus:
+        'Ao fundar o polêmico website WikiLeaks, Julian Assange (Benedict Cumberbatch) contou com o apoio do amigo Daniel Domscheit-Berg (Daniel Brühl). Com o crescimento do site e do grau de influência de Assange, a relação entre os dois acabou bastante abalada. Carice van Houten, Laura Linney e Anthony Mackie completam o elenco.\nComentário: Sandra Fernandes Erickson prof.ª Letras/UFRN',
+      ofFields: [],
+      ofEnrollments: [],
     },
   },
 ]

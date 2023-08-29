@@ -44,7 +44,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             '•\tMaria Augusta Bezerra da Rocha (Mestranda PPGSS UFRN); \nDesigualdade social e agravamento das condições de pobreza no Brasil, Nordeste e Rio Grande do Norte;\n•\tAdriana Cristina Xavier Deiga Ferreira (Doutoranda PPGSS UFRN);\nDesigualdades sociais e relações patriarcais de gênero no contexto das condições de vida, de trabalho e das iniciativas organizativas de mulheres catadoras de materiais recicláveis da Rede Recicla Seridó; \n•\tRepresentante da Cáritas Diocesana de Caicó;\nOrganização e fomento da Rede Recicla Seridó desafios e conquistas; e\n\n•\tRepresentante da Rede Recicla Seridó \nRealidade das mulheres catadoras na Rede Recicla Seridó e desafios socio-organizativos.\n',
@@ -60,7 +60,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Roberto Marinho Alves da Silva',
         },
@@ -74,7 +74,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84 99612-7696',
         },
@@ -89,7 +89,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'rmas2007@gmail.com',
         },
@@ -110,6 +110,15 @@ export const roundtableActivities = [
             _id: '5ac0bed6c9ea41000fface61',
             email: 'adrideigaa@gmail.com',
             name: 'Adriana Cristina Xavier Deiga Ferreira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec7d0f431f3e0010492a3f',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
           },
           present: false,
         },
@@ -186,7 +195,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Marcelo Braz\nMarcos Paulo Botelho\nSilvana Mara dos Santos',
         },
@@ -201,7 +210,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Marcelo Braz',
         },
@@ -215,7 +224,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84996164686',
         },
@@ -230,7 +239,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'marcelo.braz@ufrn.br',
         },
@@ -251,6 +260,42 @@ export const roundtableActivities = [
             _id: '5aac84507b9ca4000fed9b0e',
             email: 'carla.j.s@hotmail.com',
             name: 'Carla Julia da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64ea5c8b431f3e001047f67c',
+          user: {
+            _id: '64a194eb0e9dba00104b3ad8',
+            name: 'Izabel Pereira da Silva',
+            email: 'izabel.pereira@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eb9f80431f3e00104886f8',
+          user: {
+            _id: '64dba6a867aaa40010e3b323',
+            name: 'Elidiane Barbosa Bezerra',
+            email: 'barbosaa.eli@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64eba179431f3e0010488a0a',
+          user: {
+            _id: '64a3629d0e9dba00104b691a',
+            name: 'Marya Clara Damascena Melo',
+            email: 'mclara_cz@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ecd29f431f3e001049cba4',
+          user: {
+            _id: '64eccc2a431f3e001049bf39',
+            name: 'Carla Daniele Barros de Souza',
+            email: 'daniele.barros.715@ufrn.edu.br',
           },
           present: false,
         },
@@ -303,7 +348,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Larisse de Oliveira Rodrigues',
         },
@@ -317,7 +362,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Larisse de Oliveira Rodrigues\nAdnna Raquel Araújo de Souza\nCarla Júlia da Silva\nMaria Clara de Carvalho Leite',
@@ -332,7 +377,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84996003124',
         },
@@ -347,7 +392,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'larisse.rodrigues@ufrn.br',
         },
@@ -368,6 +413,24 @@ export const roundtableActivities = [
             _id: '5aac84507b9ca4000fed9b0e',
             email: 'carla.j.s@hotmail.com',
             name: 'Carla Julia da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64ebc7ee431f3e001048ab51',
+          user: {
+            _id: '64ebc6e4431f3e001048a94a',
+            name: 'Hadassa Adna Siqueira Ferreira',
+            email: 'hadassasiqueiraa@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64edccc5431f3e00104ae549',
+          user: {
+            _id: '64c8294eea39bd00105e0c1a',
+            name: 'Maria Carolina Almeida de Oliveira',
+            email: 'maria.carolina.almeida.051@ufrn.edu.br',
           },
           present: false,
         },
@@ -418,7 +481,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Ana Júlia Cardoso Ribeiro\nLarissa Gabrielle Capistrano\nMaria Gabriela do Nascimento Fernandes\nRaída Venceslau de Oliveira Rodrigues\n',
@@ -434,7 +497,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Henrique André Ramos Wellen',
         },
@@ -448,7 +511,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '988075979',
         },
@@ -463,7 +526,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'henrique.wellen@ufrn.br',
         },
@@ -511,6 +574,15 @@ export const roundtableActivities = [
             _id: '6491e56c55c6e8001076d3af',
             name: 'Larissa Gabrielle Capistrano',
             email: 'larissa.capistrano.121@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64edcceb431f3e00104ae64d',
+          user: {
+            _id: '64c8294eea39bd00105e0c1a',
+            name: 'Maria Carolina Almeida de Oliveira',
+            email: 'maria.carolina.almeida.051@ufrn.edu.br',
           },
           present: false,
         },
@@ -562,7 +634,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             '-Anna Beatriz (PPgSS/CCSA/UFRN);\n-Giovanni Sampaio Queiroz (PPgPsi/CCHLA/UFRN);\n- Juciara Gomes (PPgAS/CCSA/UFRN);\n- Juliana da Silva (CRDHMD/UFRN).',
@@ -578,7 +650,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Profa. Dra. Silvana Mara ',
         },
@@ -592,7 +664,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84) 98805-2705',
         },
@@ -607,7 +679,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'silvana.mara.morais@ufrn.br',
         },
@@ -637,6 +709,24 @@ export const roundtableActivities = [
             _id: '6494495655c6e8001076f053',
             name: 'Maria Augusta Bezerra da Rocha',
             email: 'augusta.b.rocha@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec9584431f3e0010495ab7',
+          user: {
+            _id: '64a3629d0e9dba00104b691a',
+            name: 'Marya Clara Damascena Melo',
+            email: 'mclara_cz@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ecd48b431f3e001049d28e',
+          user: {
+            _id: '64eccc2a431f3e001049bf39',
+            name: 'Carla Daniele Barros de Souza',
+            email: 'daniele.barros.715@ufrn.edu.br',
           },
           present: false,
         },
@@ -677,7 +767,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             '- Anna Beatriz Valentim de Souza(PPgSS/CCSA/UFRN);\n- Giovanni Sampaio Queiroz (PPgPsi/CCHLA/UFRN);\n-  Juciara Gomes de Matos Souza (PPgSS/CCSA/UFRN);\n- Juliana da Silva (CRDHMD/UFRN).',
@@ -693,7 +783,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Profa. Dra. Silvana Mara ',
         },
@@ -707,7 +797,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84) 98805-2705',
         },
@@ -722,7 +812,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'silvana.mara.morais@ufrn.br',
         },
@@ -763,7 +853,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             "Grazielly dos Anjos Fontes Guimarães\nJuliana Maria Rocha Bezerra da Silva\nMaria Esther Alencar Advíncula D'Assunção",
@@ -779,7 +869,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Grazielly dos Anjos Fontes Guimarães',
         },
@@ -793,7 +883,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84999028400',
         },
@@ -808,7 +898,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'fontes.grazielly@gmail.com',
         },
@@ -860,7 +950,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Janaynna de Moura Ferraz (DEPAD/UFRN)\nDeise Luiza da Silva Ferraz (CEPEAD/UFMG)\nAline Francilurdes do Vale (PPGA/UFRN)',
@@ -876,7 +966,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Janaynna de Moura Ferraz',
         },
@@ -890,7 +980,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(79) 999588484',
         },
@@ -905,7 +995,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'janaynna.ferraz@me.com',
         },
@@ -917,6 +1007,15 @@ export const roundtableActivities = [
             _id: '649c31ff55c6e80010774ef8',
             name: 'Emilly Bezerra Fernandes do Nascimento',
             email: 'emilly.bezerra.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed0717431f3e00104a2437',
+          user: {
+            _id: '64e874aa431f3e001046a888',
+            name: 'Artur Capistrano Braga',
+            email: 'arturcbbraga@gmail.com',
           },
           present: false,
         },
@@ -973,7 +1072,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Ana Carolina Costa Benevides Leite - Discente PPGSS - Grupo de estudos e pesquisa em Questão Social, Política Social e Serviço Social\nBeatriz Suellen Pereira da Silva - Discente PPGSS - Grupo de estudos e pesquisa em Questão Social, Política Social e Serviço Social\n',
@@ -989,7 +1088,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Eliana Andrade da Silva',
         },
@@ -1003,7 +1102,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84)994182928',
         },
@@ -1018,7 +1117,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'eliana.silva@ufrn.br',
         },
@@ -1071,7 +1170,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Marconi Neves Macedo (mediador)\nMarcos Frederico Carrera Simões (debatedor)\nSebastião José de Arruda Júnior (debatedor)',
@@ -1087,7 +1186,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Marconi Neves Macedo',
         },
@@ -1101,7 +1200,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84999850718',
         },
@@ -1116,7 +1215,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'marconi.macedo@ufrn.br',
         },
@@ -1168,7 +1267,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84)994975414',
         },
@@ -1183,7 +1282,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'fabiobezerra2013@gmail.com',
         },
@@ -1198,7 +1297,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'FABIO LUIZ DE OLIVEIRA BEZERRA',
         },
@@ -1212,7 +1311,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             '1) Vitor Limeira Barreto da Silveira, externo, advogado, presidente da Comissão de Gestão Jurídica da OAB/RN;\n\n2) Madja de Sousa Moura Siqueira, externa, juíza federal, titular da Vara Federal em Assu/RN, coordenadora do Laboratório de Inovação da JFRN;\n\n3) Daniel Coelho Soares, externo, advogado da união, Procurador-Chefe da AGU no Rio Grande do Norte.',
@@ -1243,6 +1342,15 @@ export const roundtableActivities = [
             _id: '64e7d8e5431f3e001046538c',
             name: 'Carlos José Fernandes Rêgo',
             email: 'carlosjrego@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ed0734431f3e00104a2585',
+          user: {
+            _id: '5aea1d4e46bfd0000f4def89',
+            email: 'rafaelacarlamp@hotmail.com',
+            name: 'Rafaela Carla Melo de Paiva',
           },
           present: false,
         },
@@ -1299,7 +1407,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Quitéria Gabriela Cabral Xavier (20231001056 - Discente do PPGSS) - CPF: 102.754.574-27\nNatália Vilma Monteiro de Oliveira (20231001038 - Discente do PPGSS) - CPF: 016.956.994-24\nJardson Silva (20231001127 - Discente do PPGSS) - CPF: 121.156.504-17\nTathiane Conceição Silva de Souza (20231001074 - Discente do PPGSS) - CPF: 016.619.724-62',
@@ -1315,7 +1423,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Andrea Lima da Silva',
         },
@@ -1329,7 +1437,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84999933131',
         },
@@ -1344,7 +1452,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'silufrn@gmail.com',
         },
@@ -1356,6 +1464,24 @@ export const roundtableActivities = [
             _id: '649f610f0e9dba00104b25a7',
             name: 'Nivia Dayane Oliveira da Silva',
             email: 'nivia.dayane.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec7d4b431f3e0010492b52',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ec81a3431f3e0010493b59',
+          user: {
+            _id: '5aaaff2d01e3b3000f8d0ada',
+            email: 'lululima403@gmail.com',
+            name: 'Ana Luíza Barbosa Lima',
           },
           present: false,
         },
@@ -1406,7 +1532,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Prof. Dr. Zéu Palmeira Sobrinho (Departamento de Direito Privado); Profa. Msc Fabiana Dantas Soares Alves Da Mota  (Departamento de Direito Privado); Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado);  Prof. Dr. Henrique Andre Ramos Wellen (Departamento de Serviço Social);',
@@ -1422,7 +1548,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             ' Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado)',
@@ -1437,7 +1563,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84991209895',
         },
@@ -1452,7 +1578,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'adv.andersonss@gmail.com',
         },
@@ -1523,7 +1649,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Prof. Dr. Zéu Palmeira Sobrinho (Departamento de Direito Privado); Profa. Msc Fabiana Dantas Soares Alves Da Mota  (Departamento de Direito Privado); Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado);  Profa. Msc Lidianne Araujo Aleixo De Carvalho (Departamento de Direito Público); Prof. Dr. Marcus Aurelio De Freitas Barros (Departamento de Direito Processual e Propedêutica)',
@@ -1539,7 +1665,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             ' Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado)',
@@ -1554,7 +1680,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84991209895',
         },
@@ -1569,12 +1695,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'adv.andersonss@gmail.com',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ec7d73431f3e0010492dd8',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1621,7 +1757,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Profa. Anatalia Saraiva Martins Ramos – DEPAD/UFRN\nProfa. Adrianne Paula Vieira de Andrade\nProf. Elias Jacob de Medeiros Neto  - IMD/UFRN\n',
@@ -1637,7 +1773,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Adrianne Paula Vieira de Andrade',
         },
@@ -1651,7 +1787,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84 999178064',
         },
@@ -1666,12 +1802,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'adrianne.andrade@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64e91b5e431f3e0010476358',
+          user: {
+            _id: '64e91a36431f3e0010475fc6',
+            name: 'arthur torres costa',
+            email: 'arthurtcosta10@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1729,7 +1875,7 @@ export const roundtableActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '',
         },
@@ -1743,7 +1889,7 @@ export const roundtableActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '',
         },
@@ -1758,7 +1904,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Anatália Saraiva Martins Ramos',
         },
@@ -1772,7 +1918,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84988073324',
         },
@@ -1787,7 +1933,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'anataliasaraiva@gmail.com',
         },
@@ -1801,7 +1947,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Profa. Anatália Saraiva Martins Ramos (PPGA/DEPAD); Profa. Janaynna de Moura Ferraz (DEPAD/UFRN); Convidado externo (a confirmar).',
@@ -1865,7 +2011,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Dra. Juliana Bacelar de Araújo (DEPEC-UFRN), Dra. Luziene Dantas de Macedo (DEPEC-UFRN), Dra. Maria Lussieu da Silva (DEPEC-UFRN) e Dra. Valdênia Apolinário (DEPEC-UFRN).',
@@ -1881,7 +2027,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Dra. Juliana Bacelar de Araújo (DEPEC-UFRN)',
         },
@@ -1895,7 +2041,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '81999878687',
         },
@@ -1910,7 +2056,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'juliana.bacelar@ufrn.br',
         },
@@ -1961,6 +2107,15 @@ export const roundtableActivities = [
           },
           present: false,
         },
+        {
+          _id: '64eb85a2431f3e0010486a1a',
+          user: {
+            _id: '5cd49870eddaaa000fb3c6f6',
+            email: 'celiconsuelo3@gmail.com',
+            name: 'Celi Consuelo de Lima Fernandes',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -2008,7 +2163,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'ANA KARINA DE OLIVEIRA MAIA\nIDIAMARA NASCIMENTO DE FREITAS\nJANDUIR JOÃO DOS SANTOS\nKAÍSE CANUTO DA SILVA',
@@ -2024,7 +2179,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Almir Félix Batista de Oliveira',
         },
@@ -2038,7 +2193,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84) 994011949',
         },
@@ -2053,7 +2208,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'almirfbo@yahoo.com.br',
         },
@@ -2106,7 +2261,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             '1. Fabiana Alcântara Lima (Doutoranda PPGSS UFRN)\n2. Priscilla Brandão de Medeiros  (Assistente Social/Doutoranda PPGSS UFRN)\n3. Mayewe Elyenia Alves dos Santos (Professora IFCE/ Doutoranda PPGSS UFRN)\n\n',
@@ -2122,7 +2277,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Fabiana Alcântara Lima',
         },
@@ -2136,7 +2291,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '83988165009',
         },
@@ -2151,7 +2306,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'fabianalymajp@hotmail.com',
         },
@@ -2224,7 +2379,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Bernardina Maria Juvenal Freire De Oliveira - Universidade Federal da Paraíba;\nGeysa Flávia Câmara de Lima Nascimento - Universidade Federal da Paraíba;\nPatricia Ladeira Penna Macêdo - Universidade Federal do Rio Grande do Norte',
@@ -2240,7 +2395,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Patricia Ladeira Penna Macêdo',
         },
@@ -2254,7 +2409,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(21) 995696055',
         },
@@ -2269,12 +2424,31 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'patricia.macedo@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ed07f4431f3e00104a27ce',
+          user: {
+            _id: '5aea1d4e46bfd0000f4def89',
+            email: 'rafaelacarlamp@hotmail.com',
+            name: 'Rafaela Carla Melo de Paiva',
+          },
+          present: false,
+        },
+        {
+          _id: '64edccfe431f3e00104ae751',
+          user: {
+            _id: '6492f2df55c6e8001076e0bd',
+            name: 'GRASIELLY CRISTINA ONORATO DE LIMA',
+            email: 'grasielly.lima.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2321,7 +2495,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Dra. Leilianne Barreto (Mediadora)\nDra. Samara Câmara (Diretora de RH de Hotel Serhs)\nMsc. Ana Neri da Paz Justino (Docente do IFRN)\nMsc. Janaina Medeiros (Diretora do Geoparque Seridó - RN)',
@@ -2337,7 +2511,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Leilianne Barreto',
         },
@@ -2351,7 +2525,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84 991317821',
         },
@@ -2366,12 +2540,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'leilianne.barreto@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64edcd32431f3e00104ae860',
+          user: {
+            _id: '625d62f60eabf50010b4748f',
+            name: 'Andréia de Andrade Cavalcante',
+            email: 'andreia.andrade.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2419,7 +2603,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Ricardo Pimenta (Ibict-UFRJ) e Leonardo Fernandes Nascimento (UFBA) Mediadora: Profa. Dra. Monica Marques Carvalho Gallotti (UFRN)',
@@ -2462,7 +2646,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Profa. Dra. Maria Lussieu da Silva (Diretora do CCSA/UFRN);\nProfa. Dra. Monica Marques Carvalho Gallotti (Chefe do DECIN/UFRN);\nProfa. Dra. Nancy Sánchez-Tarragó (Coordenadora COBIB/UFRN);\nProf. Dr. Fernando Luiz Vecchiato (Coordenador PPGIC/UFRN);\nProfa. Dra. Patricia Macêdo (Coordenadora X CPCI).',
@@ -2515,13 +2699,23 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Mediadores: Fernando Vecchiato e Andrea Carvalho.\nParticipação: Professores do PPGIC.',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ed082d431f3e00104a2ac9',
+          user: {
+            _id: '5aea1d4e46bfd0000f4def89',
+            email: 'rafaelacarlamp@hotmail.com',
+            name: 'Rafaela Carla Melo de Paiva',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2569,7 +2763,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Maria Arlete Duarte de Araújo',
         },
@@ -2584,7 +2778,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'Marconi Neves Macedo',
         },
@@ -2598,7 +2792,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84999850718',
         },
@@ -2613,12 +2807,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'marconi.macedo@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ec7da6431f3e0010492f43',
+          user: {
+            _id: '64eba9e7431f3e0010488fa2',
+            name: 'Eveny Lays Fernandes Lima',
+            email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2667,7 +2871,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Prof. Dr. Thiago Dias (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)',
@@ -2682,7 +2886,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Prof. Dr. James Batista Vieira (PPGCI/UFPB)\nProf. Dr. Hironobu Sano (PPGP e PPGA/UFRN)',
@@ -2697,7 +2901,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '(84)988994071',
         },
@@ -2712,12 +2916,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'thiago.ferreira.dias@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ed0e10431f3e00104a3c07',
+          user: {
+            _id: '64eb9193431f3e00104874cc',
+            name: 'HERMESON ACIOLE DA SILVA',
+            email: 'hermesonacyoly98@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2776,7 +2990,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'DIOGO HENRIQUE SILVA DE LIMA',
         },
@@ -2790,7 +3004,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: '84991446291',
         },
@@ -2805,7 +3019,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value: 'diogo.lima@ufrn.br',
         },
@@ -2819,7 +3033,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Radna Rayanne Medeiros Rocha: Contadora, Perita, Sócia da Hatha Contabilidade LTDA, membro ocupante da Cadeira 30 da ACADERCIC, Conselheira e Vice-Presidente de Desenvolvimento Profissional do Conselho Regional de Contabilidade do Rio Grande do Norte. Expertise em otimização de processos e produtividade. Know-how em planejamento tributário de empresas de pequeno e médio portes.\nLarissa Virginia Gomes Freire: Bacharel em Direito, Pedagoga e Especialista em Análise do comportamento. Mãe atípica e proprietária da Aba clinic Natal.',
@@ -2882,7 +3096,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Antônio Alves (UFRN), Thais Godeiro (SEPLAN/RN) e Rebecka de França (SEMJIDH/RN).',
@@ -2935,13 +3149,23 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-25T17:38:16.981Z',
+            createdAt: '2023-08-29T12:01:53.443Z',
           },
           value:
             'Profa. Anatalia Ramos e Prof. Luiz Pinheiro (Universidade Positivo - Curitiba)',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64edce3f431f3e00104ae9b2',
+          user: {
+            _id: '625d62f60eabf50010b4748f',
+            name: 'Andréia de Andrade Cavalcante',
+            email: 'andreia.andrade.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
 ]
