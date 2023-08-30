@@ -77,6 +77,11 @@ export function PopUp() {
                       >
                         Atenção
                       </Dialog.Title>
+                      <p>
+                        Isenções com base em situação econômica podem ser
+                        solicitadas enviando o comprovante retirado do SIGAA
+                        para suporteseminarioccsa@gmail.com
+                      </p>
                       <div className="mt-2">
                         <p className="text-sm text-gray-500">
                           Os prazos do seminário foram alterados, segue abaixo
