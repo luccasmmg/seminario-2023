@@ -89,29 +89,18 @@ export function PopUp() {
                         </p>
                         <ul className="space-y-1 py-4">
                           <li>
-                            <span className="font-bold">16/6 a 28/8</span> -
-                            Cadastramento de voluntários discentes de
-                            pósgraduação para avaliação de trabalhos
+                            <span className="font-bold">16/6 a 31/08</span> -
+                            Inscrição no evento dentro do SIGEVA
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 28/8</span> -
-                            Cadastramento de voluntários discentes de graduação
-                            para atuarem no apoio ao evento
+                            <span className="font-bold">16/6 a 04/09</span> -
+                            Pagamento e envio de COMPROVANTE da GRU junto ao
+                            sistema
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 15/08</span> -
-                            Submissão de propostas de minicursos, oficinas e
-                            mesas-redondas
-                          </li>
-                          <li>
-                            <span className="font-bold">16/6 a 18/08</span> -
-                            Submissão de trabalhos (pôsteres, artigos e casos
-                            para ensino)
-                          </li>
-                          <li>
-                            <span className="font-bold">17/8 a 1/9</span> -
-                            Inscrições (pagamento até o dia 30/8) em
-                            conferências, minicursos, oficinas e mesasredondas
+                            <span className="font-bold">17/8 a 06/9</span> -
+                            Inscrições em conferências, minicursos, oficinas e
+                            mesasredondas
                           </li>
                           <li>
                             <span className="font-bold">1/9 </span> - Comunicado
