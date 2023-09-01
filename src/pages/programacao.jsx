@@ -12,6 +12,10 @@ import { roundtableSessions } from 'data/roundtables/sessions'
 import { roundtableActivities } from 'data/roundtables/activities'
 import { conferenceSessions } from 'data/conferences/sessions'
 import { conferenceActivities } from 'data/conferences/activities'
+import { posterPresentations } from 'data/posters/presentations'
+import { posterSessions } from 'data/posters/sessions'
+import { articlePresentations } from 'data/articles/presentations'
+import { articleSessions } from 'data/articles/sessions'
 
 const unna = Unna({ subsets: ['latin'], weight: '700' })
 
@@ -92,11 +96,85 @@ export default function Home() {
                 activities={minicourseActivities}
               />
             </div>
+            <div className="flex flex-col py-4">
+              <h3
+                className={`mx-auto  max-w-2xl text-4xl font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+              >
+                Posters (Parcial)
+              </h3>
+              {posterPresentations.map((presentation) => (
+                <PresentationCard
+                  key={presentation.id}
+                  presentation={presentation}
+                  sessions={posterSessions}
+                />
+              ))}
+            </div>
+            <div className="flex flex-col py-4">
+              <h3
+                className={`mx-auto  max-w-2xl text-4xl font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+              >
+                Artigos (Parcial)
+              </h3>
+              {articlePresentations.map((presentation) => (
+                <PresentationCard
+                  key={presentation.id}
+                  presentation={presentation}
+                  sessions={articleSessions}
+                />
+              ))}
+            </div>
           </div>
         </Container>
       </main>
       <Footer />
     </>
+  )
+}
+
+function PresentationCard({ presentation, sessions }) {
+  if (!presentation.data.consolidation) return <></>
+  const dateTime = sessions.find((session) => {
+    const found = presentation.data.consolidation.sessions.find(
+      (_session) => _session === session._id
+    )
+    if (found) return true
+    return false
+  })
+  return (
+    <div className="flex flex-col gap-y-2 py-4">
+      <h5
+        className={`text-2xl font-bold capitalize tracking-tight text-red-900 ${unna.className}`}
+      >
+        {presentation.data.title.toLowerCase()}
+      </h5>
+      <h6 className={`max-w-2xl lg:max-w-3xl`}>
+        <span className="font-bold">Propositores:</span>{' '}
+        {presentation.data.authors
+          .map((user) => `${user.name} (${user.email})`)
+          .join(', ')}
+      </h6>
+      {dateTime && (
+        <h6 className={`max-w-2xl lg:max-w-3xl `}>
+          <span className="font-bold">Dia e hora:</span>{' '}
+          {formatDate(dateTime.initialDate)} - {formatDate(dateTime.finalDate)}
+        </h6>
+      )}
+      <h6 className={`max-w-2xl lg:max-w-3xl `}>
+        <span className="font-bold">Local:</span>{' '}
+        {presentation.data.consolidation
+          ? presentation.data.consolidation.location
+          : 'A definir'}
+      </h6>
+      <p className={`tracking-tight `}>
+        <span className="font-bold">Abstrato: </span>
+        {presentation.data.abstract}
+      </p>
+      <p className={`tracking-tight `}>
+        <span className="font-bold">Palavras-chave: </span>
+        {presentation.data.keyword}
+      </p>
+    </div>
   )
 }
 
