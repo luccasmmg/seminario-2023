@@ -836,7 +836,7 @@ export const posterPresentations = [
         },
       ],
       files: ['64c6e771ea39bd00105ca5c7', '64c6e7b1ea39bd00105ca5cb'],
-      state: 'waiting_evaluation',
+      state: 'approved',
       deleted: false,
       cert: null,
       _id: '64c6e7d6ea39bd00105ca5d8',
@@ -852,14 +852,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -867,9 +862,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -1698,14 +1703,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -1713,9 +1713,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -2085,14 +2095,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -2100,9 +2105,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -2532,6 +2547,11 @@ export const posterPresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f22875431f3e00105ff1c0',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
@@ -3022,6 +3042,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc', '64ee6ffd431f3e00104d10d9'],
+        _id: '64f22a1c431f3e00105ffc3a',
+        location: 'Sala C1 - Setor 1',
+      },
     },
   },
   {
@@ -3400,14 +3425,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -3415,9 +3435,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -4942,14 +4972,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -4957,9 +4982,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -5157,14 +5192,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -5172,9 +5202,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -5404,7 +5444,7 @@ export const posterPresentations = [
         '64dfd24067aaa40010e6442d',
         '64dfd24267aaa40010e64434',
       ],
-      state: 'waiting_evaluation',
+      state: 'approved',
       deleted: false,
       cert: null,
       _id: '64dfd63767aaa40010e64e5f',
@@ -5420,14 +5460,9 @@ export const posterPresentations = [
         data: {
           coordinators: [
             {
-              _id: '64c811dbea39bd00105dc40b',
-              name: 'Ilena Felipe Barros',
-              email: 'ilena.felipe@ufrn.br',
-            },
-            {
-              _id: '5cadd571452c13000fee6a7b',
-              email: 'luccasmmg@gmail.com',
-              name: 'Aluno de Pós-Graduação',
+              _id: '5aaac1c16d0f3d000fe6f647',
+              email: 'larisse.ufrn@gmail.com',
+              name: 'Larisse de Oliveira Rodrigues',
             },
             {
               _id: '5abfb56ec9ea41000ffa8f70',
@@ -5435,9 +5470,19 @@ export const posterPresentations = [
               name: 'EDLA HOFFMANN',
             },
             {
+              _id: '5aaac2126d0f3d000fe6f667',
+              email: 'roberto.alves@ufrn.br',
+              name: 'Roberto Marinho Alves da Silva',
+            },
+            {
               _id: '64c7f437ea39bd00105d7c97',
               name: 'eliana andrade da silva',
               email: 'eliana.silva@ufrn.br',
+            },
+            {
+              _id: '64c811dbea39bd00105dc40b',
+              name: 'Ilena Felipe Barros',
+              email: 'ilena.felipe@ufrn.br',
             },
           ],
           _id: '64907bf75995d60010a1e4a9',
@@ -5994,6 +6039,11 @@ export const posterPresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f22875431f3e00105ff1bf',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
