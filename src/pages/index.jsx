@@ -15,6 +15,7 @@ import { Fragment, useRef, useState } from 'react'
 import { Dialog, Transition } from '@headlessui/react'
 import { ExclamationTriangleIcon } from '@heroicons/react/24/outline'
 import { ExclamationCircleIcon, XMarkIcon } from '@heroicons/react/24/solid'
+import Link from 'next/link'
 
 export function PopUp() {
   const [open, setOpen] = useState(true)
@@ -77,10 +78,17 @@ export function PopUp() {
                       >
                         Atenção
                       </Dialog.Title>
-                      <p>
+                      <p className="pt-2">
                         Isenções com base em situação econômica podem ser
                         solicitadas enviando o comprovante retirado do SIGAA
                         para suporteseminarioccsa@gmail.com
+                      </p>
+                      <p className="pt-2">
+                        As datas e horas das apresentações de posteres/artigos e
+                        casos para ensino podem ser visualizadas na{' '}
+                        <Link className="text-red-900" href="/programacao">
+                          programação do evento
+                        </Link>
                       </p>
                       <div className="mt-2">
                         <p className="text-sm text-gray-500">
@@ -89,11 +97,11 @@ export function PopUp() {
                         </p>
                         <ul className="space-y-1 py-4">
                           <li>
-                            <span className="font-bold">16/6 a 31/08</span> -
+                            <span className="font-bold">16/6 a 05/08</span> -
                             Inscrição no evento dentro do SIGEVA
                           </li>
                           <li>
-                            <span className="font-bold">16/6 a 04/09</span> -
+                            <span className="font-bold">16/6 a 05/09</span> -
                             Pagamento e envio de COMPROVANTE da GRU junto ao
                             sistema
                           </li>
@@ -103,8 +111,9 @@ export function PopUp() {
                             mesasredondas
                           </li>
                           <li>
-                            <span className="font-bold">1/9 </span> - Comunicado
-                            de aceitação ou não dos trabalhos submetidos
+                            <span className="font-bold">05/9 </span> -
+                            Comunicado final de aceitação ou não dos trabalhos
+                            submetidos
                           </li>
                         </ul>
                       </div>
