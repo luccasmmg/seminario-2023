@@ -47,4 +47,12 @@ export const articleSessions = [
     finalDate: '2023-09-14T20:00:24.000Z',
     __v: 0,
   },
+  {
+    _id: '64f33387431f3e001062aace',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e44002ff7b2bb3d2709ca2b',
+    initialDate: '2023-09-14T13:00:04.000Z',
+    finalDate: '2023-09-14T14:30:04.000Z',
+    __v: 0,
+  },
 ]

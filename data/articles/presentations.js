@@ -337,15 +337,9 @@ export const articlePresentations = [
         },
       },
       consolidation: {
-        sessions: [
-          '64ee6ffd431f3e00104d10d9',
-          '64ee7036431f3e00104d1152',
-          '64ee6ffd431f3e00104d10d9',
-          '64ee6ffd431f3e00104d10d9',
-          '64ee7036431f3e00104d1152',
-        ],
-        _id: '64ee720a431f3e00104d1757',
-        location: 'Sala B2 - Setor 1',
+        sessions: ['64ee72b5431f3e00104d19a0'],
+        _id: '64f3237b431f3e0010627170',
+        location: 'Sala A1 - Setor 1',
       },
     },
   },
@@ -494,6 +488,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae6b',
+        location: 'Sala A3 - Setor 1',
       },
     },
   },
@@ -673,6 +672,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae6c',
+        location: 'Sala A3 - Setor 1',
+      },
     },
   },
   {
@@ -823,6 +827,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae6d',
+        location: 'Sala A3 - Setor 1',
       },
     },
   },
@@ -975,6 +984,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b2fb',
+        location: 'Sala C2 - Setor 1',
       },
     },
   },
@@ -1883,9 +1897,9 @@ export const articlePresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee7036431f3e00104d1152'],
-        _id: '64efbe0c431f3e001053358b',
-        location: 'Sala A2 - Setor 1',
+        sessions: ['64efc481431f3e0010537bfc', '64ee7375431f3e00104d1c7d'],
+        _id: '64f32fb3431f3e00106297a3',
+        location: 'Sala B2 - Setor 1',
       },
     },
   },
@@ -1957,6 +1971,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b2fc',
+        location: 'Sala C2 - Setor 1',
+      },
     },
   },
   {
@@ -2022,6 +2041,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b2fd',
+        location: 'Sala C2 - Setor 1',
       },
     },
   },
@@ -2094,6 +2118,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b2fe',
+        location: 'Sala C2 - Setor 1',
+      },
     },
   },
   {
@@ -2163,6 +2192,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b301',
+        location: 'Sala C2 - Setor 1',
       },
     },
   },
@@ -2428,6 +2462,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b2ff',
+        location: 'Sala C2 - Setor 1',
+      },
     },
   },
   {
@@ -2493,6 +2532,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720', '64ee7375431f3e00104d1c7d'],
+        _id: '64f336f2431f3e001062b300',
+        location: 'Sala C2 - Setor 1',
       },
     },
   },
@@ -3088,6 +3132,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64ee7036431f3e00104d1152'],
+        _id: '64f33860431f3e001062ba58',
+        location: 'Sala B2 - Setor 1',
+      },
     },
   },
   {
@@ -3406,6 +3455,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f1199b431f3e00105b38f7'],
+        _id: '64f33909431f3e001062ba73',
+        location: 'Sala A2 - Setor 1',
       },
     },
   },
@@ -3780,6 +3834,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f1199b431f3e00105b38f7'],
+        _id: '64f33909431f3e001062ba74',
+        location: 'Sala A2 - Setor 1',
+      },
     },
   },
   {
@@ -3856,6 +3915,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f1199b431f3e00105b38f7'],
+        _id: '64f33909431f3e001062ba75',
+        location: 'Sala A2 - Setor 1',
+      },
     },
   },
   {
@@ -3926,6 +3990,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f1199b431f3e00105b38f7'],
+        _id: '64f33909431f3e001062ba76',
+        location: 'Sala A2 - Setor 1',
       },
     },
   },
@@ -4225,7 +4294,7 @@ export const articlePresentations = [
           email: 'dalianam61@gmail.com',
         },
       ],
-      files: ['64c82898ea39bd00105e0992', '64c828d3ea39bd00105e09b5'],
+      files: ['64f3244b431f3e0010627575', '64c828d3ea39bd00105e09b5'],
       state: 'approved',
       deleted: false,
       cert: null,
@@ -4275,6 +4344,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f1199b431f3e00105b38f7'],
+        _id: '64f33909431f3e001062ba77',
+        location: 'Sala A2 - Setor 1',
       },
     },
   },
@@ -5605,6 +5679,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae6a',
+        location: 'Sala A3 - Setor 1',
+      },
     },
   },
   {
@@ -5998,6 +6077,15 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: [
+          '64efc481431f3e0010537bfc',
+          '64ee7567431f3e00104d22bb',
+          '64f33387431f3e001062aace',
+        ],
+        _id: '64f333a3431f3e001062ab22',
+        location: 'Sala A1 - Setor 1',
+      },
     },
   },
   {
@@ -6334,6 +6422,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae69',
+        location: 'Sala A3 - Setor 1',
+      },
     },
   },
   {
@@ -6389,6 +6482,15 @@ export const articlePresentations = [
             name: 'Ciência da Informação',
           },
         },
+      },
+      consolidation: {
+        sessions: [
+          '64efc481431f3e0010537bfc',
+          '64ee7567431f3e00104d22bb',
+          '64f33387431f3e001062aace',
+        ],
+        _id: '64f333a3431f3e001062ab21',
+        location: 'Sala A1 - Setor 1',
       },
     },
   },
@@ -6675,6 +6777,11 @@ export const articlePresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f33387431f3e001062aace'],
+        _id: '64f334ff431f3e001062ae68',
+        location: 'Sala A3 - Setor 1',
+      },
     },
   },
   {
@@ -6720,6 +6827,11 @@ export const articlePresentations = [
             name: 'Serviço Social',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64ee7375431f3e00104d1c7d'],
+        _id: '64f339a5431f3e001062bb8f',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },

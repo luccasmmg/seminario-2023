@@ -887,6 +887,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc', '64ee7567431f3e00104d22bb'],
+        _id: '64f33305431f3e001062a94a',
+        location: 'Sala B2 - Setor 1',
+      },
     },
   },
   {
@@ -2250,6 +2255,15 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: [
+          '64efc481431f3e0010537bfc',
+          '64ee7375431f3e00104d1c7d',
+          '64efc481431f3e0010537bfc',
+        ],
+        _id: '64f32ff0431f3e0010629897',
+        location: 'Sala B4 - Setor 1',
+      },
     },
   },
   {
@@ -2504,6 +2518,15 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: [
+          '64efc481431f3e0010537bfc',
+          '64ee7375431f3e00104d1c7d',
+          '64efc481431f3e0010537bfc',
+        ],
+        _id: '64f32ff0431f3e0010629898',
+        location: 'Sala B4 - Setor 1',
+      },
     },
   },
   {
@@ -2748,13 +2771,9 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: [
-          '64ee6ffd431f3e00104d10d9',
-          '64ee7036431f3e00104d1152',
-          '64ee6ffd431f3e00104d10d9',
-        ],
-        _id: '64ee70fe431f3e00104d1245',
-        location: 'Sala A2 - Setor 1',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f87431f3e0010629728',
+        location: 'Sala B2 - Setor 1',
       },
     },
   },
@@ -3129,9 +3148,9 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee6ffd431f3e00104d10d9'],
-        _id: '64efbde5431f3e0010532f7a',
-        location: 'Sala A2 - Setor 1F',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f87431f3e001062972a',
+        location: 'Sala B2 - Setor 1',
       },
     },
   },
@@ -3586,13 +3605,9 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: [
-          '64ee6ffd431f3e00104d10d9',
-          '64ee7036431f3e00104d1152',
-          '64ee6ffd431f3e00104d10d9',
-        ],
-        _id: '64ee70fe431f3e00104d1246',
-        location: 'Sala A2 - Setor 1',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f87431f3e0010629729',
+        location: 'Sala B2 - Setor 1',
       },
     },
   },
@@ -3827,8 +3842,8 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee7668431f3e00104d243b', '64ee6ffd431f3e00104d10d9'],
-        _id: '64efc6b1431f3e0010539cc5',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f42431f3e0010629524',
         location: 'Sala B3 - Setor 1',
       },
     },
@@ -4287,6 +4302,15 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: [
+          '64efc481431f3e0010537bfc',
+          '64ee7375431f3e00104d1c7d',
+          '64efc481431f3e0010537bfc',
+        ],
+        _id: '64f32ff0431f3e0010629899',
+        location: 'Sala B4 - Setor 1',
+      },
     },
   },
   {
@@ -4394,6 +4418,11 @@ export const posterPresentations = [
             name: 'Ciência da Informação',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f11940431f3e00105b3720'],
+        _id: '64f3356e431f3e001062af87',
+        location: 'Sala G1 - Setor 1',
       },
     },
   },
@@ -5007,6 +5036,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc', '64ee7567431f3e00104d22bb'],
+        _id: '64f33305431f3e001062a94b',
+        location: 'Sala B2 - Setor 1',
+      },
     },
   },
   {
@@ -5495,6 +5529,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc', '64ee7567431f3e00104d22bb'],
+        _id: '64f33305431f3e001062a94c',
+        location: 'Sala B2 - Setor 1',
+      },
     },
   },
   {
@@ -5907,8 +5946,8 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee6ffd431f3e00104d10d9'],
-        _id: '64efbe6d431f3e0010533d8d',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f42431f3e0010629522',
         location: 'Sala B3 - Setor 1',
       },
     },
@@ -5987,8 +6026,8 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee6ffd431f3e00104d10d9'],
-        _id: '64efbe6d431f3e0010533d8e',
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f32f42431f3e0010629523',
         location: 'Sala B3 - Setor 1',
       },
     },
