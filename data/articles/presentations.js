@@ -4421,16 +4421,7 @@ export const articlePresentations = [
           },
         },
       },
-      consolidation: {
-        sessions: [
-          '64ee6ffd431f3e00104d10d9',
-          '64ee6ffd431f3e00104d10d9',
-          '64ee6ffd431f3e00104d10d9',
-          '64ee72b5431f3e00104d19a0',
-        ],
-        _id: '64ee7310431f3e00104d1bba',
-        location: 'Sala A1 - Setor 1',
-      },
+      consolidation: null,
     },
   },
   {
