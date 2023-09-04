@@ -199,9 +199,9 @@ export default function Home() {
             </p>
             <p>
               <span className="font-bold"> 15h30 às 17h: </span>
-              Mesa redonda: “Inovação e Tecnologia na formação do profissional
-              da informação: Biblioteconomia e Arquivologia". Com Bernardina
-              Freire (UFPB), Geysa Flávia (UFPB)
+              Mesa redonda: Inovação e Tecnologia na formação do profissional da
+              informação: Biblioteconomia e Arquivologia. Com Bernardina Freire
+              (UFPB), Geysa Flávia (UFPB)
             </p>
             <p>
               {' '}
