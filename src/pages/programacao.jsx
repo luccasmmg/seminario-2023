@@ -160,9 +160,9 @@ function PresentationCard({ presentation, sessions }) {
   return (
     <div className="flex flex-col gap-y-2 py-4">
       <h5
-        className={`text-2xl font-bold capitalize tracking-tight text-red-900 ${unna.className}`}
+        className={`text-2xl font-bold tracking-tight text-red-900 ${unna.className}`}
       >
-        {presentation.data.title.toLowerCase()}
+        {presentation.data.title}
       </h5>
       <h6 className={`max-w-2xl lg:max-w-3xl`}>
         <span className="font-bold">Propositores:</span>{' '}

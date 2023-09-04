@@ -169,36 +169,16 @@ export default function Home() {
           >
             13/09 (Quarta-feira)
           </h4>
-          <div className="flex flex-col gap-y-4">
+          <div className="flex flex-col gap-y-2">
             <p>
-              <span className="font-bold">
-                Visita Técnica – Nutseca e Biblioteca Central
-              </span>{' '}
-              – Com Bernardina Freire, Geysa Flávia e Ricardo Pimenta
+              <span className="font-bold">16h às 17h30:</span>
+              Palestra de abertura e Aula Magna do PPGIC com a professora Dra.
+              Silvana Vidotti “Representação de patrimônios culturais em
+              ambientes digitais.”{' '}
             </p>
-            <p className="font-bold">Abertura do Evento – NEPSA I:</p>
-            <p>15:30 Apresentação Cultural</p>
-            <p className="font-bold">15:45 Mesa de Abertura</p>
-            <ul>
-              <li>
-                Profa. Dra. Maria Lussieu da Silva (Diretora do CCSA/UFRN);
-              </li>
-              <li>
-                Profa. Dra. Monica Marques Carvalho Gallotti (Chefe do
-                DECIN/UFRN);
-              </li>
-              <li>
-                Profa. Dra. Nancy Sánchez-Tarragó (Coordenadora COBIB/UFRN);
-              </li>
-              <li>
-                Prof. Dr. Fernando Luiz Vecchiato (Coordenador PPGIC/UFRN);
-              </li>
-              <li>Profa. Dra. Patricia Macêdo (Coordenadora X CPCI).</li>
-            </ul>
             <p>
-              <span className="font-bold">16h às 17h30:</span> Palestra de
-              abertura e Aula Magna do PPGIC com o professor Dr. Ricardo
-              Medeiros Pimenta
+              <span className="font-bold">Mediação: </span> Profa. Dra. Monica
+              Marques Carvalho Gallotti (UFRN)
             </p>
           </div>
           <h4
@@ -208,40 +188,53 @@ export default function Home() {
           </h4>
           <div className="flex flex-col gap-y-4">
             <p>
-              {' '}
-              09h30 às 11h30:{' '}
-              <span className="font-bold">Grupos Temáticos 1</span>
+              <span className="font-bold">09h30 às 12:00: </span>
+              <span>
+                Apresentação de Trabalhos dos Grupos Temáticos (Bloco 1)
+              </span>
             </p>
-            <p className="font-bold">13h às 15h: Minicursos</p>
             <p>
-              15h30 às 17h: Mesa redonda: “Humanidades Digitais: Inovação e
-              Tecnologia na Ciência da Informação”. Com Ricardo Pimenta
-              (Ibict-UFRJ) e Leonardo Fernandes Nascimento (UFBA) Mediadora:
-              Profa. Dra. Monica Marques Carvalho Gallotti (UFRN)
+              <span className="font-bold"> 13h às 15h: </span>
+              Apresentação de Trabalhos dos Grupos Temáticos (Bloco 2)
+            </p>
+            <p>
+              <span className="font-bold"> 15h30 às 17h: </span>
+              Mesa redonda: “Inovação e Tecnologia na formação do profissional
+              da informação: Biblioteconomia e Arquivologia". Com Bernardina
+              Freire (UFPB), Geysa Flávia (UFPB)
+            </p>
+            <p>
+              {' '}
+              <span className="font-bold">Mediação:</span> Profa. Dra. Silvana
+              Vidotti
             </p>
           </div>
           <h4
             className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
           >
-            14/09 (Quinta-feira)
+            15/09 (Sexta-feira)
           </h4>
           <div className="flex flex-col gap-y-4">
             <p>
               {' '}
-              09h30 às 11h30:{' '}
-              <span className="font-bold">Grupos Temáticos 2</span>
+              <span className="font-bold">09h30 às 11:30: </span>
+              Roda de Conversa Científica com Silvana Vidotti e professores do
+              PPGIC
             </p>
             <p>
-              13h às 15h: <span className="font-bold">Minicursos</span>
+              <span className="font-bold">16:00 </span>
+              “Pesquisas em Gestão da Informação e do Conhecimento” -PPGIC
             </p>
             <p>
-              15h30: <span className="font-bold">Painel:</span> “Pesquisas em
-              Gestão da Informação e do Conhecimento” -PPGIC Mediadores:
-              Fernando Vecchiato e Andrea Carvalho. Participação: Professores do
+              <span className="font-bold">Mediador: </span>
+              Fernando Vecchiato e Andrea Carvalho.
+            </p>{' '}
+            <p>
+              <span className="font-bold">Participação:</span> Professores do
               PPGIC.
             </p>
             <p>
-              17h: <span className="font-bold">Encerramento</span>
+              17:30h: <span className="font-bold">Encerramento</span>
             </p>
           </div>
           <Link
