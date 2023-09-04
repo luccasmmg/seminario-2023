@@ -165,7 +165,7 @@ function PresentationCard({ presentation, sessions }) {
         {presentation.data.title}
       </h5>
       <h6 className={`max-w-2xl lg:max-w-3xl`}>
-        <span className="font-bold">Propositores:</span>{' '}
+        <span className="font-bold">Autores:</span>{' '}
         {presentation.data.authors
           .map((user) => `${user.name} (${user.email})`)
           .join(', ')}
