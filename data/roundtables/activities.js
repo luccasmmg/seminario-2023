@@ -44,7 +44,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             '•\tMaria Augusta Bezerra da Rocha (Mestranda PPGSS UFRN); \nDesigualdade social e agravamento das condições de pobreza no Brasil, Nordeste e Rio Grande do Norte;\n•\tAdriana Cristina Xavier Deiga Ferreira (Doutoranda PPGSS UFRN);\nDesigualdades sociais e relações patriarcais de gênero no contexto das condições de vida, de trabalho e das iniciativas organizativas de mulheres catadoras de materiais recicláveis da Rede Recicla Seridó; \n•\tRepresentante da Cáritas Diocesana de Caicó;\nOrganização e fomento da Rede Recicla Seridó desafios e conquistas; e\n\n•\tRepresentante da Rede Recicla Seridó \nRealidade das mulheres catadoras na Rede Recicla Seridó e desafios socio-organizativos.\n',
@@ -60,7 +60,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Roberto Marinho Alves da Silva',
         },
@@ -74,7 +74,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84 99612-7696',
         },
@@ -89,7 +89,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'rmas2007@gmail.com',
         },
@@ -119,6 +119,132 @@ export const roundtableActivities = [
             _id: '64eba9e7431f3e0010488fa2',
             name: 'Eveny Lays Fernandes Lima',
             email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee3764431f3e00104c6c12',
+          user: {
+            _id: '64eba3c8431f3e0010488c3b',
+            name: 'MATHEUS DE ARAUJO BARBOSA',
+            email: 'matheus.ar.ju@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee3dad431f3e00104c7f4a',
+          user: {
+            _id: '5a86322789cf91000f2fec6d',
+            email: 'kesiathayza@ufrn.edu.br',
+            name: 'Kesia Thayza Alves Xavier',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb73e431f3e001052f6af',
+          user: {
+            _id: '64efb342431f3e001052bab3',
+            name: 'Victor Afonso Batista da Silva',
+            email: 'victorafonsobatistadasilva@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efc337431f3e0010536f61',
+          user: {
+            _id: '649f1fe50e9dba00104b13c5',
+            name: 'franciele carvalho de araújo',
+            email: 'francielecarvalho188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdd13431f3e001054a73b',
+          user: {
+            _id: '5accda35092b45000ff2d9c7',
+            email: 'victorafonsoeconomista@gmail.com',
+            name: 'Victor Afonso Batista da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0f681431f3e00105a26f8',
+          user: {
+            _id: '5ab8e05e3fa6b4000f36a836',
+            email: 'tathiane.silva97@gmail.com',
+            name: 'Tathiane Conceição Silva de Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12f13431f3e00105bcd8b',
+          user: {
+            _id: '5aba81fbc9ea41000ff9aeb2',
+            email: 'raqueldantas2726@gmail.com',
+            name: 'Maria Raquel Basilio Dantas',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c1c3431f3e00105d7087',
+          user: {
+            _id: '64c7b770ea39bd00105d1ec6',
+            name: 'marina fortunato barbosa gomes',
+            email: 'marinafortunato66@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1edaa431f3e00105eb50a',
+          user: {
+            _id: '64ef967a431f3e001051d2cb',
+            name: 'Gabriela Dantas Cassimiro',
+            email: 'gabriela.cassimiro.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f216af431f3e00105fa636',
+          user: {
+            _id: '64a4ae9c0e9dba00104b8700',
+            name: 'Julia Mariane Januario de Souza',
+            email: 'julia.souza.709@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f26778431f3e00106100c9',
+          user: {
+            _id: '64c709a0ea39bd00105cb6d7',
+            name: 'Alessandra da Silva',
+            email: 'alessandrasilva.as871@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35546431f3e001062fb47',
+          user: {
+            _id: '64e1130d67aaa40010e71088',
+            name: 'Ana Beatriz Sarmento Xavier',
+            email: 'anabeatrizs188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35921431f3e0010630c8a',
+          user: {
+            _id: '64e10fa367aaa40010e7056e',
+            name: 'Marya luyzza Trindade',
+            email: 'maryaluyzzat@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5c8d6431f3e0010663d0d',
+          user: {
+            _id: '64b9164aea39bd00105b5df9',
+            name: 'Emanuella Fernandes Guimarães',
+            email: 'emanuella.silva.095@ufrn.edu.br',
           },
           present: false,
         },
@@ -195,7 +321,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Marcelo Braz\nMarcos Paulo Botelho\nSilvana Mara dos Santos',
         },
@@ -210,7 +336,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Marcelo Braz',
         },
@@ -224,7 +350,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84996164686',
         },
@@ -239,7 +365,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'marcelo.braz@ufrn.br',
         },
@@ -299,6 +425,402 @@ export const roundtableActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ee294d431f3e00104c14b1',
+          user: {
+            _id: '64abdc24ea39bd00105a4fc5',
+            name: 'Vitória Gabriele Martins Vieira',
+            email: 'vitoria.vieira.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5899431f3e0010501c1e',
+          user: {
+            _id: '5e61822fe68d160011041133',
+            name: 'Isabela Bentes Abreu Teixeira',
+            email: 'isa.bentes@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb2e0431f3e001052b56b',
+          user: {
+            _id: '5cd5fb28eddaaa000fb5962c',
+            email: 'larissamedeiros_@outlook.com',
+            name: 'Larissa Layane de Souza Medeiros',
+          },
+          present: false,
+        },
+        {
+          _id: '64efced8431f3e001053e366',
+          user: {
+            _id: '64ee5762431f3e00104cc697',
+            name: 'Sandy Camila Costa de melo',
+            email: 'sandy.melo.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdc64431f3e0010549bc2',
+          user: {
+            _id: '5af095dce5e4c4000fa08177',
+            email: 'beatriznagel77@gmail.com',
+            name: 'Thallyta Beatriz Bezerra dos Santos Nagel',
+          },
+          present: false,
+        },
+        {
+          _id: '64efef5a431f3e0010554921',
+          user: {
+            _id: '64e2b4b067aaa40010e76e6d',
+            name: 'Elisa Campelo de Sousa Pereira',
+            email: 'elisapereirapsi@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07372431f3e0010560649',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08335431f3e0010567bfa',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08e60431f3e0010571ff5',
+          user: {
+            _id: '64e2567467aaa40010e74e27',
+            name: 'hellen beatriz pereira da silva',
+            email: 'hellenbpsif@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f093e2431f3e001057542e',
+          user: {
+            _id: '64b5639dea39bd00105b0fde',
+            name: 'Aline Cavalcanti Dantas',
+            email: 'aline.dantas.144@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f098c4431f3e001057880e',
+          user: {
+            _id: '64c2dc55ea39bd00105bf73c',
+            name: 'Thalita Conceição de França Ferreira',
+            email: 'thalita.franca.069@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b203431f3e001058396f',
+          user: {
+            _id: '64c2b40eea39bd00105bed05',
+            name: 'Adna Eliza Teixeira Santos',
+            email: 'adnaeliza2662@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b257431f3e0010583bb9',
+          user: {
+            _id: '64ee43cf431f3e00104c8ede',
+            name: 'RAYANE BARTIRA DE ARAÚJO GRILO',
+            email: 'rayme_araujo@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b659431f3e0010585454',
+          user: {
+            _id: '5a9821cfe5e096000fba1925',
+            email: 'mathsilveira13@gmail.com',
+            name: 'Lucas Matheus da Silveira Santos',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c357431f3e001058bf57',
+          user: {
+            _id: '64e79b5e431f3e00104612f5',
+            name: 'Maiara kevily da silva',
+            email: 'maiara.silva.705@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cc75431f3e0010590687',
+          user: {
+            _id: '64a6e192ea39bd001059d778',
+            name: 'LUCAS ALEXSSANDHER TAVARES FONSECA',
+            email: 'lucas.tavares@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0dc8c431f3e00105990d2',
+          user: {
+            _id: '64f07c14431f3e00105642bd',
+            name: 'Erislayne de Moura Félix dos Santos',
+            email: 'erislayne.santos.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e290431f3e001059ba8d',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e3d0431f3e001059c527',
+          user: {
+            _id: '64c3ac7fea39bd00105c0063',
+            name: 'Maria Eduarda Martins da Cunha',
+            email: 'maria.cunha.706@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ef51431f3e001059fd9c',
+          user: {
+            _id: '64944eeb55c6e8001076f567',
+            name: 'Quitéria Gabriela Cabral Xavier',
+            email: 'quiteria.xavier.102@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0fc8b431f3e00105a48cd',
+          user: {
+            _id: '64c2751cea39bd00105bdd09',
+            name: 'Isabelly Felix Dantas',
+            email: 'isabelly.felix.091@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10e3f431f3e00105ae740',
+          user: {
+            _id: '64ee4cdf431f3e00104ca89c',
+            name: 'Fernanda Maria Cardoso de Lima',
+            email: 'fernandacardoso1310@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10e48431f3e00105ae796',
+          user: {
+            _id: '64e1123e67aaa40010e70ee4',
+            name: 'Letícia Horácio de Oliveira',
+            email: 'horacioleticia152@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f11ef3431f3e00105b59af',
+          user: {
+            _id: '64e2349867aaa40010e74447',
+            name: 'Josileide Borges da Silva',
+            email: 'josileide817@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1207e431f3e00105b632b',
+          user: {
+            _id: '64f07adf431f3e0010563635',
+            name: 'Elizabete Cristina da Silva Dantas',
+            email: 'elizac5@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12555431f3e00105b7b1e',
+          user: {
+            _id: '64b735d2ea39bd00105b4a49',
+            name: 'Gabriel Garcia de Oliveira',
+            email: 'gabriel.garcia.119@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12555431f3e00105b7b26',
+          user: {
+            _id: '64b735d2ea39bd00105b4a49',
+            name: 'Gabriel Garcia de Oliveira',
+            email: 'gabriel.garcia.119@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12613431f3e00105b812e',
+          user: {
+            _id: '64c128f7ea39bd00105bacad',
+            name: 'Gloria Maria da silva gomes',
+            email: 'Gloria.maria.706@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1297d431f3e00105ba34e',
+          user: {
+            _id: '64f0b0a1431f3e0010582dee',
+            name: 'Júlia Souza',
+            email: 'julia.natana.713@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12c08431f3e00105bb2a2',
+          user: {
+            _id: '64e7edcb431f3e0010468629',
+            name: 'Janinny Gomes Marinho Cota',
+            email: 'janinny.cota.088@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13657431f3e00105c1d79',
+          user: {
+            _id: '64e10f2967aaa40010e704bf',
+            name: 'Ingrid Vitoria da Silva Araújo',
+            email: 'ingrid.araujo.707@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13805431f3e00105c318e',
+          user: {
+            _id: '64c12520ea39bd00105baa6a',
+            name: 'GLAUCIA LAVINEA OLIVEIRA XAVIER',
+            email: 'glaucia.oliveira.121@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c1dc431f3e00105d7290',
+          user: {
+            _id: '64c7b770ea39bd00105d1ec6',
+            name: 'marina fortunato barbosa gomes',
+            email: 'marinafortunato66@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d945431f3e00105e190b',
+          user: {
+            _id: '5ce698b06bc2a2000f035a08',
+            email: 'ilaraaraujo28@hotmail.com',
+            name: 'Ilara Araújo Peixoto',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d95e431f3e00105e1a62',
+          user: {
+            _id: '64efd420431f3e00105407ab',
+            name: 'Maria Luiza Almeida de Lima',
+            email: 'malualmeida156@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1e347431f3e00105e6d61',
+          user: {
+            _id: '5e63b137e68d16001104354c',
+            name: 'Leovictor Alves Porto Mendonça',
+            email: 'leovictoralvesporto@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1e50e431f3e00105e7e2f',
+          user: {
+            _id: '5abef227c9ea41000ffa75dc',
+            email: 'ju.ciara.gomes@hotmail.com',
+            name: 'Juciara Gomes de Matos Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64f200aa431f3e00105f0adf',
+          user: {
+            _id: '5af1b1e3ab3cbe000f5c1f8a',
+            email: 'camilasroccha@gmail.com',
+            name: 'Camila da Silva Rocha',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2069e431f3e00105f3591',
+          user: {
+            _id: '64efdc3d431f3e0010549981',
+            name: 'Thaís Ymna Barreto de Oliveira',
+            email: 'thais.barreto.125@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20cba431f3e00105f5b7d',
+          user: {
+            _id: '64ea5592431f3e001047ed50',
+            name: 'MERILENE DE ASSIS SILVA',
+            email: 'llenne@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f218c2431f3e00105fb02f',
+          user: {
+            _id: '64f2117b431f3e00105f806c',
+            name: 'Bruna Rafaela de Souza Muniz',
+            email: 'brunamuniz.brs@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f22b2d431f3e00106002f2',
+          user: {
+            _id: '64ef4d35431f3e00104fac98',
+            name: 'Lorena de figueirêdo maniçoba martins',
+            email: 'lorenamartins1230@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3b2e3431f3e001063bfe7',
+          user: {
+            _id: '64c862a3ea39bd00105e94c1',
+            name: 'Maytê Canassa Monteiro',
+            email: 'mayte.monteiro129@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4d02d431f3e0010652fcd',
+          user: {
+            _id: '64b56e06ea39bd00105b1759',
+            name: 'Areta Medeiros de Oliveira',
+            email: 'aretamedeiros@hotmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -348,7 +870,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Larisse de Oliveira Rodrigues',
         },
@@ -362,7 +884,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Larisse de Oliveira Rodrigues\nAdnna Raquel Araújo de Souza\nCarla Júlia da Silva\nMaria Clara de Carvalho Leite',
@@ -377,7 +899,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84996003124',
         },
@@ -392,21 +914,12 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'larisse.rodrigues@ufrn.br',
         },
       ],
       ofEnrollments: [
-        {
-          _id: '64e60e18431f3e0010450b47',
-          user: {
-            _id: '5cc4927dbce319000f7fe6b3',
-            email: 'adnnaraquel@gmail.com',
-            name: 'Adnna Raquel Araujo de Souza',
-          },
-          present: false,
-        },
         {
           _id: '64e6126b431f3e00104513d0',
           user: {
@@ -431,6 +944,60 @@ export const roundtableActivities = [
             _id: '64c8294eea39bd00105e0c1a',
             name: 'Maria Carolina Almeida de Oliveira',
             email: 'maria.carolina.almeida.051@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe46a431f3e001054eedb',
+          user: {
+            _id: '5aaffd537b9ca4000fedb568',
+            email: 'beatriz.tim@hotmail.com',
+            name: 'Anna Beatriz Valentim de Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12640431f3e00105b8232',
+          user: {
+            _id: '64b735d2ea39bd00105b4a49',
+            name: 'Gabriel Garcia de Oliveira',
+            email: 'gabriel.garcia.119@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1dac9431f3e00105e220c',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1f46e431f3e00105ed770',
+          user: {
+            _id: '5abef227c9ea41000ffa75dc',
+            email: 'ju.ciara.gomes@hotmail.com',
+            name: 'Juciara Gomes de Matos Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23ea6431f3e001060693f',
+          user: {
+            _id: '64f23146431f3e0010601d11',
+            name: 'isa beatriz cavalcante braga',
+            email: 'isa.cavalcante.710@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23ea9431f3e0010606a5d',
+          user: {
+            _id: '64f239b1431f3e0010603d65',
+            name: 'Cindhy Kethillem Lins Freire e Silva',
+            email: 'cindhykethillem24@gmail.com',
           },
           present: false,
         },
@@ -481,7 +1048,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Ana Júlia Cardoso Ribeiro\nLarissa Gabrielle Capistrano\nMaria Gabriela do Nascimento Fernandes\nRaída Venceslau de Oliveira Rodrigues\n',
@@ -497,7 +1064,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Henrique André Ramos Wellen',
         },
@@ -511,7 +1078,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '988075979',
         },
@@ -526,7 +1093,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'henrique.wellen@ufrn.br',
         },
@@ -551,15 +1118,6 @@ export const roundtableActivities = [
           present: false,
         },
         {
-          _id: '64e658e5431f3e0010455c94',
-          user: {
-            _id: '5ca27bd8f875e6000f9d7801',
-            email: 'rithapontes@gmail.com',
-            name: 'Rita de Cássia Pontes da Silva',
-          },
-          present: false,
-        },
-        {
           _id: '64e7ef9d431f3e0010468ba7',
           user: {
             _id: '64e111b867aaa40010e70d05',
@@ -569,20 +1127,263 @@ export const roundtableActivities = [
           present: false,
         },
         {
-          _id: '64e895d5431f3e001046c9fb',
-          user: {
-            _id: '6491e56c55c6e8001076d3af',
-            name: 'Larissa Gabrielle Capistrano',
-            email: 'larissa.capistrano.121@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
           _id: '64edcceb431f3e00104ae64d',
           user: {
             _id: '64c8294eea39bd00105e0c1a',
             name: 'Maria Carolina Almeida de Oliveira',
             email: 'maria.carolina.almeida.051@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2efc431f3e00104c3f8e',
+          user: {
+            _id: '5a86322789cf91000f2fec6d',
+            email: 'kesiathayza@ufrn.edu.br',
+            name: 'Kesia Thayza Alves Xavier',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef36d3431f3e00104ec1a9',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb8df431f3e001053068a',
+          user: {
+            _id: '64dff62d67aaa40010e67cb0',
+            name: 'Maria Kamylle dos Santos Paiva',
+            email: 'kamyllesantos001@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe37b431f3e001054e289',
+          user: {
+            _id: '64e544681474ad001060086e',
+            name: 'maria isadora gomes do nascimento',
+            email: 'isadora234@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07406431f3e0010560cbb',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f083dd431f3e0010567f53',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f09805431f3e0010577e3c',
+          user: {
+            _id: '64a194eb0e9dba00104b3ad8',
+            name: 'Izabel Pereira da Silva',
+            email: 'izabel.pereira@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d76d431f3e001059639b',
+          user: {
+            _id: '64dba6a867aaa40010e3b323',
+            name: 'Elidiane Barbosa Bezerra',
+            email: 'barbosaa.eli@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e30d431f3e001059be91',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10e6a431f3e00105ae95e',
+          user: {
+            _id: '64ee4cdf431f3e00104ca89c',
+            name: 'Fernanda Maria Cardoso de Lima',
+            email: 'fernandacardoso1310@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13224431f3e00105be9db',
+          user: {
+            _id: '64c97005ea39bd00105f04b9',
+            name: 'CLAUDIO ROGERIO DOS SANTOS',
+            email: 'claudiopotiguarrn7@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2046d431f3e00105f2cb2',
+          user: {
+            _id: '5ca27bd8f875e6000f9d7801',
+            email: 'rithapontes@gmail.com',
+            name: 'Rita de Cássia Pontes da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20739431f3e00105f36a0',
+          user: {
+            _id: '64efdc3d431f3e0010549981',
+            name: 'Thaís Ymna Barreto de Oliveira',
+            email: 'thais.barreto.125@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f213d3431f3e00105f9405',
+          user: {
+            _id: '64d105c8ea39bd00105f95ba',
+            name: 'Julia Spinelli Alves',
+            email: 'julia.spinelli.098@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f22ada431f3e0010600060',
+          user: {
+            _id: '64c7a153ea39bd00105ce369',
+            name: 'Carolayne Gonçalves do Nascimento',
+            email: 'carolayne.nascimento.116@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f24110431f3e0010607635',
+          user: {
+            _id: '64f23146431f3e0010601d11',
+            name: 'isa beatriz cavalcante braga',
+            email: 'isa.cavalcante.710@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f26547431f3e001060fa4d',
+          user: {
+            _id: '64c709a0ea39bd00105cb6d7',
+            name: 'Alessandra da Silva',
+            email: 'alessandrasilva.as871@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2717a431f3e0010613a32',
+          user: {
+            _id: '64e7edcb431f3e0010468629',
+            name: 'Janinny Gomes Marinho Cota',
+            email: 'janinny.cota.088@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2a766431f3e00106229a4',
+          user: {
+            _id: '5af095dce5e4c4000fa08177',
+            email: 'beatriznagel77@gmail.com',
+            name: 'Thallyta Beatriz Bezerra dos Santos Nagel',
+          },
+          present: false,
+        },
+        {
+          _id: '64f32635431f3e0010627fec',
+          user: {
+            _id: '64efd821431f3e0010545776',
+            name: 'Janiely da Silva Lima',
+            email: 'janielysilvalima@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f33022431f3e0010629ae7',
+          user: {
+            _id: '64ee4911431f3e00104c99f7',
+            name: 'Maria Klara Belo de Carvalho',
+            email: 'carvalhomariaklara@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35708431f3e00106302ab',
+          user: {
+            _id: '64e1130d67aaa40010e71088',
+            name: 'Ana Beatriz Sarmento Xavier',
+            email: 'anabeatrizs188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35944431f3e0010630e2f',
+          user: {
+            _id: '64e10fa367aaa40010e7056e',
+            name: 'Marya luyzza Trindade',
+            email: 'maryaluyzzat@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3e3b7431f3e00106445db',
+          user: {
+            _id: '64e2b4b067aaa40010e76e6d',
+            name: 'Elisa Campelo de Sousa Pereira',
+            email: 'elisapereirapsi@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f465ae431f3e0010649b9d',
+          user: {
+            _id: '5cd4604aeddaaa000fb36f54',
+            email: 'malvinaemily@outlook.com',
+            name: 'Emily Malvina Castro Oliveira',
+          },
+          present: false,
+        },
+        {
+          _id: '64f542fd431f3e001065c0a7',
+          user: {
+            _id: '64f53e65431f3e001065b913',
+            name: 'Cleiton Emanuel Bezerra de Moura',
+            email: 'kleycursos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5c8be431f3e0010663cb5',
+          user: {
+            _id: '5ac79aac9324c9000ff8faa8',
+            email: 'mariaclara.25@hotmail.com',
+            name: 'Maria Clara de Carvalho Leite Cavalcante',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5c9ec431f3e00106640e9',
+          user: {
+            _id: '64b9164aea39bd00105b5df9',
+            name: 'Emanuella Fernandes Guimarães',
+            email: 'emanuella.silva.095@ufrn.edu.br',
           },
           present: false,
         },
@@ -634,7 +1435,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             '-Anna Beatriz (PPgSS/CCSA/UFRN);\n-Giovanni Sampaio Queiroz (PPgPsi/CCHLA/UFRN);\n- Juciara Gomes (PPgAS/CCSA/UFRN);\n- Juliana da Silva (CRDHMD/UFRN).',
@@ -650,7 +1451,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Profa. Dra. Silvana Mara ',
         },
@@ -664,7 +1465,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84) 98805-2705',
         },
@@ -679,7 +1480,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'silvana.mara.morais@ufrn.br',
         },
@@ -730,6 +1531,267 @@ export const roundtableActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ee679a431f3e00104cef85',
+          user: {
+            _id: '64a194eb0e9dba00104b3ad8',
+            name: 'Izabel Pereira da Silva',
+            email: 'izabel.pereira@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef93f5431f3e001051b700',
+          user: {
+            _id: '64dc218a67aaa40010e3e547',
+            name: 'Mileno Augusto Andrade Oliveira',
+            email: 'mileno_augusto@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efbc60431f3e00105320e6',
+          user: {
+            _id: '64ee85be431f3e00104d48a8',
+            name: 'Jorge Monteiro Lacerda',
+            email: 'lacerdajorge@yahoo.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efefc9431f3e0010554bb2',
+          user: {
+            _id: '64e2b4b067aaa40010e76e6d',
+            name: 'Elisa Campelo de Sousa Pereira',
+            email: 'elisapereirapsi@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07480431f3e0010561020',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f09474431f3e00105758d1',
+          user: {
+            _id: '64b5639dea39bd00105b0fde',
+            name: 'Aline Cavalcanti Dantas',
+            email: 'aline.dantas.144@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0bd1b431f3e0010588eca',
+          user: {
+            _id: '64c2b40eea39bd00105bed05',
+            name: 'Adna Eliza Teixeira Santos',
+            email: 'adnaeliza2662@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e355431f3e001059c014',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e490431f3e001059cb8c',
+          user: {
+            _id: '64c3ac7fea39bd00105c0063',
+            name: 'Maria Eduarda Martins da Cunha',
+            email: 'maria.cunha.706@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0fcfe431f3e00105a4baf',
+          user: {
+            _id: '64c2751cea39bd00105bdd09',
+            name: 'Isabelly Felix Dantas',
+            email: 'isabelly.felix.091@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1205c431f3e00105b6299',
+          user: {
+            _id: '64e2349867aaa40010e74447',
+            name: 'Josileide Borges da Silva',
+            email: 'josileide817@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f136df431f3e00105c2278',
+          user: {
+            _id: '64e10f2967aaa40010e704bf',
+            name: 'Ingrid Vitoria da Silva Araújo',
+            email: 'ingrid.araujo.707@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f19eeb431f3e00105d0f26',
+          user: {
+            _id: '5aaac01c6d0f3d000fe6f577',
+            email: 'silufrn@gmail.com',
+            name: 'Silvana Mara de Morais dos Santos',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c2cd431f3e00105d7d75',
+          user: {
+            _id: '64c7b770ea39bd00105d1ec6',
+            name: 'marina fortunato barbosa gomes',
+            email: 'marinafortunato66@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1ea02431f3e00105ea48a',
+          user: {
+            _id: '64c838e7ea39bd00105e364d',
+            name: 'Iara Maria de Paiva Rocha',
+            email: 'iarapaiva80@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20d42431f3e00105f6052',
+          user: {
+            _id: '64ea5592431f3e001047ed50',
+            name: 'MERILENE DE ASSIS SILVA',
+            email: 'llenne@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f26c2e431f3e0010611720',
+          user: {
+            _id: '64e7edcb431f3e0010468629',
+            name: 'Janinny Gomes Marinho Cota',
+            email: 'janinny.cota.088@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f337f5431f3e001062b6ee',
+          user: {
+            _id: '64ee4911431f3e00104c99f7',
+            name: 'Maria Klara Belo de Carvalho',
+            email: 'carvalhomariaklara@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f34b98431f3e001062e408',
+          user: {
+            _id: '649f52f00e9dba00104b1734',
+            name: 'Nicholas gael dos santos Sales de oliveira',
+            email: 'nichoelodeonsantos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f34e12431f3e001062eb3b',
+          user: {
+            _id: '64ef375d431f3e00104ec4e1',
+            name: 'Amanda Ellen Dantas Krein',
+            email: 'amandakrein03@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3564f431f3e001063008e',
+          user: {
+            _id: '64e1130d67aaa40010e71088',
+            name: 'Ana Beatriz Sarmento Xavier',
+            email: 'anabeatrizs188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35812431f3e0010630739',
+          user: {
+            _id: '64e10fa367aaa40010e7056e',
+            name: 'Marya luyzza Trindade',
+            email: 'maryaluyzzat@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f35851431f3e0010630a50',
+          user: {
+            _id: '64ef4408431f3e00104f5343',
+            name: 'Gabriela Alves Martins',
+            email: 'gabyyzinha2129@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f36b6f431f3e001063340c',
+          user: {
+            _id: '64ede0f2431f3e00104b2abb',
+            name: 'Jéssica Kadinny Rodrigues Neves',
+            email: 'jessicakadinny@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3aca0431f3e001063a976',
+          user: {
+            _id: '64e1126167aaa40010e70fc0',
+            name: 'Maria Eduarda Silva de Lima',
+            email: 'maeduardasdelima@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3b2ab431f3e001063be36',
+          user: {
+            _id: '64c85f61ea39bd00105e8daa',
+            name: 'Rhanna Alice Moreira Linhares',
+            email: 'rhannalinhares@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3ba81431f3e001063ead0',
+          user: {
+            _id: '64f39c8d431f3e0010639818',
+            name: 'Maria Eduarda de Souza Melo',
+            email: 'eummelo05@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4bc59431f3e001064feae',
+          user: {
+            _id: '5adf944a4e0263000f572b76',
+            email: 'lialysonbruno@gmail.com',
+            name: 'Lialyson Bruno Martins Lopes',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5cdc2431f3e0010664f52',
+          user: {
+            _id: '64ed2e07431f3e00104a7ff1',
+            name: 'Daniella Xavier Gomes da Nóbrega',
+            email: 'daniellaxnobrega@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -767,7 +1829,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             '- Anna Beatriz Valentim de Souza(PPgSS/CCSA/UFRN);\n- Giovanni Sampaio Queiroz (PPgPsi/CCHLA/UFRN);\n-  Juciara Gomes de Matos Souza (PPgSS/CCSA/UFRN);\n- Juliana da Silva (CRDHMD/UFRN).',
@@ -783,7 +1845,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Profa. Dra. Silvana Mara ',
         },
@@ -797,7 +1859,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84) 98805-2705',
         },
@@ -812,7 +1874,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'silvana.mara.morais@ufrn.br',
         },
@@ -833,9 +1895,20 @@ export const roundtableActivities = [
           email: 'fontes.grazielly@gmail.com',
         },
       ],
-      status: 'waiting',
+      status: 'consolidated',
       deleted: false,
-      consolidation: null,
+      consolidation: {
+        sessions: [
+          {
+            _id: '64da64d667aaa40010e32f85',
+            initialDate: '2023-09-13T18:30:07.000Z',
+            finalDate: '2023-09-13T20:00:07.000Z',
+          },
+        ],
+        _id: '64edeae8431f3e00104b4d2a',
+        location: 'Sala A2 - Setor 1',
+        vacancies: 45,
+      },
       code: 'rFRUsHjqt4zLyRz',
       _id: '64b321d8ea39bd00105ad16e',
       title: 'DIREITOS DOS ANIMAIS E O DIREITO DE VIZINHANÇA',
@@ -853,7 +1926,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             "Grazielly dos Anjos Fontes Guimarães\nJuliana Maria Rocha Bezerra da Silva\nMaria Esther Alencar Advíncula D'Assunção",
@@ -869,7 +1942,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Grazielly dos Anjos Fontes Guimarães',
         },
@@ -883,7 +1956,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84999028400',
         },
@@ -898,12 +1971,58 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'fontes.grazielly@gmail.com',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64f08f81431f3e00105731a7',
+          user: {
+            _id: '64efcd04431f3e001053d9e4',
+            name: 'Ana Letícia Silva Marcelino',
+            email: 'analetsm01@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d744431f3e0010596163',
+          user: {
+            _id: '64e7d500431f3e0010464fcd',
+            name: 'Fellipe Rocha de Anchieta Rodrigues',
+            email: 'fellipror@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f129c0431f3e00105ba737',
+          user: {
+            _id: '64f0b0a1431f3e0010582dee',
+            name: 'Júlia Souza',
+            email: 'julia.natana.713@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f142e6431f3e00105c9a79',
+          user: {
+            _id: '64f1319f431f3e00105be3f9',
+            name: 'Larissa Aparecida de Farias da Silva',
+            email: 'larissa.aparecida.089@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1da8b431f3e00105e200f',
+          user: {
+            _id: '5ce698b06bc2a2000f035a08',
+            email: 'ilaraaraujo28@hotmail.com',
+            name: 'Ilara Araújo Peixoto',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -950,7 +2069,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Janaynna de Moura Ferraz (DEPAD/UFRN)\nDeise Luiza da Silva Ferraz (CEPEAD/UFMG)\nAline Francilurdes do Vale (PPGA/UFRN)',
@@ -966,7 +2085,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Janaynna de Moura Ferraz',
         },
@@ -980,7 +2099,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(79) 999588484',
         },
@@ -995,7 +2114,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'janaynna.ferraz@me.com',
         },
@@ -1016,6 +2135,276 @@ export const roundtableActivities = [
             _id: '64e874aa431f3e001046a888',
             name: 'Artur Capistrano Braga',
             email: 'arturcbbraga@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2a17431f3e00104c1e12',
+          user: {
+            _id: '649f6f630e9dba00104b2900',
+            name: 'José Andeson Bezerra do Nascimento',
+            email: 'andeson.bezerra.120@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2a63431f3e00104c219f',
+          user: {
+            _id: '64abdc24ea39bd00105a4fc5',
+            name: 'Vitória Gabriele Martins Vieira',
+            email: 'vitoria.vieira.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3891431f3e00104ed2e5',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5d70431f3e00105046a9',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef7bff431f3e001050f274',
+          user: {
+            _id: '64ef7a53431f3e001050e0fc',
+            name: 'Clara Loiola Gomes',
+            email: 'clara.loiola.711@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd6f0431f3e0010544366',
+          user: {
+            _id: '64c6a039ea39bd00105c8004',
+            name: 'Mayara Carla Marques',
+            email: 'mayara.marques.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdf70431f3e001054b767',
+          user: {
+            _id: '64b56e06ea39bd00105b1759',
+            name: 'Areta Medeiros de Oliveira',
+            email: 'aretamedeiros@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07619431f3e0010561e86',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08d9f431f3e00105712b6',
+          user: {
+            _id: '64de282867aaa40010e4d846',
+            name: 'Wendel Gabriel de Lira Dantas',
+            email: 'wendel.lira.136@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08dcc431f3e0010571612',
+          user: {
+            _id: '64de27e567aaa40010e4d795',
+            name: 'Pedro Miguel de Souza Fabricio',
+            email: 'pedromsouz@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c321431f3e001058bdcb',
+          user: {
+            _id: '64dfbb4f67aaa40010e61aaf',
+            name: 'Priscila Fernandes Freire',
+            email: 'priscilafernandesfreire@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cce0431f3e0010590a78',
+          user: {
+            _id: '64a6e192ea39bd001059d778',
+            name: 'LUCAS ALEXSSANDHER TAVARES FONSECA',
+            email: 'lucas.tavares@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d0b2431f3e0010592b67',
+          user: {
+            _id: '5cbf63a54f5229000fcac5f7',
+            email: 'rebeka.coelho@gmail.com',
+            name: 'Rebeka Coelho de Almeida Alves',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d256431f3e0010593692',
+          user: {
+            _id: '64f0d154431f3e0010592eb9',
+            name: 'MARGARIDA MAYARA MOURA MIRANDA',
+            email: 'margarida.miranda.103@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e389431f3e001059c27f',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0f901431f3e00105a39d1',
+          user: {
+            _id: '5ae228d4db40bc000f3c0fef',
+            email: 'alinee_juliana12@hotmail.com',
+            name: 'ALINE JULIANA BARBOSA DE OLIVEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10230431f3e00105a6f19',
+          user: {
+            _id: '64c6ca09ea39bd00105c936a',
+            name: 'Maria Antônia Bezerra de Oliveira',
+            email: 'm4r14_antonia@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1e11b431f3e00105e551d',
+          user: {
+            _id: '64e00f9d67aaa40010e6b6a0',
+            name: 'Joaria Mendes de Moura',
+            email: 'joaria.moura@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1e23a431f3e00105e64b5',
+          user: {
+            _id: '64bad121ea39bd00105b71e5',
+            name: 'HELLENKARLA RODRIGUES FLORENCIO',
+            email: 'hellenkarlaflor@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20750431f3e00105f37db',
+          user: {
+            _id: '64efdc3d431f3e0010549981',
+            name: 'Thaís Ymna Barreto de Oliveira',
+            email: 'thais.barreto.125@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20dc7431f3e00105f6846',
+          user: {
+            _id: '64ea5592431f3e001047ed50',
+            name: 'MERILENE DE ASSIS SILVA',
+            email: 'llenne@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2118a431f3e00105f80b2',
+          user: {
+            _id: '64d105c8ea39bd00105f95ba',
+            name: 'Julia Spinelli Alves',
+            email: 'julia.spinelli.098@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23ff4431f3e001060720f',
+          user: {
+            _id: '5af0bedaab3cbe000f5ac81b',
+            email: 'ricardo@niedpro.com',
+            name: 'Ricardo Augusto Niederauer Flores Severo',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2536f431f3e001060bee6',
+          user: {
+            _id: '64f0f72c431f3e00105a2d87',
+            name: 'Heloísa da Silva Lago',
+            email: 'heloisalago780@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2a6bf431f3e0010622777',
+          user: {
+            _id: '6494495655c6e8001076f053',
+            name: 'Maria Augusta Bezerra da Rocha',
+            email: 'augusta.b.rocha@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2a7c2431f3e0010622cb5',
+          user: {
+            _id: '5af095dce5e4c4000fa08177',
+            email: 'beatriznagel77@gmail.com',
+            name: 'Thallyta Beatriz Bezerra dos Santos Nagel',
+          },
+          present: false,
+        },
+        {
+          _id: '64f38054431f3e0010635fa6',
+          user: {
+            _id: '64f20f81431f3e00105f73e2',
+            name: 'Ana Beatriz Araújo De Medeiros',
+            email: 'anabeatrizamedeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4d0b5431f3e00106532e8',
+          user: {
+            _id: '64f4cb10431f3e0010652361',
+            name: 'Felipe Medeiros dos Santos',
+            email: 'fmsdeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f51887431f3e0010659836',
+          user: {
+            _id: '64e89011431f3e001046be0a',
+            name: 'Cauâny Lins dos Santos',
+            email: 'cauanysanto@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f52d99431f3e001065ad21',
+          user: {
+            _id: '64f52c21431f3e001065aab4',
+            name: 'Ellen Mayara Duarte Costa',
+            email: 'ellenmayaraduartecosta@gmail.com',
           },
           present: false,
         },
@@ -1072,7 +2461,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Ana Carolina Costa Benevides Leite - Discente PPGSS - Grupo de estudos e pesquisa em Questão Social, Política Social e Serviço Social\nBeatriz Suellen Pereira da Silva - Discente PPGSS - Grupo de estudos e pesquisa em Questão Social, Política Social e Serviço Social\n',
@@ -1088,7 +2477,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Eliana Andrade da Silva',
         },
@@ -1102,7 +2491,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84)994182928',
         },
@@ -1117,12 +2506,94 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'eliana.silva@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64efdec4431f3e001054b226',
+          user: {
+            _id: '64a425b40e9dba00104b7831',
+            name: 'Ana Carolina Costa Benevides Leite',
+            email: 'benevides.carolina1511@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0752a431f3e001056135b',
+          user: {
+            _id: '64efd9be431f3e001054792e',
+            name: 'Andreyna Karollayne Saraiva de Sousa',
+            email: 'karollayneandreyna@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0752a431f3e001056136d',
+          user: {
+            _id: '64efd9be431f3e001054792e',
+            name: 'Andreyna Karollayne Saraiva de Sousa',
+            email: 'karollayneandreyna@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cd02431f3e0010590bde',
+          user: {
+            _id: '64a6e192ea39bd001059d778',
+            name: 'LUCAS ALEXSSANDHER TAVARES FONSECA',
+            email: 'lucas.tavares@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e7af431f3e001059e31d',
+          user: {
+            _id: '64ee43cf431f3e00104c8ede',
+            name: 'RAYANE BARTIRA DE ARAÚJO GRILO',
+            email: 'rayme_araujo@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f136c8431f3e00105c20d1',
+          user: {
+            _id: '64c12520ea39bd00105baa6a',
+            name: 'GLAUCIA LAVINEA OLIVEIRA XAVIER',
+            email: 'glaucia.oliveira.121@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1db93431f3e00105e28bb',
+          user: {
+            _id: '64efd420431f3e00105407ab',
+            name: 'Maria Luiza Almeida de Lima',
+            email: 'malualmeida156@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3ffb2431f3e0010648286',
+          user: {
+            _id: '64f13964431f3e00105c43b1',
+            name: 'Letícia Ferreira de Lima Silva',
+            email: 'leticia.ferreira.122@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5c97e431f3e0010663f0c',
+          user: {
+            _id: '5ac79aac9324c9000ff8faa8',
+            email: 'mariaclara.25@hotmail.com',
+            name: 'Maria Clara de Carvalho Leite Cavalcante',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1170,7 +2641,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Marconi Neves Macedo (mediador)\nMarcos Frederico Carrera Simões (debatedor)\nSebastião José de Arruda Júnior (debatedor)',
@@ -1186,7 +2657,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Marconi Neves Macedo',
         },
@@ -1200,7 +2671,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84999850718',
         },
@@ -1215,12 +2686,22 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'marconi.macedo@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64f38d26431f3e0010637641',
+          user: {
+            _id: '64f26b0c431f3e0010610c68',
+            name: 'Raquel da Silva Pereira',
+            email: 'raquelly.ps@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1267,7 +2748,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84)994975414',
         },
@@ -1282,7 +2763,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'fabiobezerra2013@gmail.com',
         },
@@ -1297,7 +2778,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'FABIO LUIZ DE OLIVEIRA BEZERRA',
         },
@@ -1311,7 +2792,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             '1) Vitor Limeira Barreto da Silveira, externo, advogado, presidente da Comissão de Gestão Jurídica da OAB/RN;\n\n2) Madja de Sousa Moura Siqueira, externa, juíza federal, titular da Vara Federal em Assu/RN, coordenadora do Laboratório de Inovação da JFRN;\n\n3) Daniel Coelho Soares, externo, advogado da união, Procurador-Chefe da AGU no Rio Grande do Norte.',
@@ -1351,6 +2832,51 @@ export const roundtableActivities = [
             _id: '5aea1d4e46bfd0000f4def89',
             email: 'rafaelacarlamp@hotmail.com',
             name: 'Rafaela Carla Melo de Paiva',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3967431f3e00104eda7b',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9d13431f3e0010520bd5',
+          user: {
+            _id: '64eb602b431f3e00104842d8',
+            name: 'Amanda Beatriz de Lima Silva',
+            email: 'nanabea2006@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd949431f3e0010546dda',
+          user: {
+            _id: '64dea4ad67aaa40010e56671',
+            name: 'RITA DE CÁSCIA VASCONCELOS',
+            email: 'rita.cascia.vasconcelos.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0864d431f3e001056972a',
+          user: {
+            _id: '64c6ec1aea39bd00105ca759',
+            name: 'Luma Luiza Menezes Barbosa',
+            email: 'lumaluiza08@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08c74431f3e001056f88f',
+          user: {
+            _id: '64c713b3ea39bd00105cbc4b',
+            name: 'João Pedro Pinto do Monte',
+            email: 'joaopedromonte150@gmail.com',
           },
           present: false,
         },
@@ -1407,7 +2933,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Quitéria Gabriela Cabral Xavier (20231001056 - Discente do PPGSS) - CPF: 102.754.574-27\nNatália Vilma Monteiro de Oliveira (20231001038 - Discente do PPGSS) - CPF: 016.956.994-24\nJardson Silva (20231001127 - Discente do PPGSS) - CPF: 121.156.504-17\nTathiane Conceição Silva de Souza (20231001074 - Discente do PPGSS) - CPF: 016.619.724-62',
@@ -1423,7 +2949,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Andrea Lima da Silva',
         },
@@ -1437,7 +2963,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84999933131',
         },
@@ -1452,7 +2978,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'silufrn@gmail.com',
         },
@@ -1482,6 +3008,429 @@ export const roundtableActivities = [
             _id: '5aaaff2d01e3b3000f8d0ada',
             email: 'lululima403@gmail.com',
             name: 'Ana Luíza Barbosa Lima',
+          },
+          present: false,
+        },
+        {
+          _id: '64ede2f2431f3e00104b383c',
+          user: {
+            _id: '649c67a055c6e80010775daa',
+            name: 'Lyzete Bruna Pereira Freitas',
+            email: 'lyzete.freitas.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee372c431f3e00104c6ab0',
+          user: {
+            _id: '64eba3c8431f3e0010488c3b',
+            name: 'MATHEUS DE ARAUJO BARBOSA',
+            email: 'matheus.ar.ju@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee65c3431f3e00104ce29f',
+          user: {
+            _id: '64a194eb0e9dba00104b3ad8',
+            name: 'Izabel Pereira da Silva',
+            email: 'izabel.pereira@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4125431f3e00104f2a61',
+          user: {
+            _id: '64dea18767aaa40010e56164',
+            name: 'Miryeven Torres da Silva',
+            email: 'miryeventorres@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5780431f3e0010501196',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef8c5e431f3e0010517120',
+          user: {
+            _id: '64e9349f431f3e0010477e07',
+            name: 'Lucas Gabriel de Lima',
+            email: 'lucasliim.21@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efca45431f3e001053c838',
+          user: {
+            _id: '64c7935aea39bd00105ccb19',
+            name: 'Vitoria Alice Paulista de Melo',
+            email: 'alicepaulista8@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd376431f3e0010540226',
+          user: {
+            _id: '64e37ce067aaa40010e7c6cf',
+            name: 'Iohana Flamicia Gabi da Silva',
+            email: 'iohana-gabi@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd892431f3e0010545df5',
+          user: {
+            _id: '64e4976d67aaa40010e8616a',
+            name: 'Ayanne Maríllia Sousa da Silva',
+            email: 'ayanne.sousa.015@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe019431f3e001054c00f',
+          user: {
+            _id: '64b56e06ea39bd00105b1759',
+            name: 'Areta Medeiros de Oliveira',
+            email: 'aretamedeiros@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe28e431f3e001054d3c1',
+          user: {
+            _id: '64e544681474ad001060086e',
+            name: 'maria isadora gomes do nascimento',
+            email: 'isadora234@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe47b431f3e001054f08e',
+          user: {
+            _id: '5e63b137e68d16001104354c',
+            name: 'Leovictor Alves Porto Mendonça',
+            email: 'leovictoralvesporto@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efecf1431f3e00105537e5',
+          user: {
+            _id: '64d105c8ea39bd00105f95ba',
+            name: 'Julia Spinelli Alves',
+            email: 'julia.spinelli.098@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eff01f431f3e0010554f3f',
+          user: {
+            _id: '64e2b4b067aaa40010e76e6d',
+            name: 'Elisa Campelo de Sousa Pereira',
+            email: 'elisapereirapsi@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0756e431f3e0010561916',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08431431f3e0010568383',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08661431f3e001056985d',
+          user: {
+            _id: '64a4ae9c0e9dba00104b8700',
+            name: 'Julia Mariane Januario de Souza',
+            email: 'julia.souza.709@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0875d431f3e001056a190',
+          user: {
+            _id: '649d882755c6e80010776d3b',
+            name: 'Sayonara Carolyne Amaro da Silva',
+            email: 'sayonara.amaro@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0954c431f3e001057671b',
+          user: {
+            _id: '64b5639dea39bd00105b0fde',
+            name: 'Aline Cavalcanti Dantas',
+            email: 'aline.dantas.144@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b6d4431f3e0010585852',
+          user: {
+            _id: '5a9821cfe5e096000fba1925',
+            email: 'mathsilveira13@gmail.com',
+            name: 'Lucas Matheus da Silveira Santos',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0de52431f3e0010599911',
+          user: {
+            _id: '64f07c14431f3e00105642bd',
+            name: 'Erislayne de Moura Félix dos Santos',
+            email: 'erislayne.santos.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e3c9431f3e001059c4f2',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e815431f3e001059e5a1',
+          user: {
+            _id: '64ad42a3ea39bd00105a68b8',
+            name: 'ALAINE JESSICA MARQUES FERREIRA',
+            email: 'alaine.marques.105@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1100d431f3e00105af773',
+          user: {
+            _id: '64c3ac7fea39bd00105c0063',
+            name: 'Maria Eduarda Martins da Cunha',
+            email: 'maria.cunha.706@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12a2c431f3e00105ba7d5',
+          user: {
+            _id: '64ed2e07431f3e00104a7ff1',
+            name: 'Daniella Xavier Gomes da Nóbrega',
+            email: 'daniellaxnobrega@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f12fad431f3e00105bd20b',
+          user: {
+            _id: '5aba81fbc9ea41000ff9aeb2',
+            email: 'raqueldantas2726@gmail.com',
+            name: 'Maria Raquel Basilio Dantas',
+          },
+          present: false,
+        },
+        {
+          _id: '64f131be431f3e00105be47e',
+          user: {
+            _id: '64f0b0a1431f3e0010582dee',
+            name: 'Júlia Souza',
+            email: 'julia.natana.713@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13466431f3e00105c0350',
+          user: {
+            _id: '64c97005ea39bd00105f04b9',
+            name: 'CLAUDIO ROGERIO DOS SANTOS',
+            email: 'claudiopotiguarrn7@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13a56431f3e00105c4c00',
+          user: {
+            _id: '64e10f2967aaa40010e704bf',
+            name: 'Ingrid Vitoria da Silva Araújo',
+            email: 'ingrid.araujo.707@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13a77431f3e00105c4fab',
+          user: {
+            _id: '64e2349867aaa40010e74447',
+            name: 'Josileide Borges da Silva',
+            email: 'josileide817@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13ad4431f3e00105c5465',
+          user: {
+            _id: '64dfbb4f67aaa40010e61aaf',
+            name: 'Priscila Fernandes Freire',
+            email: 'priscilafernandesfreire@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13ce6431f3e00105c661a',
+          user: {
+            _id: '64ef4d35431f3e00104fac98',
+            name: 'Lorena de figueirêdo maniçoba martins',
+            email: 'lorenamartins1230@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f16e4b431f3e00105cf8cb',
+          user: {
+            _id: '5abc228ac9ea41000ffa080f',
+            email: 'jessyca.r.henrique@gmail.com',
+            name: 'Jessyca Rodrigues Henrique da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c3e7431f3e00105d8353',
+          user: {
+            _id: '64ef967a431f3e001051d2cb',
+            name: 'Gabriela Dantas Cassimiro',
+            email: 'gabriela.cassimiro.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1daed431f3e00105e23c4',
+          user: {
+            _id: '5ce698b06bc2a2000f035a08',
+            email: 'ilaraaraujo28@hotmail.com',
+            name: 'Ilara Araújo Peixoto',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1e5ba431f3e00105e83cb',
+          user: {
+            _id: '5abef227c9ea41000ffa75dc',
+            email: 'ju.ciara.gomes@hotmail.com',
+            name: 'Juciara Gomes de Matos Souza',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1f801431f3e00105ede23',
+          user: {
+            _id: '649c60e855c6e8001077564a',
+            name: 'Rodrigo de Souza Medeiros',
+            email: 'rodrigo.souza@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23dce431f3e00106061f4',
+          user: {
+            _id: '64f239b1431f3e0010603d65',
+            name: 'Cindhy Kethillem Lins Freire e Silva',
+            email: 'cindhykethillem24@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23dd5431f3e00106062c5',
+          user: {
+            _id: '64f23146431f3e0010601d11',
+            name: 'isa beatriz cavalcante braga',
+            email: 'isa.cavalcante.710@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2a5ba431f3e0010622592',
+          user: {
+            _id: '6494495655c6e8001076f053',
+            name: 'Maria Augusta Bezerra da Rocha',
+            email: 'augusta.b.rocha@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2a7b4431f3e0010622b8f',
+          user: {
+            _id: '5af095dce5e4c4000fa08177',
+            email: 'beatriznagel77@gmail.com',
+            name: 'Thallyta Beatriz Bezerra dos Santos Nagel',
+          },
+          present: false,
+        },
+        {
+          _id: '64f32396431f3e001062718b',
+          user: {
+            _id: '64efd821431f3e0010545776',
+            name: 'Janiely da Silva Lima',
+            email: 'janielysilvalima@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f326cf431f3e0010628377',
+          user: {
+            _id: '64ee4911431f3e00104c99f7',
+            name: 'Maria Klara Belo de Carvalho',
+            email: 'carvalhomariaklara@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f34a07431f3e001062d9d2',
+          user: {
+            _id: '649f52f00e9dba00104b1734',
+            name: 'Nicholas gael dos santos Sales de oliveira',
+            email: 'nichoelodeonsantos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f356e8431f3e00106301a7',
+          user: {
+            _id: '64e1130d67aaa40010e71088',
+            name: 'Ana Beatriz Sarmento Xavier',
+            email: 'anabeatrizs188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f359a4431f3e0010630f5f',
+          user: {
+            _id: '64e10fa367aaa40010e7056e',
+            name: 'Marya luyzza Trindade',
+            email: 'maryaluyzzat@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f38148431f3e00106363c7',
+          user: {
+            _id: '64f20f81431f3e00105f73e2',
+            name: 'Ana Beatriz Araújo De Medeiros',
+            email: 'anabeatrizamedeiros@gmail.com',
           },
           present: false,
         },
@@ -1532,7 +3481,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Prof. Dr. Zéu Palmeira Sobrinho (Departamento de Direito Privado); Profa. Msc Fabiana Dantas Soares Alves Da Mota  (Departamento de Direito Privado); Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado);  Prof. Dr. Henrique Andre Ramos Wellen (Departamento de Serviço Social);',
@@ -1548,7 +3497,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             ' Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado)',
@@ -1563,7 +3512,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84991209895',
         },
@@ -1578,7 +3527,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'adv.andersonss@gmail.com',
         },
@@ -1599,6 +3548,141 @@ export const roundtableActivities = [
             _id: '64e895f6431f3e001046ca2b',
             name: 'Ana Luisa Araujo de Oliveira',
             email: 'ana.oliveira.067@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64edfa4b431f3e00104b8964',
+          user: {
+            _id: '64edf557431f3e00104b7787',
+            name: 'Jéssica Fassanaro Cortez Carvalho',
+            email: 'jessicafassanaro123@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef8152431f3e0010512349',
+          user: {
+            _id: '5e66a95ee68d160011045474',
+            name: 'Janaynna de Moura Ferraz',
+            email: 'janaynna.ferraz@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efa9bd431f3e00105265ac',
+          user: {
+            _id: '64efa6fd431f3e001052511d',
+            name: 'Luan da Costa Pessoa',
+            email: 'luanpessoa003@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efcc32431f3e001053d0d7',
+          user: {
+            _id: '64efa8e3431f3e0010525ef8',
+            name: 'Janinny Nayara Gomes da Silva Oliveira',
+            email: 'nayaragomeez@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd96d431f3e001054733f',
+          user: {
+            _id: '64c6a039ea39bd00105c8004',
+            name: 'Mayara Carla Marques',
+            email: 'mayara.marques.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08951431f3e001056c5e0',
+          user: {
+            _id: '64efb6cc431f3e001052ee6c',
+            name: 'Luís Eduardo Monteiro de Lima',
+            email: 'eduardolimamont@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08cc4431f3e0010570250',
+          user: {
+            _id: '64c713b3ea39bd00105cbc4b',
+            name: 'João Pedro Pinto do Monte',
+            email: 'joaopedromonte150@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ae83431f3e0010582071',
+          user: {
+            _id: '64de9e9767aaa40010e55811',
+            name: 'Cezar Siqueira',
+            email: 'cezar.sfs@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b674431f3e0010585569',
+          user: {
+            _id: '64f09e13431f3e001057b99c',
+            name: 'FERNANDA GRAZIELA COSTA DE ALMEIDA',
+            email: 'nandagca@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f125c3431f3e00105b7f8a',
+          user: {
+            _id: '64e491ba67aaa40010e85db1',
+            name: 'Adriana Marques',
+            email: 'adriana.marques.074@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2017b431f3e00105f124b',
+          user: {
+            _id: '64efc79a431f3e001053b065',
+            name: 'NATHAN MATHEUS FARIAS MAFRA',
+            email: 'nathanmths@live.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f21337431f3e00105f8de1',
+          user: {
+            _id: '5cbf63a54f5229000fcac5f7',
+            email: 'rebeka.coelho@gmail.com',
+            name: 'Rebeka Coelho de Almeida Alves',
+          },
+          present: false,
+        },
+        {
+          _id: '64f22912431f3e00105ff6ee',
+          user: {
+            _id: '64e87ce4431f3e001046aa1f',
+            name: 'Iris Alessandra de Lima Silva',
+            email: 'irisalessandra124@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f39eed431f3e0010639b72',
+          user: {
+            _id: '64f26b0c431f3e0010610c68',
+            name: 'Raquel da Silva Pereira',
+            email: 'raquelly.ps@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5c00c431f3e001066258b',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
           },
           present: false,
         },
@@ -1649,7 +3733,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Prof. Dr. Zéu Palmeira Sobrinho (Departamento de Direito Privado); Profa. Msc Fabiana Dantas Soares Alves Da Mota  (Departamento de Direito Privado); Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado);  Profa. Msc Lidianne Araujo Aleixo De Carvalho (Departamento de Direito Público); Prof. Dr. Marcus Aurelio De Freitas Barros (Departamento de Direito Processual e Propedêutica)',
@@ -1665,7 +3749,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             ' Prof. Dr. Anderson Souza da Silva Lanzillo  (Departamento de Direito Privado)',
@@ -1680,7 +3764,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84991209895',
         },
@@ -1695,7 +3779,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'adv.andersonss@gmail.com',
         },
@@ -1707,6 +3791,78 @@ export const roundtableActivities = [
             _id: '64eba9e7431f3e0010488fa2',
             name: 'Eveny Lays Fernandes Lima',
             email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2f32431f3e00104c40a1',
+          user: {
+            _id: '5a86322789cf91000f2fec6d',
+            email: 'kesiathayza@ufrn.edu.br',
+            name: 'Kesia Thayza Alves Xavier',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08d88431f3e0010570fc7',
+          user: {
+            _id: '64c713b3ea39bd00105cbc4b',
+            name: 'João Pedro Pinto do Monte',
+            email: 'joaopedromonte150@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0bd1e431f3e0010588f0a',
+          user: {
+            _id: '64c936f7ea39bd00105eeb40',
+            name: 'Jéssica Felipe de Lemos Soares',
+            email: 'jessicafsoares015@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1267f431f3e00105b8642',
+          user: {
+            _id: '64e491ba67aaa40010e85db1',
+            name: 'Adriana Marques',
+            email: 'adriana.marques.074@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f138d3431f3e00105c3ce9',
+          user: {
+            _id: '64e2349867aaa40010e74447',
+            name: 'Josileide Borges da Silva',
+            email: 'josileide817@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f138d7431f3e00105c3d29',
+          user: {
+            _id: '64e10f2967aaa40010e704bf',
+            name: 'Ingrid Vitoria da Silva Araújo',
+            email: 'ingrid.araujo.707@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13d09431f3e00105c67c7',
+          user: {
+            _id: '64ef4d35431f3e00104fac98',
+            name: 'Lorena de figueirêdo maniçoba martins',
+            email: 'lorenamartins1230@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d601431f3e00105dffbe',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
           },
           present: false,
         },
@@ -1757,7 +3913,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Profa. Anatalia Saraiva Martins Ramos – DEPAD/UFRN\nProfa. Adrianne Paula Vieira de Andrade\nProf. Elias Jacob de Medeiros Neto  - IMD/UFRN\n',
@@ -1773,7 +3929,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Adrianne Paula Vieira de Andrade',
         },
@@ -1787,7 +3943,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84 999178064',
         },
@@ -1802,7 +3958,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'adrianne.andrade@ufrn.br',
         },
@@ -1814,6 +3970,348 @@ export const roundtableActivities = [
             _id: '64e91a36431f3e0010475fc6',
             name: 'arthur torres costa',
             email: 'arthurtcosta10@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef35a2431f3e00104eba12',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4bd6431f3e00104fa1f4',
+          user: {
+            _id: '64e969d4431f3e0010479c63',
+            name: 'JOSE NORMANDO FEITOSA LIRA FILHO',
+            email: 'normandofilho2000@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5968431f3e0010502210',
+          user: {
+            _id: '64ef55c4431f3e00104ffbf5',
+            name: 'JORDAN GUILHERME FELIPE LACERDA',
+            email: 'jordanguilherme10@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef7c86431f3e001050f951',
+          user: {
+            _id: '64ef7a53431f3e001050e0fc',
+            name: 'Clara Loiola Gomes',
+            email: 'clara.loiola.711@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef81a1431f3e00105127b7',
+          user: {
+            _id: '5e66a95ee68d160011045474',
+            name: 'Janaynna de Moura Ferraz',
+            email: 'janaynna.ferraz@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9b27431f3e001051f48c',
+          user: {
+            _id: '5ab44f863fa6b4000f36755f',
+            email: 'hugo123@ufrn.edu.br',
+            name: 'Alexandre Hugo de Araújo Barbosa',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9cdc431f3e0010520798',
+          user: {
+            _id: '64eb602b431f3e00104842d8',
+            name: 'Amanda Beatriz de Lima Silva',
+            email: 'nanabea2006@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdebc431f3e001054b1db',
+          user: {
+            _id: '5accda35092b45000ff2d9c7',
+            email: 'victorafonsoeconomista@gmail.com',
+            name: 'Victor Afonso Batista da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08906431f3e001056c0da',
+          user: {
+            _id: '64de282867aaa40010e4d846',
+            name: 'Wendel Gabriel de Lira Dantas',
+            email: 'wendel.lira.136@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08924431f3e001056c238',
+          user: {
+            _id: '64efcd04431f3e001053d9e4',
+            name: 'Ana Letícia Silva Marcelino',
+            email: 'analetsm01@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0892a431f3e001056c2e0',
+          user: {
+            _id: '64de27e567aaa40010e4d795',
+            name: 'Pedro Miguel de Souza Fabricio',
+            email: 'pedromsouz@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08ca4431f3e001056fca5',
+          user: {
+            _id: '64f05fe6431f3e001055bd4c',
+            name: 'Sthefany Gomes de Souza',
+            email: 'sthefany.souza32@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08cb7431f3e001056ff20',
+          user: {
+            _id: '64ef12ce431f3e00104dc3c1',
+            name: 'Hebert Cabral Silva',
+            email: 'hebert.cabral.900@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08dd4431f3e001057166c',
+          user: {
+            _id: '64e2567467aaa40010e74e27',
+            name: 'hellen beatriz pereira da silva',
+            email: 'hellenbpsif@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08fa5431f3e001057345c',
+          user: {
+            _id: '64f08999431f3e001056cabb',
+            name: 'Ewerton Tinôco de Castro Filho',
+            email: 'ewertontcastro@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0945f431f3e00105757ff',
+          user: {
+            _id: '64f08af6431f3e001056da60',
+            name: 'Phamella Maryellen Nogueira Do Nascimento',
+            email: 'phamella.nogueira.092@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0bf7e431f3e001058a4a0',
+          user: {
+            _id: '64e8fc01431f3e00104748db',
+            name: 'Genival Gonçalves da Silva Junior',
+            email: 'genivalgsj355@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c684431f3e001058cfc1',
+          user: {
+            _id: '64f0888a431f3e001056b453',
+            name: 'Mariel Bárbara Rendón Macedo',
+            email: 'marielbarbara@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c981431f3e001058e41c',
+          user: {
+            _id: '64ef4d9d431f3e00104fb1ab',
+            name: 'RODRIGO ROMÃO DO NASCIMENTO',
+            email: 'romao.nascimento@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cb20431f3e001058f88a',
+          user: {
+            _id: '64ef602e431f3e0010505205',
+            name: 'Maria Gabrielle Soares Gomes',
+            email: 'gabriellesoaresuf@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0da06431f3e00105973c4',
+          user: {
+            _id: '64f0d693431f3e0010595b6a',
+            name: 'Patrícia Tatiana Ferreira Ramos',
+            email: 'patricia.tframos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0dc7b431f3e0010598ef1',
+          user: {
+            _id: '64f089da431f3e001056ccce',
+            name: 'Mário Lukas Cardoso da Silva',
+            email: 'mario.lukas1018@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e31b431f3e001059bf76',
+          user: {
+            _id: '64ef9bc0431f3e001051fe02',
+            name: 'Hyasnaia Luanna Barros de Oliveira Silva Lima',
+            email: 'hyasnaia@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e798431f3e001059e13d',
+          user: {
+            _id: '64f09445431f3e00105757c4',
+            name: 'Ruan José França de Oliveira',
+            email: 'ruanjose100@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0eda2431f3e001059f9bc',
+          user: {
+            _id: '64f0bc62431f3e00105885e2',
+            name: 'liana Claudia Lima Barros',
+            email: 'lianaclbarros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1098e431f3e00105ac6c2',
+          user: {
+            _id: '64ee63d4431f3e00104cda72',
+            name: 'Aruã Costa Cunha',
+            email: 'adm.aruacunha@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f16429431f3e00105cf4c9',
+          user: {
+            _id: '64f15f14431f3e00105cea32',
+            name: 'Hugo mariano lima da silva',
+            email: 'hugo.silva.102@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1dc58431f3e00105e3003',
+          user: {
+            _id: '64e8daee431f3e0010471808',
+            name: 'Washington Brenno Bezerra Nobrega',
+            email: 'nobregabrenno@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1fbce431f3e00105ef01a',
+          user: {
+            _id: '64f1ebbf431f3e00105eab1b',
+            name: 'RAYANNA BEATRIZ BARBALHO FONTES',
+            email: 'rayanna.fontes.018@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2159a431f3e00105f9d4d',
+          user: {
+            _id: '5cbf63a54f5229000fcac5f7',
+            email: 'rebeka.coelho@gmail.com',
+            name: 'Rebeka Coelho de Almeida Alves',
+          },
+          present: false,
+        },
+        {
+          _id: '64f21ffe431f3e00105fcc1d',
+          user: {
+            _id: '64ef4e69431f3e00104fbb44',
+            name: 'ENIO JORGE GOMES DE ALMEIDA FILHO',
+            email: 'enio.gomes.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23ec5431f3e0010606ca0',
+          user: {
+            _id: '5af0bedaab3cbe000f5ac81b',
+            email: 'ricardo@niedpro.com',
+            name: 'Ricardo Augusto Niederauer Flores Severo',
+          },
+          present: false,
+        },
+        {
+          _id: '64f28414431f3e0010618340',
+          user: {
+            _id: '64ef11c7431f3e00104dc21e',
+            name: 'Jaiane Carla França Silva',
+            email: 'jaianefranca199@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2892c431f3e001061a5b0',
+          user: {
+            _id: '64ef9aec431f3e001051f3dd',
+            name: 'Guilherme de Carvalho Albuquerque Cunha',
+            email: 'guilherme_cac@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29548431f3e001061f92a',
+          user: {
+            _id: '64f28f8d431f3e001061c526',
+            name: 'Luiz Arthur Maciel Almeida',
+            email: 'luizarthur918@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f31f3c431f3e0010625e93',
+          user: {
+            _id: '64c80ea1ea39bd00105dbe87',
+            name: 'Ana Beatriz Alves de Lima',
+            email: 'beatrizav23@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f38096431f3e00106360df',
+          user: {
+            _id: '64f20f81431f3e00105f73e2',
+            name: 'Ana Beatriz Araújo De Medeiros',
+            email: 'anabeatrizamedeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f52e2a431f3e001065ae93',
+          user: {
+            _id: '64f52c21431f3e001065aab4',
+            name: 'Ellen Mayara Duarte Costa',
+            email: 'ellenmayaraduartecosta@gmail.com',
           },
           present: false,
         },
@@ -1875,7 +4373,7 @@ export const roundtableActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '',
         },
@@ -1889,7 +4387,7 @@ export const roundtableActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '',
         },
@@ -1904,7 +4402,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Anatália Saraiva Martins Ramos',
         },
@@ -1918,7 +4416,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84988073324',
         },
@@ -1933,7 +4431,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'anataliasaraiva@gmail.com',
         },
@@ -1947,7 +4445,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Profa. Anatália Saraiva Martins Ramos (PPGA/DEPAD); Profa. Janaynna de Moura Ferraz (DEPAD/UFRN); Convidado externo (a confirmar).',
@@ -2011,7 +4509,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Dra. Juliana Bacelar de Araújo (DEPEC-UFRN), Dra. Luziene Dantas de Macedo (DEPEC-UFRN), Dra. Maria Lussieu da Silva (DEPEC-UFRN) e Dra. Valdênia Apolinário (DEPEC-UFRN).',
@@ -2027,7 +4525,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Dra. Juliana Bacelar de Araújo (DEPEC-UFRN)',
         },
@@ -2041,7 +4539,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '81999878687',
         },
@@ -2056,7 +4554,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'juliana.bacelar@ufrn.br',
         },
@@ -2116,6 +4614,213 @@ export const roundtableActivities = [
           },
           present: false,
         },
+        {
+          _id: '64edf9b7431f3e00104b8816',
+          user: {
+            _id: '64edf557431f3e00104b7787',
+            name: 'Jéssica Fassanaro Cortez Carvalho',
+            email: 'jessicafassanaro123@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2e31431f3e00104c3399',
+          user: {
+            _id: '64ee08d1431f3e00104ba587',
+            name: 'MARCEL LUIS SOARES LINS',
+            email: 'marcel.lins77@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef35f0431f3e00104ebc29',
+          user: {
+            _id: '64b9a31eea39bd00105b6d93',
+            name: 'Karinne Benassuly de Melo',
+            email: 'karinbenassuly@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef569f431f3e0010500353',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef675f431f3e0010508152',
+          user: {
+            _id: '64dcd00667aaa40010e42738',
+            name: 'Jafia Ribeiro Silva',
+            email: 'jafiaribeiro16@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef7ca5431f3e001050fa78',
+          user: {
+            _id: '64ef7a53431f3e001050e0fc',
+            name: 'Clara Loiola Gomes',
+            email: 'clara.loiola.711@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef94c7431f3e001051c29a',
+          user: {
+            _id: '64ea840d431f3e0010480eda',
+            name: 'TULIO FERREIRA DE LYRA',
+            email: 'tuliolyra@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9b42431f3e001051f5b8',
+          user: {
+            _id: '64b54babea39bd00105b0791',
+            name: 'CLEOMARA CRISTINA AZEVEDO SILVA',
+            email: 'cleomara.azevedo@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb864431f3e00105303c1',
+          user: {
+            _id: '64efb342431f3e001052bab3',
+            name: 'Victor Afonso Batista da Silva',
+            email: 'victorafonsobatistadasilva@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdc91431f3e0010549f9a',
+          user: {
+            _id: '64ec5741431f3e001048e1ee',
+            name: 'José Fernando Santos de Vasconcelos',
+            email: 'fernando.santos.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efde98431f3e001054b06f',
+          user: {
+            _id: '5accda35092b45000ff2d9c7',
+            email: 'victorafonsoeconomista@gmail.com',
+            name: 'Victor Afonso Batista da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64eff170431f3e0010555629',
+          user: {
+            _id: '64ef9c9f431f3e00105205c0',
+            name: 'Vanessa Karoline Teixeira Lins de Oliveira',
+            email: 'v.linsteixeira@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07e49431f3e0010565412',
+          user: {
+            _id: '64efb6cc431f3e001052ee6c',
+            name: 'Luís Eduardo Monteiro de Lima',
+            email: 'eduardolimamont@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ae77431f3e0010581f7d',
+          user: {
+            _id: '64de9e9767aaa40010e55811',
+            name: 'Cezar Siqueira',
+            email: 'cezar.sfs@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d80d431f3e0010596933',
+          user: {
+            _id: '64f0d6eb431f3e0010595e0a',
+            name: 'Evellyn Ricarte Portugal',
+            email: 'evellynricarte@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0f18f431f3e00105a0399',
+          user: {
+            _id: '64dff62d67aaa40010e67cb0',
+            name: 'Maria Kamylle dos Santos Paiva',
+            email: 'kamyllesantos001@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1cf05431f3e00105dce94',
+          user: {
+            _id: '64efae25431f3e00105288a0',
+            name: 'Livia Farias de Amorim',
+            email: 'livia.farias.474@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20130431f3e00105f10cf',
+          user: {
+            _id: '64efc79a431f3e001053b065',
+            name: 'NATHAN MATHEUS FARIAS MAFRA',
+            email: 'nathanmths@live.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f289de431f3e001061aa04',
+          user: {
+            _id: '64e4bfab67aaa40010e87cff',
+            name: 'Pedro Henrique da Silva Pinheiro',
+            email: 'pedro.pinheiro.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f293f0431f3e001061ec6d',
+          user: {
+            _id: '64ebc9f4431f3e001048b0f0',
+            name: 'Elizandra Louise de Sousa',
+            email: 'elizandrasousa406@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f38def431f3e00106377ec',
+          user: {
+            _id: '64f26b0c431f3e0010610c68',
+            name: 'Raquel da Silva Pereira',
+            email: 'raquelly.ps@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3927a431f3e00106385e1',
+          user: {
+            _id: '64f26ae8431f3e0010610b9b',
+            name: 'Idiane Flávia Fernandes Vieira da Silva',
+            email: 'idyane.if@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5572b431f3e001065cbde',
+          user: {
+            _id: '64f53e65431f3e001065b913',
+            name: 'Cleiton Emanuel Bezerra de Moura',
+            email: 'kleycursos@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -2163,7 +4868,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'ANA KARINA DE OLIVEIRA MAIA\nIDIAMARA NASCIMENTO DE FREITAS\nJANDUIR JOÃO DOS SANTOS\nKAÍSE CANUTO DA SILVA',
@@ -2179,7 +4884,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Almir Félix Batista de Oliveira',
         },
@@ -2193,7 +4898,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84) 994011949',
         },
@@ -2208,12 +4913,58 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'almirfbo@yahoo.com.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ee2a70431f3e00104c21d2',
+          user: {
+            _id: '6272aaed0eabf50010b72a65',
+            name: 'Camilly Myllena Lima Alves de Andrade',
+            email: 'camillyalves.and@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efaff8431f3e0010529811',
+          user: {
+            _id: '62556cfd0eabf50010b3d915',
+            name: 'Ruth Laura Fagundes de Melo Coutinho',
+            email: 'ruth.fagundes.714@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb43d431f3e001052d000',
+          user: {
+            _id: '6254d7260eabf50010b3caa2',
+            name: 'Kaline Soares de Azevedo',
+            email: 'kaline.azevedo.712@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d3e2431f3e0010594708',
+          user: {
+            _id: '64d6ce2aea39bd00105fef5a',
+            name: 'Pedro Simões Neto Segundo',
+            email: 'pedro.simoes.092@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f54c3c431f3e001065c961',
+          user: {
+            _id: '64f53e65431f3e001065b913',
+            name: 'Cleiton Emanuel Bezerra de Moura',
+            email: 'kleycursos@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2261,7 +5012,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             '1. Fabiana Alcântara Lima (Doutoranda PPGSS UFRN)\n2. Priscilla Brandão de Medeiros  (Assistente Social/Doutoranda PPGSS UFRN)\n3. Mayewe Elyenia Alves dos Santos (Professora IFCE/ Doutoranda PPGSS UFRN)\n\n',
@@ -2277,7 +5028,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Fabiana Alcântara Lima',
         },
@@ -2291,7 +5042,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '83988165009',
         },
@@ -2306,7 +5057,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'fabianalymajp@hotmail.com',
         },
@@ -2318,6 +5069,60 @@ export const roundtableActivities = [
             _id: '5ad8b3596a173b000f5b283d',
             email: 'pbm0_4@hotmail.com',
             name: 'Priscilla Brandão de Medeiros',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5178431f3e00104fd564',
+          user: {
+            _id: '6491e56c55c6e8001076d3af',
+            name: 'Larissa Gabrielle Capistrano',
+            email: 'larissa.capistrano.121@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0dd7c431f3e00105994e1',
+          user: {
+            _id: '64f07c14431f3e00105642bd',
+            name: 'Erislayne de Moura Félix dos Santos',
+            email: 'erislayne.santos.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10eff431f3e00105aeeba',
+          user: {
+            _id: '64e1123e67aaa40010e70ee4',
+            name: 'Letícia Horácio de Oliveira',
+            email: 'horacioleticia152@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d9a4431f3e00105e1b5c',
+          user: {
+            _id: '5ce698b06bc2a2000f035a08',
+            email: 'ilaraaraujo28@hotmail.com',
+            name: 'Ilara Araújo Peixoto',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1da0c431f3e00105e1e12',
+          user: {
+            _id: '64a688e5ea39bd001059ca33',
+            name: 'eduarda da silva fernandes',
+            email: 'eduardasilvafernandes1028@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f361bf431f3e001063245d',
+          user: {
+            _id: '64e491ba67aaa40010e85db1',
+            name: 'Adriana Marques',
+            email: 'adriana.marques.074@ufrn.edu.br',
           },
           present: false,
         },
@@ -2379,7 +5184,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Bernardina Maria Juvenal Freire De Oliveira - Universidade Federal da Paraíba;\nGeysa Flávia Câmara de Lima Nascimento - Universidade Federal da Paraíba;\nPatricia Ladeira Penna Macêdo - Universidade Federal do Rio Grande do Norte',
@@ -2395,7 +5200,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Patricia Ladeira Penna Macêdo',
         },
@@ -2409,7 +5214,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(21) 995696055',
         },
@@ -2424,7 +5229,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'patricia.macedo@ufrn.br',
         },
@@ -2445,6 +5250,42 @@ export const roundtableActivities = [
             _id: '6492f2df55c6e8001076e0bd',
             name: 'GRASIELLY CRISTINA ONORATO DE LIMA',
             email: 'grasielly.lima.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d63b431f3e00105e01f0',
+          user: {
+            _id: '64c99b15ea39bd00105f1404',
+            name: 'Thiago Novaci Gomes',
+            email: 'thiagotng@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f39a43431f3e0010639269',
+          user: {
+            _id: '64c81549ea39bd00105dce40',
+            name: 'Paulo Ricardo',
+            email: 'paulo.alves.115@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3ba2a431f3e001063e7a2',
+          user: {
+            _id: '64f37460431f3e001063465f',
+            name: 'Iasmyns Layanne de Mendonça Bezerra',
+            email: 'iasmyns.bezerra.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3c89a431f3e0010641b30',
+          user: {
+            _id: '64f3b77d431f3e001063ddbf',
+            name: 'Lucca Angelo Sales da Silva',
+            email: 'lucca.angelosds@gmail.com',
           },
           present: false,
         },
@@ -2495,7 +5336,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Dra. Leilianne Barreto (Mediadora)\nDra. Samara Câmara (Diretora de RH de Hotel Serhs)\nMsc. Ana Neri da Paz Justino (Docente do IFRN)\nMsc. Janaina Medeiros (Diretora do Geoparque Seridó - RN)',
@@ -2511,7 +5352,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Leilianne Barreto',
         },
@@ -2525,7 +5366,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84 991317821',
         },
@@ -2540,7 +5381,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'leilianne.barreto@ufrn.br',
         },
@@ -2552,6 +5393,69 @@ export const roundtableActivities = [
             _id: '625d62f60eabf50010b4748f',
             name: 'Andréia de Andrade Cavalcante',
             email: 'andreia.andrade.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2c46431f3e00104c2f1f',
+          user: {
+            _id: '625d576a0eabf50010b46dd4',
+            name: 'Rechelley Fernandes do Nascimento',
+            email: 'rechelley.fernandes.117@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee3002431f3e00104c46f1',
+          user: {
+            _id: '625eabe10eabf50010b4fea0',
+            name: 'Vitória Evelyn do Nascimento Silva',
+            email: 'evelyn.silva.018@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd580431f3e0010542397',
+          user: {
+            _id: '5d7444da29cf83000f9b7665',
+            email: 'joaopauloamancio2001@hotmail.com',
+            name: 'João Paulo Amancio Luiz',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08aef431f3e001056d965',
+          user: {
+            _id: '5d966920c397d7000f5604e8',
+            email: 'fernandavarelateixeira@hotmail.com',
+            name: 'FERNANDA RAÍZA VARELA TEIXEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64f096c5431f3e0010577566',
+          user: {
+            _id: '64f090c4431f3e0010573925',
+            name: 'Débora Christine Pinheiro de Medeiros',
+            email: 'debora.cpm@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f16df3431f3e00105cf7d8',
+          user: {
+            _id: '5abc228ac9ea41000ffa080f',
+            email: 'jessyca.r.henrique@gmail.com',
+            name: 'Jessyca Rodrigues Henrique da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29714431f3e00106208a8',
+          user: {
+            _id: '64ec82b3431f3e0010493de9',
+            name: 'Ana Vitória justino gomes',
+            email: 'vitoria.justino.017@ufrn.edu.br',
           },
           present: false,
         },
@@ -2603,13 +5507,41 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Ricardo Pimenta (Ibict-UFRJ) e Leonardo Fernandes Nascimento (UFBA) Mediadora: Profa. Dra. Monica Marques Carvalho Gallotti (UFRN)',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64efde7a431f3e001054afa7',
+          user: {
+            _id: '64ec5741431f3e001048e1ee',
+            name: 'José Fernando Santos de Vasconcelos',
+            email: 'fernando.santos.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10db3431f3e00105ae44b',
+          user: {
+            _id: '64f0e11c431f3e001059a540',
+            name: 'Mike Alexandre Silva Santos',
+            email: 'mike.alexandre.705@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3d37a431f3e0010643080',
+          user: {
+            _id: '64a49a760e9dba00104b8147',
+            name: 'Letícia Gabriela Dias Coutinho Cabral',
+            email: 'gabriela.dias.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2646,7 +5578,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Profa. Dra. Maria Lussieu da Silva (Diretora do CCSA/UFRN);\nProfa. Dra. Monica Marques Carvalho Gallotti (Chefe do DECIN/UFRN);\nProfa. Dra. Nancy Sánchez-Tarragó (Coordenadora COBIB/UFRN);\nProf. Dr. Fernando Luiz Vecchiato (Coordenador PPGIC/UFRN);\nProfa. Dra. Patricia Macêdo (Coordenadora X CPCI).',
@@ -2699,7 +5631,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Mediadores: Fernando Vecchiato e Andrea Carvalho.\nParticipação: Professores do PPGIC.',
@@ -2712,6 +5644,69 @@ export const roundtableActivities = [
             _id: '5aea1d4e46bfd0000f4def89',
             email: 'rafaelacarlamp@hotmail.com',
             name: 'Rafaela Carla Melo de Paiva',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5c81431f3e00105036f5',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5cad431f3e0010503b70',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1414a431f3e00105c8e9e',
+          user: {
+            _id: '64e8ca11431f3e0010470f0a',
+            name: 'Valdicleide Souza do Nascimento',
+            email: 'cleidefvcj@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2947b431f3e001061f39e',
+          user: {
+            _id: '64ebc9f4431f3e001048b0f0',
+            name: 'Elizandra Louise de Sousa',
+            email: 'elizandrasousa406@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f39a86431f3e001063933b',
+          user: {
+            _id: '64c81549ea39bd00105dce40',
+            name: 'Paulo Ricardo',
+            email: 'paulo.alves.115@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f49636431f3e001064d1d1',
+          user: {
+            _id: '5cd55fe2eddaaa000fb43751',
+            email: 'fausto.pn@hotmail.com',
+            name: 'Fausto Pereira Neto',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4bd22431f3e0010650159',
+          user: {
+            _id: '5adf944a4e0263000f572b76',
+            email: 'lialysonbruno@gmail.com',
+            name: 'Lialyson Bruno Martins Lopes',
           },
           present: false,
         },
@@ -2763,7 +5758,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Maria Arlete Duarte de Araújo',
         },
@@ -2778,7 +5773,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'Marconi Neves Macedo',
         },
@@ -2792,7 +5787,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84999850718',
         },
@@ -2807,7 +5802,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'marconi.macedo@ufrn.br',
         },
@@ -2819,6 +5814,132 @@ export const roundtableActivities = [
             _id: '64eba9e7431f3e0010488fa2',
             name: 'Eveny Lays Fernandes Lima',
             email: 'evenylays@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2b93431f3e00104c2ad3',
+          user: {
+            _id: '649f6f630e9dba00104b2900',
+            name: 'José Andeson Bezerra do Nascimento',
+            email: 'andeson.bezerra.120@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2bbb431f3e00104c2d94',
+          user: {
+            _id: '64abdc24ea39bd00105a4fc5',
+            name: 'Vitória Gabriele Martins Vieira',
+            email: 'vitoria.vieira.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee38a0431f3e00104c72b7',
+          user: {
+            _id: '64eba3c8431f3e0010488c3b',
+            name: 'MATHEUS DE ARAUJO BARBOSA',
+            email: 'matheus.ar.ju@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5312431f3e00104fea5f',
+          user: {
+            _id: '64eb7f28431f3e0010485e1d',
+            name: 'Barbara Georgia Pereira silva Barros',
+            email: 'barbarabarrosgel13@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5dac431f3e0010504877',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64efddf6431f3e001054acfc',
+          user: {
+            _id: '64ec5741431f3e001048e1ee',
+            name: 'José Fernando Santos de Vasconcelos',
+            email: 'fernando.santos.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efdf75431f3e001054b7d0',
+          user: {
+            _id: '5accda35092b45000ff2d9c7',
+            email: 'victorafonsoeconomista@gmail.com',
+            name: 'Victor Afonso Batista da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c244431f3e001058b8c6',
+          user: {
+            _id: '64dfbb4f67aaa40010e61aaf',
+            name: 'Priscila Fernandes Freire',
+            email: 'priscilafernandesfreire@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d0e7431f3e0010592c67',
+          user: {
+            _id: '64d6ce2aea39bd00105fef5a',
+            name: 'Pedro Simões Neto Segundo',
+            email: 'pedro.simoes.092@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d100431f3e0010592ca7',
+          user: {
+            _id: '5cbf63a54f5229000fcac5f7',
+            email: 'rebeka.coelho@gmail.com',
+            name: 'Rebeka Coelho de Almeida Alves',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13d5b431f3e00105c69bf',
+          user: {
+            _id: '64ef4d35431f3e00104fac98',
+            name: 'Lorena de figueirêdo maniçoba martins',
+            email: 'lorenamartins1230@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d9ff431f3e00105e1d0d',
+          user: {
+            _id: '5ce698b06bc2a2000f035a08',
+            email: 'ilaraaraujo28@hotmail.com',
+            name: 'Ilara Araújo Peixoto',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1dc99431f3e00105e33c6',
+          user: {
+            _id: '64e8daee431f3e0010471808',
+            name: 'Washington Brenno Bezerra Nobrega',
+            email: 'nobregabrenno@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5010d431f3e0010656e75',
+          user: {
+            _id: '64f4fa46431f3e0010656185',
+            name: 'Maria Francisca da Silva',
+            email: 'franeteticista13@gmail.com',
           },
           present: false,
         },
@@ -2871,7 +5992,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Prof. Dr. Thiago Dias (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)',
@@ -2886,7 +6007,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Prof. Dr. James Batista Vieira (PPGCI/UFPB)\nProf. Dr. Hironobu Sano (PPGP e PPGA/UFRN)',
@@ -2901,7 +6022,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '(84)988994071',
         },
@@ -2916,7 +6037,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'thiago.ferreira.dias@ufrn.br',
         },
@@ -2928,6 +6049,96 @@ export const roundtableActivities = [
             _id: '64eb9193431f3e00104874cc',
             name: 'HERMESON ACIOLE DA SILVA',
             email: 'hermesonacyoly98@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef421a431f3e00104f3e51',
+          user: {
+            _id: '64dea18767aaa40010e56164',
+            name: 'Miryeven Torres da Silva',
+            email: 'miryeventorres@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef49ed431f3e00104f8ca3',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64efbd2f431f3e0010532656',
+          user: {
+            _id: '64efbb8f431f3e0010531834',
+            name: 'Jefter Tavares do Nascimento',
+            email: 'jeftertavares96@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efc607431f3e001053922d',
+          user: {
+            _id: '64efb698431f3e001052eb52',
+            name: 'Williane Francine Pinheiro Brito',
+            email: 'wb3588463@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efed0b431f3e0010553857',
+          user: {
+            _id: '64ef7698431f3e001050d1aa',
+            name: 'Vitória Raquel Barbosa da Silva',
+            email: 'vitoria.barbosa.129@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f080b0431f3e00105668b0',
+          user: {
+            _id: '64ebb18b431f3e0010489372',
+            name: 'Iris Diana de Lima Marques Dantas',
+            email: 'iris.dantas.123@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f082d6431f3e0010567646',
+          user: {
+            _id: '64ebb2dd431f3e0010489555',
+            name: 'Luiz Segundo',
+            email: 'luisneto1206@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f09748431f3e0010577969',
+          user: {
+            _id: '64df91d367aaa40010e5db1a',
+            name: 'Klausto Carlos Xavier da Costa',
+            email: 'klaustocosta@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0bdfc431f3e0010589c1a',
+          user: {
+            _id: '64c936f7ea39bd00105eeb40',
+            name: 'Jéssica Felipe de Lemos Soares',
+            email: 'jessicafsoares015@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2941b431f3e001061ef38',
+          user: {
+            _id: '64ebc9f4431f3e001048b0f0',
+            name: 'Elizandra Louise de Sousa',
+            email: 'elizandrasousa406@gmail.com',
           },
           present: false,
         },
@@ -2990,7 +6201,7 @@ export const roundtableActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'DIOGO HENRIQUE SILVA DE LIMA',
         },
@@ -3004,7 +6215,7 @@ export const roundtableActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: '84991446291',
         },
@@ -3019,7 +6230,7 @@ export const roundtableActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value: 'diogo.lima@ufrn.br',
         },
@@ -3033,7 +6244,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Radna Rayanne Medeiros Rocha: Contadora, Perita, Sócia da Hatha Contabilidade LTDA, membro ocupante da Cadeira 30 da ACADERCIC, Conselheira e Vice-Presidente de Desenvolvimento Profissional do Conselho Regional de Contabilidade do Rio Grande do Norte. Expertise em otimização de processos e produtividade. Know-how em planejamento tributário de empresas de pequeno e médio portes.\nLarissa Virginia Gomes Freire: Bacharel em Direito, Pedagoga e Especialista em Análise do comportamento. Mãe atípica e proprietária da Aba clinic Natal.',
@@ -3046,6 +6257,141 @@ export const roundtableActivities = [
             _id: '64e895f6431f3e001046ca2b',
             name: 'Ana Luisa Araujo de Oliveira',
             email: 'ana.oliveira.067@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee8f2f431f3e00104d6316',
+          user: {
+            _id: '5cccd62df47e3d000f76cd57',
+            email: 'gabrielabmarques@hotmail.com',
+            name: 'Gabriela Barros Marques',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef5df4431f3e0010504a24',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64efcca4431f3e001053d432',
+          user: {
+            _id: '64ef1963431f3e00104dd26e',
+            name: 'Danielle Ribeiro da Costa',
+            email: 'danielle.ribeiro2602@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd5d3431f3e0010542b02',
+          user: {
+            _id: '5d7444da29cf83000f9b7665',
+            email: 'joaopauloamancio2001@hotmail.com',
+            name: 'João Paulo Amancio Luiz',
+          },
+          present: false,
+        },
+        {
+          _id: '64efed97431f3e0010553c29',
+          user: {
+            _id: '64ef7698431f3e001050d1aa',
+            name: 'Vitória Raquel Barbosa da Silva',
+            email: 'vitoria.barbosa.129@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efedfd431f3e0010553efa',
+          user: {
+            _id: '64dfaf9f67aaa40010e6018c',
+            name: 'Jayana Nóbrega Spagnol',
+            email: 'jayana.nobrega@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0093d431f3e00105584aa',
+          user: {
+            _id: '64eeb608431f3e00104da1f2',
+            name: 'LANA KAREN DO NASCIMENTO MENDES',
+            email: 'lanaknmendes@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f099cc431f3e00105797ef',
+          user: {
+            _id: '64efa2f7431f3e001052361c',
+            name: 'Mirleide da Silva Cabral',
+            email: 'mirleidecabral@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b27d431f3e0010583d8d',
+          user: {
+            _id: '64c936f7ea39bd00105eeb40',
+            name: 'Jéssica Felipe de Lemos Soares',
+            email: 'jessicafsoares015@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b6e3431f3e00105859cd',
+          user: {
+            _id: '64f09e13431f3e001057b99c',
+            name: 'FERNANDA GRAZIELA COSTA DE ALMEIDA',
+            email: 'nandagca@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0daa6431f3e0010597744',
+          user: {
+            _id: '64f09edd431f3e001057c1f6',
+            name: 'DAYSE MARTINS DOS SANTOS',
+            email: 'martinsdayse2@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1379c431f3e00105c2a35',
+          user: {
+            _id: '64ee32d4431f3e00104c55c8',
+            name: 'Laynara Silva Chacon',
+            email: 'laynara.chacon.137@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2029f431f3e00105f1e04',
+          user: {
+            _id: '64efc79a431f3e001053b065',
+            name: 'NATHAN MATHEUS FARIAS MAFRA',
+            email: 'nathanmths@live.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29815431f3e0010620dd0',
+          user: {
+            _id: '64de794f67aaa40010e53ba1',
+            name: 'Hortencia Arliane Quintiliano Xavier',
+            email: 'hortenciaarliane@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4bd5b431f3e00106502d2',
+          user: {
+            _id: '5adf944a4e0263000f572b76',
+            email: 'lialysonbruno@gmail.com',
+            name: 'Lialyson Bruno Martins Lopes',
           },
           present: false,
         },
@@ -3096,13 +6442,158 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Antônio Alves (UFRN), Thais Godeiro (SEPLAN/RN) e Rebecka de França (SEMJIDH/RN).',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ef41c5431f3e00104f38b3',
+          user: {
+            _id: '64dea18767aaa40010e56164',
+            name: 'Miryeven Torres da Silva',
+            email: 'miryeventorres@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef7a99431f3e001050e2e0',
+          user: {
+            _id: '64ef7a09431f3e001050dd68',
+            name: 'Jonas do Nascimento Silva',
+            email: 'jonas.silva.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd8db431f3e0010546360',
+          user: {
+            _id: '5d7444da29cf83000f9b7665',
+            email: 'joaopauloamancio2001@hotmail.com',
+            name: 'João Paulo Amancio Luiz',
+          },
+          present: false,
+        },
+        {
+          _id: '64f07ab1431f3e0010563503',
+          user: {
+            _id: '64df91d367aaa40010e5db1a',
+            name: 'Klausto Carlos Xavier da Costa',
+            email: 'klaustocosta@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0957d431f3e0010576a21',
+          user: {
+            _id: '64b5639dea39bd00105b0fde',
+            name: 'Aline Cavalcanti Dantas',
+            email: 'aline.dantas.144@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ab85431f3e0010580de2',
+          user: {
+            _id: '64de9e9767aaa40010e55811',
+            name: 'Cezar Siqueira',
+            email: 'cezar.sfs@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0aefc431f3e0010582670',
+          user: {
+            _id: '64c936f7ea39bd00105eeb40',
+            name: 'Jéssica Felipe de Lemos Soares',
+            email: 'jessicafsoares015@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b729431f3e0010585edc',
+          user: {
+            _id: '5a9821cfe5e096000fba1925',
+            email: 'mathsilveira13@gmail.com',
+            name: 'Lucas Matheus da Silveira Santos',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0bbb6431f3e0010587f96',
+          user: {
+            _id: '64c2b40eea39bd00105bed05',
+            name: 'Adna Eliza Teixeira Santos',
+            email: 'adnaeliza2662@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e001431f3e0010599ed9',
+          user: {
+            _id: '64f07c14431f3e00105642bd',
+            name: 'Erislayne de Moura Félix dos Santos',
+            email: 'erislayne.santos.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e9b9431f3e001059eb46',
+          user: {
+            _id: '64c3ac7fea39bd00105c0063',
+            name: 'Maria Eduarda Martins da Cunha',
+            email: 'maria.cunha.706@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c282431f3e00105d7a4b',
+          user: {
+            _id: '64c7b770ea39bd00105d1ec6',
+            name: 'marina fortunato barbosa gomes',
+            email: 'marinafortunato66@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f34a6e431f3e001062dd63',
+          user: {
+            _id: '649f52f00e9dba00104b1734',
+            name: 'Nicholas gael dos santos Sales de oliveira',
+            email: 'nichoelodeonsantos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3e574431f3e0010644901',
+          user: {
+            _id: '64f3b77d431f3e001063ddbf',
+            name: 'Lucca Angelo Sales da Silva',
+            email: 'lucca.angelosds@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4004d431f3e0010648506',
+          user: {
+            _id: '64f13964431f3e00105c43b1',
+            name: 'Letícia Ferreira de Lima Silva',
+            email: 'leticia.ferreira.122@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4bd99431f3e00106504ce',
+          user: {
+            _id: '5adf944a4e0263000f572b76',
+            email: 'lialysonbruno@gmail.com',
+            name: 'Lialyson Bruno Martins Lopes',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -3149,7 +6640,7 @@ export const roundtableActivities = [
             name: 'debaters',
             readableName: 'Debatedores (máximo 4)',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:01:53.443Z',
+            createdAt: '2023-09-04T12:40:05.469Z',
           },
           value:
             'Profa. Anatalia Ramos e Prof. Luiz Pinheiro (Universidade Positivo - Curitiba)',
@@ -3165,7 +6656,269 @@ export const roundtableActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ef4c4c431f3e00104fa641',
+          user: {
+            _id: '64e969d4431f3e0010479c63',
+            name: 'JOSE NORMANDO FEITOSA LIRA FILHO',
+            email: 'normandofilho2000@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4e7e431f3e00104fbbe5',
+          user: {
+            _id: '64ef4d9d431f3e00104fb1ab',
+            name: 'RODRIGO ROMÃO DO NASCIMENTO',
+            email: 'romao.nascimento@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef518b431f3e00104fd63c',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef539c431f3e00104fef1c',
+          user: {
+            _id: '64eb7f28431f3e0010485e1d',
+            name: 'Barbara Georgia Pereira silva Barros',
+            email: 'barbarabarrosgel13@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef94ce431f3e001051c2cd',
+          user: {
+            _id: '64dc218a67aaa40010e3e547',
+            name: 'Mileno Augusto Andrade Oliveira',
+            email: 'mileno_augusto@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb645431f3e001052e7b2',
+          user: {
+            _id: '64e7ebf1431f3e00104683b7',
+            name: 'Adilson Custodio da Silva',
+            email: 'adilson.silva.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efbe04431f3e00105333ea',
+          user: {
+            _id: '64ee85be431f3e00104d48a8',
+            name: 'Jorge Monteiro Lacerda',
+            email: 'lacerdajorge@yahoo.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64eff1ee431f3e0010555d7b',
+          user: {
+            _id: '64ef5af0431f3e0010502794',
+            name: 'Lucas',
+            email: 'lucas.vieira.018@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08a5e431f3e001056d3d5',
+          user: {
+            _id: '64efcd04431f3e001053d9e4',
+            name: 'Ana Letícia Silva Marcelino',
+            email: 'analetsm01@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08a60431f3e001056d415',
+          user: {
+            _id: '64de282867aaa40010e4d846',
+            name: 'Wendel Gabriel de Lira Dantas',
+            email: 'wendel.lira.136@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08b02431f3e001056dbde',
+          user: {
+            _id: '64de27e567aaa40010e4d795',
+            name: 'Pedro Miguel de Souza Fabricio',
+            email: 'pedromsouz@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f094ca431f3e0010575e01',
+          user: {
+            _id: '64f08af6431f3e001056da60',
+            name: 'Phamella Maryellen Nogueira Do Nascimento',
+            email: 'phamella.nogueira.092@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0a16b431f3e001057d299',
+          user: {
+            _id: '64f090c4431f3e0010573925',
+            name: 'Débora Christine Pinheiro de Medeiros',
+            email: 'debora.cpm@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0a433431f3e001057e54a',
+          user: {
+            _id: '64ec99e1431f3e0010496a54',
+            name: 'Ludmilla marques de lima',
+            email: 'marquesludmilla2002@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0a965431f3e001057fa72',
+          user: {
+            _id: '64dff62d67aaa40010e67cb0',
+            name: 'Maria Kamylle dos Santos Paiva',
+            email: 'kamyllesantos001@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cb4f431f3e001058fab0',
+          user: {
+            _id: '64ef602e431f3e0010505205',
+            name: 'Maria Gabrielle Soares Gomes',
+            email: 'gabriellesoaresuf@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0fa3f431f3e00105a40cd',
+          user: {
+            _id: '64f0bc62431f3e00105885e2',
+            name: 'liana Claudia Lima Barros',
+            email: 'lianaclbarros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10dda431f3e00105ae573',
+          user: {
+            _id: '64f0888a431f3e001056b453',
+            name: 'Mariel Bárbara Rendón Macedo',
+            email: 'marielbarbara@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f144eb431f3e00105ca982',
+          user: {
+            _id: '64ee3379431f3e00104c593c',
+            name: 'Daniel Rodrigues Marques de Oliveira',
+            email: 'danielrm302@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f21bd7431f3e00105fbff2',
+          user: {
+            _id: '64ef4e69431f3e00104fbb44',
+            name: 'ENIO JORGE GOMES DE ALMEIDA FILHO',
+            email: 'enio.gomes.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f23f74431f3e0010607063',
+          user: {
+            _id: '5af0bedaab3cbe000f5ac81b',
+            email: 'ricardo@niedpro.com',
+            name: 'Ricardo Augusto Niederauer Flores Severo',
+          },
+          present: false,
+        },
+        {
+          _id: '64f291ad431f3e001061db31',
+          user: {
+            _id: '64f28b58431f3e001061b276',
+            name: 'João Vitor Pereira Martins',
+            email: 'jovitor.pmartins@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f32ff2431f3e00106298b6',
+          user: {
+            _id: '64ef11c7431f3e00104dc21e',
+            name: 'Jaiane Carla França Silva',
+            email: 'jaianefranca199@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f381f2431f3e00106364bb',
+          user: {
+            _id: '64f20f81431f3e00105f73e2',
+            name: 'Ana Beatriz Araújo De Medeiros',
+            email: 'anabeatrizamedeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4bd7f431f3e00106503d0',
+          user: {
+            _id: '5adf944a4e0263000f572b76',
+            email: 'lialysonbruno@gmail.com',
+            name: 'Lialyson Bruno Martins Lopes',
+          },
+          present: false,
+        },
       ],
+    },
+  },
+  {
+    _id: '64f5cf4d431f3e0010665923',
+    entity: 'roundtable',
+    data: {
+      vacancies: 0,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'consolidated',
+      deleted: false,
+      consolidation: {
+        sessions: [
+          {
+            _id: '64f5cf2d431f3e00106657b7',
+            initialDate: '2023-09-15T12:30:44.000Z',
+            finalDate: '2023-09-15T15:00:44.000Z',
+          },
+        ],
+        _id: '64f5cf72431f3e0010665afa',
+        location: 'Auditório 1 - Nepsa 2',
+        vacancies: 50,
+      },
+      code: 'B3XxVrzUV7zxPYK',
+      _id: '64f5cf4d431f3e0010665922',
+      title:
+        'Roda de Conversa Científica com Silvana Vidotti e professores do PPGIC',
+      shift: 0,
+      syllabus: '',
+      ofFields: [],
+      ofEnrollments: [],
     },
   },
 ]

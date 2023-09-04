@@ -79,4 +79,12 @@ export const roundtableSessions = [
     finalDate: '2023-09-15T20:25:11.000Z',
     __v: 0,
   },
+  {
+    _id: '64f5cf2d431f3e00106657b7',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e44099ef7b2bb3d2709ca3f',
+    initialDate: '2023-09-15T12:30:44.000Z',
+    finalDate: '2023-09-15T15:00:44.000Z',
+    __v: 0,
+  },
 ]
