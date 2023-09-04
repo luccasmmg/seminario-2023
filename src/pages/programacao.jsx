@@ -16,6 +16,8 @@ import { posterPresentations } from 'data/posters/presentations'
 import { posterSessions } from 'data/posters/sessions'
 import { articlePresentations } from 'data/articles/presentations'
 import { articleSessions } from 'data/articles/sessions'
+import { teachingCasePresentations } from 'data/teachingcases/presentations'
+import { teachingCaseSessions } from 'data/teachingcases/sessions'
 
 const unna = Unna({ subsets: ['latin'], weight: '700' })
 
@@ -121,6 +123,20 @@ export default function Home() {
                   key={presentation.id}
                   presentation={presentation}
                   sessions={articleSessions}
+                />
+              ))}
+            </div>
+            <div className="flex flex-col py-4">
+              <h3
+                className={`mx-auto  max-w-2xl text-4xl font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+              >
+                Casos para Ensino
+              </h3>
+              {teachingCasePresentations.map((presentation) => (
+                <PresentationCard
+                  key={presentation.id}
+                  presentation={presentation}
+                  sessions={teachingCaseSessions}
                 />
               ))}
             </div>
