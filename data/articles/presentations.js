@@ -6941,6 +6941,11 @@ export const articlePresentations = [
           name: 'Tássia Rejane Monte dos Santos',
           email: 'tassia.monte@ufrn.br',
         },
+        {
+          _id: '64b735d2ea39bd00105b4a49',
+          name: 'Gabriel Garcia de Oliveira',
+          email: 'gabriel.garcia.119@ufrn.edu.br',
+        },
       ],
       files: ['64e045be67aaa40010e6eac2', '64e047f167aaa40010e6eacd'],
       state: 'approved',

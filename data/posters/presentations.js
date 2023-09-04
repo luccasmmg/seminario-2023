@@ -498,7 +498,7 @@ export const posterPresentations = [
       cert: null,
       _id: '64c50ca7ea39bd00105c373b',
       title:
-        'O FUNDAMENTO CONVENCIONAL DA PRISÃO PREVENTIVA A PARTIR DA JURISPRUDÊNCIA DA CORTE INTERAMERICANA DE DIREITOS HUMANOS',
+        'O FUNDAMENTO CONVENCIONAL DA PRISÃO PREVENTIVA A PARTIR DA JURISPRUDÊNCIA DA CORTE INTERAMERICANA DE DIREITOS HUMANOS (Remover)',
       abstract:
         'Mesmo após o fim das principais ditaduras latino-americanas, as violações à liberdade de locomoção ainda são recorrentes na região. Diante disso, a Corte Interamericana de Direitos Humanos (Corte IDH) vem reconhecendo que a privação cautelar de liberdade somente pode ser legitimada se houver uma finalidade processual, isto é, se para assegurar o desenvolvimento eficiente das investigações ou para garantir que o réu não irá se esquivar da ação da justiça. \n',
       keywords:
@@ -534,11 +534,7 @@ export const posterPresentations = [
           },
         },
       },
-      consolidation: {
-        sessions: ['64ee7803431f3e00104d2c8b', '64efc481431f3e0010537bfc'],
-        _id: '64efc4a5431f3e0010537e51',
-        location: 'Sala A3 - Setor 1',
-      },
+      consolidation: null,
     },
   },
   {
