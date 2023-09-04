@@ -956,6 +956,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f5dec39a988f00104ea463',
+          user: {
+            _id: '64f079ca431f3e0010562ffd',
+            name: 'maria clara diniz de melo',
+            email: 'clara.melo.114@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -1513,6 +1522,15 @@ export const conferenceActivities = [
             _id: '64f5ac37431f3e001065e186',
             name: 'Rebecca Moreira Monteiro',
             email: 'rebeccamonteirom@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5dc71431f3e0010669b66',
+          user: {
+            _id: '64f079ca431f3e0010562ffd',
+            name: 'maria clara diniz de melo',
+            email: 'clara.melo.114@ufrn.edu.br',
           },
           present: false,
         },
@@ -2100,6 +2118,15 @@ export const conferenceActivities = [
             _id: '64eba2dc431f3e0010488b13',
             name: 'Hugo Rafael Macedo dos Santos',
             email: 'hugorafael.santos1@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5e3d89a988f00104ec4e7',
+          user: {
+            _id: '64f5e24e9a988f00104eb937',
+            name: 'Mateus Jônatas Gomes dos Santos',
+            email: 'mateus.mjgs@gmail.com',
           },
           present: false,
         },
@@ -3293,6 +3320,15 @@ export const conferenceActivities = [
             _id: '64e89011431f3e001046be0a',
             name: 'Cauâny Lins dos Santos',
             email: 'cauanysanto@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5dc88431f3e0010669bd9',
+          user: {
+            _id: '64f079ca431f3e0010562ffd',
+            name: 'maria clara diniz de melo',
+            email: 'clara.melo.114@ufrn.edu.br',
           },
           present: false,
         },
@@ -4586,15 +4622,6 @@ export const conferenceActivities = [
           present: false,
         },
         {
-          _id: '64f1624f431f3e00105cedd6',
-          user: {
-            _id: '64f15f14431f3e00105cea32',
-            name: 'Hugo mariano lima da silva',
-            email: 'hugo.silva.102@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
           _id: '64f1a108431f3e00105d134c',
           user: {
             _id: '5aaac01c6d0f3d000fe6f577',
@@ -4766,14 +4793,14 @@ export const conferenceActivities = [
       consolidation: {
         sessions: [
           {
-            _id: '64ee2325431f3e00104bf4d1',
-            initialDate: '2023-09-14T13:00:48.000Z',
-            finalDate: '2023-09-14T14:30:48.000Z',
+            _id: '64ee22f1431f3e00104bf3ef',
+            initialDate: '2023-09-15T12:00:45.000Z',
+            finalDate: '2023-09-15T14:30:45.000Z',
           },
         ],
-        _id: '64ee232f431f3e00104bf4e8',
-        location: 'Nepsa 1',
-        vacancies: 103,
+        _id: '64f5dfe89a988f00104eabac',
+        location: 'Auditório 2 - Nepsa 2',
+        vacancies: 50,
       },
       code: 'C6jYczX2yqdTHEU',
       _id: '64ee22b7431f3e00104bf2c7',
