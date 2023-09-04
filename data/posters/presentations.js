@@ -4980,6 +4980,11 @@ export const posterPresentations = [
           name: 'CLAUDIO ROGERIO DOS SANTOS',
           email: 'claudiopotiguarrn7@hotmail.com',
         },
+        {
+          _id: '64c98446ea39bd00105f08a4',
+          name: 'Maria Eduarda Medeiros Pereira',
+          email: 'mariaeduardacurrais@gmail.com',
+        },
       ],
       files: ['64deb1ca67aaa40010e577b0', '64deb1f267aaa40010e577b4'],
       state: 'approved',
