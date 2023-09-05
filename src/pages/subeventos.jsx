@@ -5,6 +5,7 @@ import { Header } from '@/components/Header'
 import { Container } from '@/components/Container'
 import { Unna } from 'next/font/google'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const unna = Unna({ subsets: ['latin'], weight: '700' })
 
@@ -27,11 +28,71 @@ export default function Home() {
           </div>
           <div className="py-8">
             <h3
+              className={`mx-auto max-w-2xl text-center text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+            >
+              Cine CCSA{' '}
+            </h3>
+            <div className="flex flex-col space-y-2 py-8">
+              <Image
+                src="/images/cine_ccsa.jpeg"
+                className="mx-auto py-4"
+                width={500}
+                height={300}
+              />
+              <p>
+                O Cine CCSA, projeto de exibição de filmes como recurso
+                pedagógico do Centro de Ciências Sociais Aplicadas (CCSA), da
+                UFRN, promove a Mostra de Filmes: Poder, Trabalho e Tecnologia
+                para compor a programação do XXV Seminário de Pesquisa do CCSA.
+                O evento conta com dois filmes que serão exibidos de forma
+                gratuita nos dias 13 e 14 de setembro às 14h no Auditório do
+                Nepsa 1.
+              </p>
+              <p>
+                O primeiro filme a ser exibido se chama “Você não estava aqui”
+                (2020), de direção do britânico Ken Loach que ao abordar um
+                desempregado que aceita o posto de motorista-entregador na
+                chamada nova economia, sem qualquer vínculo empregatício
+                direitos e garantias, traz à tona a exploração do trabalho pela
+                economia e suas consequências para a sociedade humana.
+              </p>
+              <p>
+                O segundo filme “O quinto Poder” (2013), de direção do americano
+                Bill Condon retrata a história de Jullian Assange que ao fundar
+                o site wikileaks conta com a ajuda de seu amigo para fornecer
+                uma plataforma para que denunciantes, anonimamente, exponham
+                segredos do governo e crimes corporativos. O grau de influência
+                de Assange aumenta, e a relação entre os dois amigos acaba
+                bastante abalada.
+              </p>
+              <p>
+                No evento durante a exibição do Primeiro filme teremos os
+                comentários da Profa. titular da UFRN Sandra F Erickson que é
+                Graduada em Filosofia, possui Mestrado em Inglês, Doutorado em
+                Literatura e Cultura Brasileira, Pós-Doutorado em Teoria e
+                Crítica Literária e Pós-Doutorado em Ciências da Religião. Além
+                disso, durante a segunda exibição, contaremos com os comentários
+                do Professor Marcos Botelho que é Professor adjunto da UFRJ,
+                possui Mestrado e Doutorado em Serviço Social e tem experiência
+                na área de conhecimento do Serviço Social, com ênfase na
+                pesquisa da teoria social de Marx e da vida cotidiana no
+                capitalismo.
+              </p>
+            </div>
+          </div>
+          <div className="py-8">
+            <h3
               className={`mx-auto max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
             >
               III Colóquio Feminismo Materialista: Feministas contra o
               capitalismo
             </h3>
+            <div className="grid grid-cols-1 items-center gap-4 md:grid-cols-2">
+              <img src="/images/coloquio_feminista_1.jpeg" />
+              <img src="/images/coloquio_feminista_2.jpeg" />
+              <img src="/images/coloquio_feminista_3.jpeg" />
+              <img src="/images/coloquio_feminista_4.jpeg" />
+            </div>
             <h4
               className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
             >
