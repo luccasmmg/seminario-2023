@@ -225,6 +225,12 @@ export default function Home() {
           >
             X Colóquio de Pesquisa em Ciência da Informação
           </h3>
+          <Image
+            src="/images/coloquio_biblioteconomia.jpg"
+            className="mx-auto py-4"
+            width={500}
+            height={400}
+          />
           <h4
             className={`max-w-2xl py-4 text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
           >
