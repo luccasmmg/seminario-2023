@@ -135,4 +135,12 @@ export const conferenceSessions = [
     finalDate: '2023-09-15T15:00:44.000Z',
     __v: 0,
   },
+  {
+    _id: '64f73605d2a7e700108ed6a1',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e4409a3f7b2bb3d2709ca40',
+    initialDate: '2023-09-15T12:00:45.000Z',
+    finalDate: '2023-09-15T14:30:45.000Z',
+    __v: 0,
+  },
 ]
