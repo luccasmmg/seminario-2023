@@ -79,4 +79,12 @@ export const posterSessions = [
     finalDate: '2023-09-14T18:00:45.000Z',
     __v: 0,
   },
+  {
+    _id: '64f72c82d2a7e700108e8c17',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e440033f7b2bb3d2709ca2c',
+    initialDate: '2023-09-12T18:30:30.000Z',
+    finalDate: '2023-09-12T20:00:30.000Z',
+    __v: 0,
+  },
 ]

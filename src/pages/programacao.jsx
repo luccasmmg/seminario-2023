@@ -36,6 +36,29 @@ function isPartOfSession(session, activity) {
   return ispart
 }
 
+function compareTwoPresentations(a, b, sessions) {
+  if (!a.data.consolidation) return 1
+  if (!b.data.consolidation) return 1
+  const dateTimeA = posterSessions.find((session) => {
+    const found = a.data.consolidation.sessions.find(
+      (_session) => _session === session._id
+    )
+    if (found) return true
+    return false
+  })
+  const dateTimeB = posterSessions.find((session) => {
+    const found = b.data.consolidation.sessions.find(
+      (_session) => _session === session._id
+    )
+    if (found) return true
+    return false
+  })
+  if (!dateTimeA) return 1
+  if (!dateTimeB) return 1
+  console.log(dateTimeA.initialDate)
+  return new Date(dateTimeA.initialDate) - new Date(dateTimeB.initialDate)
+}
+
 export default function Home() {
   return (
     <>
@@ -104,13 +127,15 @@ export default function Home() {
               >
                 Posters (Parcial)
               </h3>
-              {posterPresentations.map((presentation) => (
-                <PresentationCard
-                  key={presentation.id}
-                  presentation={presentation}
-                  sessions={posterSessions}
-                />
-              ))}
+              {posterPresentations
+                .sort((a, b) => compareTwoPresentations(a, b, posterSessions))
+                .map((presentation) => (
+                  <PresentationCard
+                    key={presentation.id}
+                    presentation={presentation}
+                    sessions={posterSessions}
+                  />
+                ))}
             </div>
             <div className="flex flex-col py-4">
               <h3
@@ -118,13 +143,15 @@ export default function Home() {
               >
                 Artigos (Parcial)
               </h3>
-              {articlePresentations.map((presentation) => (
-                <PresentationCard
-                  key={presentation.id}
-                  presentation={presentation}
-                  sessions={articleSessions}
-                />
-              ))}
+              {articlePresentations
+                .sort((a, b) => compareTwoPresentations(a, b, articleSessions))
+                .map((presentation) => (
+                  <PresentationCard
+                    key={presentation.id}
+                    presentation={presentation}
+                    sessions={articleSessions}
+                  />
+                ))}
             </div>
             <div className="flex flex-col py-4">
               <h3
@@ -132,13 +159,17 @@ export default function Home() {
               >
                 Casos para Ensino
               </h3>
-              {teachingCasePresentations.map((presentation) => (
-                <PresentationCard
-                  key={presentation.id}
-                  presentation={presentation}
-                  sessions={teachingCaseSessions}
-                />
-              ))}
+              {teachingCasePresentations
+                .sort((a, b) =>
+                  compareTwoPresentations(a, b, teachingCaseSessions)
+                )
+                .map((presentation) => (
+                  <PresentationCard
+                    key={presentation.id}
+                    presentation={presentation}
+                    sessions={teachingCaseSessions}
+                  />
+                ))}
             </div>
           </div>
         </Container>
@@ -183,6 +214,10 @@ function PresentationCard({ presentation, sessions }) {
           : 'A definir'}
       </h6>
       <p className={`tracking-tight `}>
+        <span className="font-bold">GT: </span>
+        {presentation.data.thematicGroup.data.name}
+      </p>
+      <p className={`tracking-tight `}>
         <span className="font-bold">Abstrato: </span>
         {presentation.data.abstract}
       </p>
@@ -198,8 +233,9 @@ function ActivitiesList({ sessions, activities }) {
   return (
     <>
       {sessions
-        .sort((a, b) => a.initialDate > b.initialDate)
+        .sort((a, b) => new Date(a.initialDate) - new Date(b.initialDate))
         .map((session) => {
+          console.log(session.initialDate)
           const thisSessionActivities = activities.filter((activity) =>
             isPartOfSession(session, activity)
           )
