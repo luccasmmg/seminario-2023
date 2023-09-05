@@ -672,15 +672,6 @@ const publicAdmActivities = [
       'James Batista Vieira (UFPB), Thiago Dias (UFRN) e Hironobu Sano (UFRN)',
   },
   {
-    date: '12a14/set',
-    turn: '02 Tarde',
-    type: 'Minicurso',
-    title: 'Prevenção do stress e autocuidado com a saúde mental',
-    responsible:
-      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
-    participants: 'Maria Teresa Pires Costa',
-  },
-  {
     date: '14/set',
     turn: '02 Tarde',
     type: 'Oficina',

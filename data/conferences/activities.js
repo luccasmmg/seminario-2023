@@ -540,6 +540,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f73a77d2a7e700108ef755',
+          user: {
+            _id: '622037ca9691a0001015b94f',
+            name: 'Leylane Meneses Martins',
+            email: 'leylane.martins.028@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -1205,6 +1214,15 @@ export const conferenceActivities = [
             _id: '64f5f7db9a988f00104f38ef',
             name: 'Raimunda Vania da Silva',
             email: 'vannianatal17@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7414cd2a7e700108f11af',
+          user: {
+            _id: '64f740b6d2a7e700108f1034',
+            name: 'José Rhannê Marcelino Ferreira',
+            email: 'rhannemarcelino2015@gmail.com',
           },
           present: false,
         },
@@ -2469,6 +2487,15 @@ export const conferenceActivities = [
             _id: '64f5f7db9a988f00104f38ef',
             name: 'Raimunda Vania da Silva',
             email: 'vannianatal17@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f74225d2a7e700108f18ab',
+          user: {
+            _id: '64f740b6d2a7e700108f1034',
+            name: 'José Rhannê Marcelino Ferreira',
+            email: 'rhannemarcelino2015@gmail.com',
           },
           present: false,
         },
@@ -4577,6 +4604,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f7440cd2a7e700108f2616',
+          user: {
+            _id: '5ac22b37c9ea41000ffb313c',
+            email: 'sophia_mata@hotmail.com',
+            name: 'Sophia de Souza Macêdo Mata',
+          },
+          present: false,
+        },
+        {
+          _id: '64f74905d2a7e700108f50a7',
+          user: {
+            _id: '64f74162d2a7e700108f1247',
+            name: 'Maria de Lourdes Silva Santana',
+            email: 'marialourdessantana2017@outlook.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -4895,6 +4940,33 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f7430fd2a7e700108f1e3c',
+          user: {
+            _id: '64f74162d2a7e700108f1247',
+            name: 'Maria de Lourdes Silva Santana',
+            email: 'marialourdessantana2017@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f74412d2a7e700108f268f',
+          user: {
+            _id: '5ac22b37c9ea41000ffb313c',
+            email: 'sophia_mata@hotmail.com',
+            name: 'Sophia de Souza Macêdo Mata',
+          },
+          present: false,
+        },
+        {
+          _id: '64f749f3d2a7e700108f5e0f',
+          user: {
+            _id: '64f74929d2a7e700108f51f9',
+            name: 'Kamily Samara Lima da Silva',
+            email: 'kamilysamara5@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -5101,6 +5173,15 @@ export const conferenceActivities = [
             _id: '64f5e0729a988f00104eaf75',
             name: 'ANGELIKE KATHERINE PEREIRA DA SIlva',
             email: 'angelike.silva@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f737a5d2a7e700108ee61c',
+          user: {
+            _id: '64eb442b431f3e0010483b15',
+            name: 'Fabiana Araújo da Câmara Barbosa',
+            email: 'fabianacamara4@gmail.com',
           },
           present: false,
         },
@@ -5653,6 +5734,24 @@ export const conferenceActivities = [
             _id: '64f5f7db9a988f00104f38ef',
             name: 'Raimunda Vania da Silva',
             email: 'vannianatal17@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f73a01d2a7e700108ef36d',
+          user: {
+            _id: '64efc81b431f3e001053b575',
+            name: 'Francisco Carlos Neto',
+            email: 'fcarlosneto2018@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f742bed2a7e700108f1dd4',
+          user: {
+            _id: '64f740b6d2a7e700108f1034',
+            name: 'José Rhannê Marcelino Ferreira',
+            email: 'rhannemarcelino2015@gmail.com',
           },
           present: false,
         },
@@ -6331,6 +6430,15 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f73e84d2a7e700108f088e',
+          user: {
+            _id: '5aea418246bfd0000f4e0ace',
+            email: 'jamilarafaelly@hotmail.com',
+            name: 'Jamila Rafaelly do Amaral Nogueira',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -6841,6 +6949,44 @@ export const conferenceActivities = [
           present: false,
         },
       ],
+    },
+  },
+  {
+    _id: '64f74e2cd2a7e700108f7e56',
+    entity: 'conference',
+    data: {
+      vacancies: 103,
+      ofFiles: [],
+      ofProposersUsers: [
+        {
+          _id: '5a72113f1ab163000f8c4728',
+          email: 'seminario@ccsa.ufrn.br',
+          name: 'Coordenação do Seminário',
+        },
+      ],
+      status: 'consolidated',
+      deleted: false,
+      consolidation: {
+        sessions: [
+          {
+            _id: '64f74de8d2a7e700108f7ccf',
+            initialDate: '2023-09-13T13:00:14.000Z',
+            finalDate: '2023-09-13T14:30:14.000Z',
+          },
+        ],
+        _id: '64f74e43d2a7e700108f7f15',
+        location: 'Auditório Nepsa 1',
+        vacancies: 103,
+      },
+      code: 'lQv8CJ4fiEgLBjp',
+      _id: '64f74e2cd2a7e700108f7e55',
+      title:
+        'Indústria 4.0 e Política industrial para a reindustrialização brasileira',
+      shift: 0,
+      syllabus:
+        'Prof. Antônio Carlos Diegues Junior (Instituto de Economia/UNICAMP)  ',
+      ofFields: [],
+      ofEnrollments: [],
     },
   },
 ]
