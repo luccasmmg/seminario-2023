@@ -55,4 +55,20 @@ export const articleSessions = [
     finalDate: '2023-09-14T14:30:04.000Z',
     __v: 0,
   },
+  {
+    _id: '64f72658d2a7e700108e3d40',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e44002ff7b2bb3d2709ca2b',
+    initialDate: '2023-09-14T12:30:51.000Z',
+    finalDate: '2023-09-14T15:00:51.000Z',
+    __v: 0,
+  },
+  {
+    _id: '64f7266cd2a7e700108e3d57',
+    event: '649067933e3d350ff15a2522',
+    entity: '5e44002ff7b2bb3d2709ca2b',
+    initialDate: '2023-09-14T16:00:51.000Z',
+    finalDate: '2023-09-14T18:00:51.000Z',
+    __v: 0,
+  },
 ]
