@@ -3968,6 +3968,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64f72c82d2a7e700108e8c17'],
+        _id: '64f72c9fd2a7e700108e8d52',
+        location: 'Sala B1 - Setor 1',
+      },
     },
   },
   {
@@ -4729,6 +4734,11 @@ export const posterPresentations = [
             name: 'Direito Privado e Público',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f72c82d2a7e700108e8c17'],
+        _id: '64f72c9fd2a7e700108e8d53',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
@@ -5766,6 +5776,11 @@ export const posterPresentations = [
           },
         },
       },
+      consolidation: {
+        sessions: ['64efc481431f3e0010537bfc'],
+        _id: '64f72ce6d2a7e700108e9220',
+        location: 'Sala C3 - Setor 1',
+      },
     },
   },
   {
@@ -5816,6 +5831,11 @@ export const posterPresentations = [
             name: 'Direito Privado e Público',
           },
         },
+      },
+      consolidation: {
+        sessions: ['64f72c82d2a7e700108e8c17'],
+        _id: '64f72c9fd2a7e700108e8d54',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
