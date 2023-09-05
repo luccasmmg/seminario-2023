@@ -673,14 +673,6 @@ const publicAdmActivities = [
   },
   {
     date: '12a14/set',
-    turn: '01 Manhã',
-    type: 'Minicurso',
-    title: 'O Ciclo de Políticas Públicas: conceitos básicos',
-    responsible: 'Arlete Araújo',
-    participants: 'Arlete Araújo',
-  },
-  {
-    date: '12a14/set',
     turn: '02 Tarde',
     type: 'Minicurso',
     title: 'Prevenção do stress e autocuidado com a saúde mental',
