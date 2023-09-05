@@ -1546,6 +1546,11 @@ export const posterPresentations = [
           name: 'Marilene Bizerra da Costa',
           email: 'marilene.costa@ufrn.br',
         },
+        {
+          _id: '64b30611ea39bd00105acdd5',
+          name: 'Mateus Vasconcelos Ramos',
+          email: 'mateusvasconcelos874@gmail.com',
+        },
       ],
       files: ['64c7f6f3ea39bd00105d822a', '64c7f8f5ea39bd00105d854e'],
       state: 'approved',
