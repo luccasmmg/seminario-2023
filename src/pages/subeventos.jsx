@@ -740,23 +740,4 @@ const publicAdmActivities = [
     responsible: 'Antonio Alves ',
     participants: 'Antonio Alves ',
   },
-  {
-    date: 'A definir',
-    turn: '02 Tarde',
-    type: 'Oficina',
-    title: 'Design Science Research: um método de pesquisa inovador',
-    responsible:
-      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
-    participants: 'Maria Teresa Pires Costa',
-  },
-  {
-    date: 'A definir',
-    turn: '03 Noite',
-    type: 'Oficina',
-    title:
-      'Revisão integrativa de literatura para decisões baseadas em evidências',
-    responsible:
-      'Grupos de Pesquisa em Gestão Institucional e Políticas Públicas',
-    participants: 'Maria Teresa Pires Costa',
-  },
 ]
