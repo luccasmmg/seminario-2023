@@ -562,9 +562,10 @@ export const conferenceActivities = [
       code: 'nOk64bjYhlglPZ6',
       _id: '64dbfe5a67aaa40010e3d6f1',
       title:
-        'Futuro do trabalho no turismo: tecnologia como aliada ou barreira? Palestrante: Angela Teberga de Paula, Professora Dra. de Turismo da Universidade de Brasília',
+        'Futuro do trabalho no turismo: tecnologia como aliada ou barreira? ',
       shift: 1,
-      syllabus: '',
+      syllabus:
+        'Palestrante: Angela Teberga de Paula, Professora Dra. de Turismo da Universidade de Brasília',
       ofFields: [],
       ofEnrollments: [
         {
