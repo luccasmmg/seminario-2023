@@ -4986,8 +4986,8 @@ export const posterPresentations = [
         },
       },
       consolidation: {
-        sessions: ['64ee7567431f3e00104d22bb'],
-        _id: '64f1de21431f3e00105e443f',
+        sessions: ['64ee746a431f3e00104d1fde'],
+        _id: '64f88bcbd2a7e70010957cab',
         location: 'Sala B3 - Setor 1',
       },
     },
@@ -5048,8 +5048,8 @@ export const posterPresentations = [
       },
       consolidation: {
         sessions: ['64ee7567431f3e00104d22bb'],
-        _id: '64f1dd30431f3e00105e3bf8',
-        location: 'Sala B3 - Setor 1',
+        _id: '64f88c16d2a7e7001095815a',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
@@ -5108,8 +5108,8 @@ export const posterPresentations = [
       },
       consolidation: {
         sessions: ['64ee7567431f3e00104d22bb'],
-        _id: '64f1dd30431f3e00105e3bf7',
-        location: 'Sala B3 - Setor 1',
+        _id: '64f88c16d2a7e7001095815b',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
@@ -5168,8 +5168,8 @@ export const posterPresentations = [
       },
       consolidation: {
         sessions: ['64ee7567431f3e00104d22bb'],
-        _id: '64f1dd30431f3e00105e3bf6',
-        location: 'Sala B3 - Setor 1',
+        _id: '64f88c16d2a7e7001095815c',
+        location: 'Sala B1 - Setor 1',
       },
     },
   },
