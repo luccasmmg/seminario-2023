@@ -404,15 +404,6 @@ export const conferenceActivities = [
           present: false,
         },
         {
-          _id: '64f6168a9a988f0010503e97',
-          user: {
-            _id: '64f615a49a988f00105029d0',
-            name: 'Hilda Gigleany da Silva Gondim',
-            email: 'hildagondim340@gmail.com',
-          },
-          present: false,
-        },
-        {
           _id: '64f616979a988f0010503fdf',
           user: {
             _id: '64f615269a988f0010501d17',
@@ -520,6 +511,24 @@ export const conferenceActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f87155d2a7e7001094bd04',
+          user: {
+            _id: '64ee6032431f3e00104cd2b7',
+            name: 'Ana Paula de Azevedo Pereira',
+            email: 'azevedo361anapaula@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87155d2a7e7001094bd14',
+          user: {
+            _id: '64ee6032431f3e00104cd2b7',
+            name: 'Ana Paula de Azevedo Pereira',
+            email: 'azevedo361anapaula@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -531,9 +540,9 @@ export const conferenceActivities = [
       ofFiles: [],
       ofProposersUsers: [
         {
-          _id: '5a72113f1ab163000f8c4728',
-          email: 'seminario@ccsa.ufrn.br',
-          name: 'Coordenação do Seminário',
+          _id: '64f87450d2a7e7001094c936',
+          name: 'Departamento de Turismo',
+          email: 'detur.ufrn@gmail.com',
         },
       ],
       status: 'consolidated',
@@ -5310,15 +5319,6 @@ export const conferenceActivities = [
           present: false,
         },
         {
-          _id: '64f617e89a988f0010505d16',
-          user: {
-            _id: '64f615a49a988f00105029d0',
-            name: 'Hilda Gigleany da Silva Gondim',
-            email: 'hildagondim340@gmail.com',
-          },
-          present: false,
-        },
-        {
           _id: '64f6285c9a988f001051046a',
           user: {
             _id: '64ee5762431f3e00104cc697',
@@ -5641,6 +5641,24 @@ export const conferenceActivities = [
             _id: '64f765dfd2a7e70010902423',
             name: 'NATHALIA FERNANDES DA SILVA',
             email: 'nathalia.fernandes.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87180d2a7e7001094bd79',
+          user: {
+            _id: '64ee6032431f3e00104cd2b7',
+            name: 'Ana Paula de Azevedo Pereira',
+            email: 'azevedo361anapaula@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87181d2a7e7001094bd88',
+          user: {
+            _id: '64ee6032431f3e00104cd2b7',
+            name: 'Ana Paula de Azevedo Pereira',
+            email: 'azevedo361anapaula@gmail.com',
           },
           present: false,
         },
