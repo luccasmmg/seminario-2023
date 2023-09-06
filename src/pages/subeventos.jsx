@@ -311,6 +311,17 @@ export default function Home() {
             Mais informações
           </Link>
           <h3
+            className={`mx-auto mt-8 max-w-2xl text-center text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            5° Seminário Internacional De Contabilidade
+          </h3>
+          <Image
+            src="/images/5_seminario_contabilidade.jpeg"
+            className="mx-auto py-4"
+            width={600}
+            height={500}
+          />
+          <h3
             className={`mx-auto  mt-8 max-w-2xl text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
           >
             Colóquio 45 Anos de PPGA: A Administração no contexto da
