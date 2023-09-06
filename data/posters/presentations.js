@@ -5481,6 +5481,11 @@ export const posterPresentations = [
           name: 'Nícolas Galvão de Miranda Costa',
           email: 'nicolasgalvao61@gmail.com',
         },
+        {
+          _id: '64df9bf167aaa40010e5ece7',
+          name: 'Amyna Mirelle Farias da Costa',
+          email: 'amynamirelle@gmail.com',
+        },
       ],
       files: ['64df9b6d67aaa40010e5eb3f', '64df9b8067aaa40010e5ebdf'],
       state: 'approved',

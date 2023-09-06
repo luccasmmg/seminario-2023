@@ -229,6 +229,11 @@ export const articlePresentations = [
           name: 'Max Leandro de Araújo Brito',
           email: 'max.brito@ufscar.br',
         },
+        {
+          _id: '64f7b6dad2a7e70010929703',
+          name: 'ELAINE REGINA VASCONCELOS DO NASCIMENTO NEVES',
+          email: 'elareva@hotmail.com',
+        },
       ],
       files: ['64c456e6ea39bd00105c2957', '64c4575bea39bd00105c295b'],
       state: 'approved',
@@ -3439,6 +3444,11 @@ export const articlePresentations = [
           _id: '64c8308cea39bd00105e1f6a',
           name: 'Ellen Alfredo Marques da Silva',
           email: 'e.kobayashi15@gmail.com',
+        },
+        {
+          _id: '64c8339aea39bd00105e28cc',
+          name: 'Fernanda Patricia Nascimento de Castro',
+          email: 'fernanda.castro.106@ufrn.edu.br',
         },
       ],
       files: ['64c83245ea39bd00105e24e4', '64c832a7ea39bd00105e2582'],
