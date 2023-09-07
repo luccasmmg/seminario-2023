@@ -61,7 +61,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Objetivo geral: \n Desenvolver conhecimento e habilidades de acesso e manuseio de sistemas e \nbases de dados sobre indicadores sociais e econômicos do Brasil no Século XXI;\nObjetivos específicos: \n Realizar a socialização dos bancos de dados sobre indicadores sociais e \neconômicos a partir das plataformas SIDRA e IBGE Cidades do Instituto Brasileiro \nde Geografia e Estatística (IBGE), do Atlas do Desenvolvimento Humano (Atlas \nBrasil) e da Secretaria de avaliação e Gestão da informação (SAGI);\n Somar na formação acadêmica e científica de estudantes de graduação e pós \nsubsidiando pesquisas com indicadores sociais e econômicos;\n Contribuir para a capacidade técnica e analítica na formulação de tabelas, gráficos \ne formas de exposição estatísticas de indicadores;',
@@ -76,7 +76,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Laboratório de informática com capacidade para 30 pessoas acessarem o computador;\n',
@@ -92,7 +92,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Roberto Marinho Alves da Silva',
         },
@@ -106,7 +106,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '996127696',
         },
@@ -121,7 +121,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'rmas2007@gmail.com',
         },
@@ -172,6 +172,222 @@ export const workshopActivities = [
           },
           present: false,
         },
+        {
+          _id: '64ee23e1431f3e00104bf6dd',
+          user: {
+            _id: '5cd383e6ee3ca6000f6f8c40',
+            email: 'sousaguilherme25@gmail.com',
+            name: 'Guilherme Sousa Brandão',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee38be431f3e00104c73cd',
+          user: {
+            _id: '64c11f86ea39bd00105ba428',
+            name: 'JOAO BATISTA DE LIMA MARTINS NETO',
+            email: 'johnlimamartins16@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee4517431f3e00104c921e',
+          user: {
+            _id: '64ee43cf431f3e00104c8ede',
+            name: 'RAYANE BARTIRA DE ARAÚJO GRILO',
+            email: 'rayme_araujo@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64eef281431f3e00104da94e',
+          user: {
+            _id: '64ee8b74431f3e00104d5695',
+            name: 'Francisco Acelino Barbosa Neto',
+            email: 'francisco.acelino.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9514431f3e001051c79e',
+          user: {
+            _id: '64dc218a67aaa40010e3e547',
+            name: 'Mileno Augusto Andrade Oliveira',
+            email: 'mileno_augusto@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efb9c6431f3e0010530a96',
+          user: {
+            _id: '64efb342431f3e001052bab3',
+            name: 'Victor Afonso Batista da Silva',
+            email: 'victorafonsobatistadasilva@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0a971431f3e001057fb2a',
+          user: {
+            _id: '5ae067094e0263000f577eff',
+            email: 'eloysesiilva@outlook.com',
+            name: 'Eloyse Valéria da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0cc1b431f3e001059031a',
+          user: {
+            _id: '64a6e192ea39bd001059d778',
+            name: 'LUCAS ALEXSSANDHER TAVARES FONSECA',
+            email: 'lucas.tavares@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e200431f3e001059b399',
+          user: {
+            _id: '5af1b1e3ab3cbe000f5c1f8a',
+            email: 'camilasroccha@gmail.com',
+            name: 'Camila da Silva Rocha',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e20d431f3e001059b446',
+          user: {
+            _id: '64c7d6faea39bd00105d3b1c',
+            name: 'Inaara Hérika Câmara Franco',
+            email: 'inaara.franco.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f21fb0431f3e00105fcb02',
+          user: {
+            _id: '64ef4e69431f3e00104fbb44',
+            name: 'ENIO JORGE GOMES DE ALMEIDA FILHO',
+            email: 'enio.gomes.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f2346b431f3e0010602853',
+          user: {
+            _id: '5cd5e2eaeddaaa000fb57832',
+            email: 'julia.nagao@hotmail.com',
+            name: 'Júlia Silva Nagao',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29a29431f3e0010621566',
+          user: {
+            _id: '5c8c38f1444b78000fe04d6e',
+            email: 'brunalmoraisfernandes@gmail.com',
+            name: 'Bruna Luiza Morais Fernandes',
+          },
+          present: false,
+        },
+        {
+          _id: '64f34998431f3e001062d726',
+          user: {
+            _id: '649f52f00e9dba00104b1734',
+            name: 'Nicholas gael dos santos Sales de oliveira',
+            email: 'nichoelodeonsantos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4dd4b431f3e00106541a8',
+          user: {
+            _id: '64eccc2a431f3e001049bf39',
+            name: 'Carla Daniele Barros de Souza',
+            email: 'daniele.barros.715@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5ed8d9a988f00104f09b7',
+          user: {
+            _id: '64f1c427431f3e00105d8927',
+            name: 'MARIA DOLORES MONTE NUNES ARAÚJO',
+            email: 'doloresmontena@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5fa479a988f00104f4e6b',
+          user: {
+            _id: '64f094b8431f3e0010575cd9',
+            name: 'Petra de Andrade Matos Machado',
+            email: 'petra.machado.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6176d9a988f0010505002',
+          user: {
+            _id: '64f6154a9a988f0010501ee3',
+            name: 'Mariana Martins Soares Silva',
+            email: 'mariana.silva.704@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6407c9a988f0010517405',
+          user: {
+            _id: '64f6210d9a988f001050c38d',
+            name: 'Erivan Araujo da Silva Júnior',
+            email: 'peerivanjr@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6fa3c9a988f001052e1ef',
+          user: {
+            _id: '64f6f9359a988f001052dea0',
+            name: 'Rafaela Eloi de Lima',
+            email: 'rafaela.eloi.086@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f70707d2a7e700108d1765',
+          user: {
+            _id: '64a545cb0e9dba00104b8bad',
+            name: 'Maria Clara Martins Silva',
+            email: 'mariaclarams16@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7cc82d2a7e70010937a79',
+          user: {
+            _id: '64c7961dea39bd00105ccff4',
+            name: 'Adna Vieira de Lira',
+            email: 'adna.vieira.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f887aed2a7e7001095606b',
+          user: {
+            _id: '64ee0bd1431f3e00104bb034',
+            name: 'JANIO JOSE PEREIRA JUNIOR',
+            email: 'janiojrp@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8bc2dd2a7e70010970209',
+          user: {
+            _id: '64ddf35b67aaa40010e4989b',
+            name: 'Bruno Pereira Machado',
+            email: 'bp_machado@outlook.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -209,7 +425,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Apresentar um protótipo que contribui para o fortalecimento da cultura organizacional em Segurança da Informação na Universidade Federal do Rio Grande do Norte',
@@ -224,7 +440,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '8498828-9417',
         },
@@ -239,7 +455,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Luciano Araújo de Medeiros',
         },
@@ -253,7 +469,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Google Meet',
         },
@@ -268,7 +484,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'luciano.medeiros@ufrn.br',
         },
@@ -342,7 +558,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'A oficina tem como objetivos introduzir aos participantes a contação de histórias, ampliar o repertório de histórias, desenvolver habilidades de narração oral, estimular a criatividade, utilizar recursos e promover a leitura através da contação de histórias.',
@@ -357,7 +573,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Projetor;\nCaixa de som;',
         },
@@ -372,7 +588,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Amanda Freire de Avíncola Viçosi Caetano',
         },
@@ -386,7 +602,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84 99131 9339',
         },
@@ -401,12 +617,139 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'amanda.avincola@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ef934b431f3e001051ab69',
+          user: {
+            _id: '64ef92b4431f3e001051a1c8',
+            name: 'Diores Kiara dos Santos Dantas',
+            email: 'diores.kiara@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efeadf431f3e001055278d',
+          user: {
+            _id: '64ee7e6c431f3e00104d3618',
+            name: 'Francielly Jaciara Da Silva Lopes',
+            email: 'francielly.jaciara.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c0ed431f3e001058ae3d',
+          user: {
+            _id: '64f0888a431f3e001056b453',
+            name: 'Mariel Bárbara Rendón Macedo',
+            email: 'marielbarbara@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0dc36431f3e001059882b',
+          user: {
+            _id: '64f089da431f3e001056ccce',
+            name: 'Mário Lukas Cardoso da Silva',
+            email: 'mario.lukas1018@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ec67431f3e001059f618',
+          user: {
+            _id: '64f0bc62431f3e00105885e2',
+            name: 'liana Claudia Lima Barros',
+            email: 'lianaclbarros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f28ffd431f3e001061c64f',
+          user: {
+            _id: '64f08723431f3e001056a04d',
+            name: 'Marina Gabriela Santos Silva',
+            email: 'marina_gabriela64@hotmail.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f75ed8d2a7e700108fde96',
+          user: {
+            _id: '64dbdcde67aaa40010e3c9c2',
+            name: 'Glenda Rosa Gomes de Menezes',
+            email: 'glenda.menezes.123@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f763e4d2a7e70010900d4b',
+          user: {
+            _id: '64f2385b431f3e0010603490',
+            name: 'Catarina de Libra Silva Bezerra',
+            email: 'catarina.libra.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f768a4d2a7e7001090543e',
+          user: {
+            _id: '64f766c7d2a7e7001090322d',
+            name: 'Nicoly Salla da Silva',
+            email: 'nicoly.salla.405@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f79649d2a7e70010918f4c',
+          user: {
+            _id: '64f765dfd2a7e70010902423',
+            name: 'NATHALIA FERNANDES DA SILVA',
+            email: 'nathalia.fernandes.124@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7a624d2a7e70010920849',
+          user: {
+            _id: '64f70f7ad2a7e700108d693c',
+            name: 'Felipe Gabriel Pereira Vasconcelos Cassiano',
+            email: 'felipe.cassiano.127@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87f7dd2a7e70010953cb3',
+          user: {
+            _id: '64f1327f431f3e00105befb4',
+            name: 'Adelmira Fernanda Costa de Oliveira',
+            email: 'adelmira.costa.074@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b999d2a7e7001096f6ca',
+          user: {
+            _id: '5ce332c26bc2a2000ffe1e97',
+            email: 'hadassacarvalho@hotmail.com',
+            name: 'hadassa carvalho de sant anna',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8daa4d2a7e7001097acf8',
+          user: {
+            _id: '64c7d1e7ea39bd00105d33ae',
+            name: 'Jadna Fernandes Forte',
+            email: 'jadna.forte.095@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -470,7 +813,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'A oficina busca capacitar os participantes na idealização de startups, familiarizando-os com a metodologia do Hack Pocket e estimulando o processo criativo para o desenvolvimento de produtos, serviços e processos inovadores. Ao longo das atividades, os participantes terão a oportunidade de aplicar o Framework de Cralves e o Canvas de Startup em suas ideias, fortalecendo suas habilidades empreendedoras e inovadoras.',
@@ -485,7 +828,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '1 resma de Folhas A4, 20 canetas, 10 marca-texto e 20 post-it. ',
@@ -501,7 +844,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Cleomara Cristina Azevedo Silva',
         },
@@ -515,7 +858,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84998660677',
         },
@@ -530,7 +873,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'cleomara.azevedo@ufrn.br',
         },
@@ -542,6 +885,60 @@ export const workshopActivities = [
             _id: '64e874aa431f3e001046a888',
             name: 'Artur Capistrano Braga',
             email: 'arturcbbraga@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee67d1431f3e00104cf011',
+          user: {
+            _id: '64ee6563431f3e00104ce061',
+            name: 'João Caio de Lima Silva',
+            email: 'caio.silva.094@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c0cb431f3e001058ad4e',
+          user: {
+            _id: '64ef27a2431f3e00104e4f6a',
+            name: 'Gabriel jules de Azevedo Pontes Confessor',
+            email: 'gabrieljules@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e6cf431f3e001059de24',
+          user: {
+            _id: '64ee90bd431f3e00104d6a03',
+            name: 'Lucas Jose Garcia Marques',
+            email: 'lucascariocaj@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7b8e2d2a7e7001092abeb',
+          user: {
+            _id: '64f79d81d2a7e7001091ba3b',
+            name: 'Luismario Rocha Machado Filho',
+            email: 'luismariofilho@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a422d2a7e70010964817',
+          user: {
+            _id: '625cb15d0eabf50010b45daf',
+            name: 'Flávia Maria Vieira de Camargo',
+            email: 'flavia.vieira.401@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8f809d2a7e70010982f5c',
+          user: {
+            _id: '64f1ebbf431f3e00105eab1b',
+            name: 'RAYANNA BEATRIZ BARBALHO FONTES',
+            email: 'rayanna.fontes.018@ufrn.edu.br',
           },
           present: false,
         },
@@ -592,7 +989,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '\nO objetivo da oficina é dialogar sobre como avaliar a qualidade de artigos científicos e como elaborar pareceres sobre essa avaliação.',
@@ -607,7 +1004,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Sala com projetor.',
         },
@@ -622,7 +1019,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Lorran Lima',
         },
@@ -636,7 +1033,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '(84) 999303043',
         },
@@ -651,7 +1048,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'lorran.lima@hotmail.com',
         },
@@ -685,11 +1082,83 @@ export const workshopActivities = [
           present: false,
         },
         {
-          _id: '64ed31dc431f3e00104a8fcb',
+          _id: '64efbbb8431f3e0010531a1b',
           user: {
-            _id: '5aad7fb47b9ca4000feda172',
-            email: 'kellycvilela@hotmail.com',
-            name: 'Kelly Cristina Cunha Vilela',
+            _id: '64ee85be431f3e00104d48a8',
+            name: 'Jorge Monteiro Lacerda',
+            email: 'lacerdajorge@yahoo.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f09f4b431f3e001057c5c5',
+          user: {
+            _id: '64f09e13431f3e001057b99c',
+            name: 'FERNANDA GRAZIELA COSTA DE ALMEIDA',
+            email: 'nandagca@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5eea89a988f00104f1023',
+          user: {
+            _id: '64f1c427431f3e00105d8927',
+            name: 'MARIA DOLORES MONTE NUNES ARAÚJO',
+            email: 'doloresmontena@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5fdb49a988f00104f5f38',
+          user: {
+            _id: '64f0d693431f3e0010595b6a',
+            name: 'Patrícia Tatiana Ferreira Ramos',
+            email: 'patricia.tframos@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f60c9a9a988f00104fd795',
+          user: {
+            _id: '64e4aec467aaa40010e8707a',
+            name: 'Patrícia da Silva Souza Martins',
+            email: 'patricias.souza@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f616f49a988f0010504666',
+          user: {
+            _id: '5aea1d4e46bfd0000f4def89',
+            email: 'rafaelacarlamp@hotmail.com',
+            name: 'Rafaela Carla Melo de Paiva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f632db9a988f0010513a57',
+          user: {
+            _id: '64ef9bc0431f3e001051fe02',
+            name: 'Hyasnaia Luanna Barros de Oliveira Silva Lima',
+            email: 'hyasnaia@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f639709a988f0010514fca',
+          user: {
+            _id: '64f6386d9a988f001051470b',
+            name: 'CAMILA LOPES FERREIRA',
+            email: 'clferreira@utfpr.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8cd1fd2a7e70010977148',
+          user: {
+            _id: '5cc74b68f47e3d000f73e6a9',
+            email: 'aldeyzea@gmail.com',
+            name: 'ALDEYZE ALESSANDRA DE ARAÚJO SILVA',
           },
           present: false,
         },
@@ -757,7 +1226,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Apresentar brevemente sobre os Sistemas de Organização do Conhecimento, enfatizando a tipologia do tesauro e suas aplicações; Expor a metodologia adotada para a construção do Tesauro do Núcleo Temático da Seca e do Semiárido; Praticar a construção de tesauros utilizando o material do Núcleo Temático da Seca e do Semiárido.\n',
@@ -772,7 +1241,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '1 data show\n1 notebook',
         },
@@ -787,7 +1256,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Mayane Paulino de Brito e Silva',
         },
@@ -801,7 +1270,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84994448934',
         },
@@ -816,12 +1285,49 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'mayane.paulino@ufrn.br/ mayanepaulino.b@gmail.com',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64f39c70431f3e00106397e5',
+          user: {
+            _id: '64c81549ea39bd00105dce40',
+            name: 'Paulo Ricardo',
+            email: 'paulo.alves.115@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5dcdf431f3e0010669db8',
+          user: {
+            _id: '64e793cd431f3e00104603c1',
+            name: 'Jose Altevi Duarte Junior',
+            email: 'altevijunior@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f62db09a988f0010511f29',
+          user: {
+            _id: '64f62cf89a988f0010511b6b',
+            name: 'NARA RAQUEL GOMES DE CARVALHO',
+            email: 'nararaquel@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7b00cd2a7e7001092616f',
+          user: {
+            _id: '64dfc8b867aaa40010e62904',
+            name: 'Victória Letícia Cavalcante Fernandes',
+            email: 'victoria.cavalcante.122@ufrn.edu.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -869,7 +1375,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Utilizar jogos como ferramenta para facilitar o processo de ensino aprendizagem.',
@@ -884,7 +1390,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Um birô e cadeiras',
         },
@@ -899,7 +1405,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Edzana Roberta Ferreira da Cunha Vieira Lucena e Marke Geisy da Silva Dantas',
@@ -914,7 +1420,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84 999054437',
         },
@@ -929,7 +1435,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'edzana@hotmail.com',
         },
@@ -941,24 +1447,6 @@ export const workshopActivities = [
             _id: '64e12dca67aaa40010e72190',
             name: 'Rodolfo Fernando Carvalho Vieira',
             email: 'rodolfo.vieira.079@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64e7dae5431f3e001046593b',
-          user: {
-            _id: '64dfd82467aaa40010e65336',
-            name: 'BRENDA GLEYZIANY DA SILVA',
-            email: 'brenda.gleyziany.silva.702@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64ed34c0431f3e00104a9e91',
-          user: {
-            _id: '64e0d84967aaa40010e6fba8',
-            name: 'Isis Maria Pereira Fernandes',
-            email: 'isis.fernandes.018@ufrn.edu.br',
           },
           present: false,
         },
@@ -981,11 +1469,182 @@ export const workshopActivities = [
           present: false,
         },
         {
-          _id: '64ed7e30431f3e00104abb31',
+          _id: '64ee4fd5431f3e00104cb122',
           user: {
-            _id: '64e65cba431f3e00104560e4',
-            name: 'Maria Luiza Bento Mateus',
-            email: 'luiza.bento.017@ufrn.edu.br',
+            _id: '64dea5d167aaa40010e5698b',
+            name: 'Yago da Costa Tomaz Daniel',
+            email: 'yagoctomaz@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3803431f3e00104ecaa6',
+          user: {
+            _id: '64ef2096431f3e00104e0437',
+            name: 'Maria Luiza de Araújo',
+            email: 'luiza.araujo.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef454f431f3e00104f636c',
+          user: {
+            _id: '64c84e5bea39bd00105e7e48',
+            name: 'Árisla Bruna de Menezes Soares',
+            email: 'arisla.soares.125@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4a54431f3e00104f90b1',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4b94431f3e00104f9ff4',
+          user: {
+            _id: '64ef498f431f3e00104f86fa',
+            name: 'Andressa Bezerra da Rocha Palhares',
+            email: 'andressa.rocha.065@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef8e45431f3e001051889d',
+          user: {
+            _id: '64edd252431f3e00104af5ed',
+            name: 'Felipe de Queiroz Oliveira',
+            email: 'felipe.q.oliveira01@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef936a431f3e001051aceb',
+          user: {
+            _id: '64dc218a67aaa40010e3e547',
+            name: 'Mileno Augusto Andrade Oliveira',
+            email: 'mileno_augusto@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efc562431f3e0010538c08',
+          user: {
+            _id: '64ef4e69431f3e00104fbb44',
+            name: 'ENIO JORGE GOMES DE ALMEIDA FILHO',
+            email: 'enio.gomes.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd93c431f3e0010546b7f',
+          user: {
+            _id: '64efbe5e431f3e0010533c4e',
+            name: 'Nathálya da Silva Leopoldino',
+            email: 'nathalyaleopoldino291@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efee8e431f3e0010554361',
+          user: {
+            _id: '64ed16f3431f3e00104a51aa',
+            name: 'ANA BEATRIZ DO NASCIMENTO CUNHA',
+            email: 'ana.nascimento.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c283431f3e001058bb3a',
+          user: {
+            _id: '64ef27a2431f3e00104e4f6a',
+            name: 'Gabriel jules de Azevedo Pontes Confessor',
+            email: 'gabrieljules@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0ef4e431f3e001059fd79',
+          user: {
+            _id: '64e3736b67aaa40010e7ba0f',
+            name: 'Emilly Beatriz Bezerra da Silva',
+            email: 'emillybeatriz1820@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10d1a431f3e00105ae0a4',
+          user: {
+            _id: '64dbf20667aaa40010e3cf6e',
+            name: 'Ruan Lucas Leite de Morais',
+            email: 'ruanlucasleite52@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c92a431f3e00105db371',
+          user: {
+            _id: '64e65074431f3e00104551c6',
+            name: 'ADBIEL ERICK SERAFIM ANDRADE',
+            email: 'adbielerickserafim@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d84d431f3e00105e109e',
+          user: {
+            _id: '64e759e0431f3e001045de02',
+            name: 'Vinicius queiroz da silva',
+            email: 'viniciusqdsrn@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5aaa5431f3e001065dd7d',
+          user: {
+            _id: '64e3799e67aaa40010e7c354',
+            name: 'Marjorie Larissa Duarte de Lima',
+            email: 'marjorie.lima.136@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f89b57d2a7e7001095f9f3',
+          user: {
+            _id: '64957fb655c6e80010771158',
+            name: 'Larissa Raquel Freitas de Melo',
+            email: 'larissa.melo.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f89b61d2a7e7001095fa26',
+          user: {
+            _id: '64a28d230e9dba00104b4183',
+            name: 'Débora Araújo Ribeiro',
+            email: 'debora_ar@live.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a2cbd2a7e700109637c1',
+          user: {
+            _id: '64e9f72b431f3e001047b9fc',
+            name: 'Jardilla Lira Gomes de Oliveira',
+            email: 'jardilla.oliveira.078@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8ff06d2a7e70010986693',
+          user: {
+            _id: '64e39b3e67aaa40010e7f42c',
+            name: 'emilly beatriz gomes dos santos',
+            email: 'emillybeatrizxp@gmail.com',
           },
           present: false,
         },
@@ -1042,7 +1701,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'a) Introduzir os conceitos da crítica marxista na Administração;\nb) Expor a categoria prática empreendedora no contexto brasileiro;\nc) Indicar as principais fontes de consultas, tais como: livros, revistas e relatórios;\nd) Apresentar softwares e técnicas de pesquisa qualitativa para realização desses estudos.',
@@ -1057,7 +1716,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Computador; data show; caneta para quadro branco; apagador.',
         },
@@ -1072,7 +1731,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Janaynna de Moura Ferraz',
         },
@@ -1086,7 +1745,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '(79) 999588484',
         },
@@ -1101,12 +1760,139 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'janaynna.ferraz@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ef4966431f3e00104f8563',
+          user: {
+            _id: '5ab44f863fa6b4000f36755f',
+            email: 'hugo123@ufrn.edu.br',
+            name: 'Alexandre Hugo de Araújo Barbosa',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd79b431f3e0010544e6d',
+          user: {
+            _id: '64c6a039ea39bd00105c8004',
+            name: 'Mayara Carla Marques',
+            email: 'mayara.marques.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f09fe3431f3e001057cb96',
+          user: {
+            _id: '64f09e13431f3e001057b99c',
+            name: 'FERNANDA GRAZIELA COSTA DE ALMEIDA',
+            email: 'nandagca@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d2af431f3e00105937b9',
+          user: {
+            _id: '64f0d154431f3e0010592eb9',
+            name: 'MARGARIDA MAYARA MOURA MIRANDA',
+            email: 'margarida.miranda.103@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0f892431f3e00105a33e0',
+          user: {
+            _id: '5ae228d4db40bc000f3c0fef',
+            email: 'alinee_juliana12@hotmail.com',
+            name: 'ALINE JULIANA BARBOSA DE OLIVEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1120c431f3e00105b081d',
+          user: {
+            _id: '64ee63d4431f3e00104cda72',
+            name: 'Aruã Costa Cunha',
+            email: 'adm.aruacunha@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d407431f3e00105dec46',
+          user: {
+            _id: '64ebfd46431f3e001048dac6',
+            name: 'LETICIA CRISTINA DO NASCIMENTO FERNANDES',
+            email: 'leticiacristina.nf@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f287b3431f3e0010619c74',
+          user: {
+            _id: '64e4bfab67aaa40010e87cff',
+            name: 'Pedro Henrique da Silva Pinheiro',
+            email: 'pedro.pinheiro.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3826a431f3e00106366aa',
+          user: {
+            _id: '64f20f81431f3e00105f73e2',
+            name: 'Ana Beatriz Araújo De Medeiros',
+            email: 'anabeatrizamedeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f472a5431f3e001064a758',
+          user: {
+            _id: '64ef3f64431f3e00104f15e7',
+            name: 'WENDEL CARLOS CARVALHO MELO',
+            email: 'wendel.melo.002@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f4d117431f3e0010653494',
+          user: {
+            _id: '64f4cb10431f3e0010652361',
+            name: 'Felipe Medeiros dos Santos',
+            email: 'fmsdeiros@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f741c3d2a7e700108f1414',
+          user: {
+            _id: '64f20e9b431f3e00105f6e8c',
+            name: 'Deyfson Bruno Silva',
+            email: 'bdeyfson@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f86f0dd2a7e7001094afa6',
+          user: {
+            _id: '64dfcb9367aaa40010e62f49',
+            name: 'Amanda Iris Silva Confessor',
+            email: 'irissamd@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f88be0d2a7e70010957e60',
+          user: {
+            _id: '64f79d81d2a7e7001091ba3b',
+            name: 'Luismario Rocha Machado Filho',
+            email: 'luismariofilho@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1171,7 +1957,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Conhecer o processo para ingresso no mestrado e doutorado em turismo da UFRN, suas características, etapas e orientações básicas para obter êxito na seleção.',
@@ -1186,7 +1972,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Datashow • Quadro-branco • Caneta Pilot',
         },
@@ -1201,7 +1987,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Jéssyca Rodrigues Henrique da Silva ',
         },
@@ -1215,7 +2001,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '(84)99943-8777',
         },
@@ -1230,7 +2016,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'jessyca.r.henrique@gmail.com',
         },
@@ -1242,6 +2028,60 @@ export const workshopActivities = [
             _id: '625d62f60eabf50010b4748f',
             name: 'Andréia de Andrade Cavalcante',
             email: 'andreia.andrade.016@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd4d2431f3e0010541117',
+          user: {
+            _id: '5d7444da29cf83000f9b7665',
+            email: 'joaopauloamancio2001@hotmail.com',
+            name: 'João Paulo Amancio Luiz',
+          },
+          present: false,
+        },
+        {
+          _id: '64f098b4431f3e00105786bf',
+          user: {
+            _id: '5d966920c397d7000f5604e8',
+            email: 'fernandavarelateixeira@hotmail.com',
+            name: 'FERNANDA RAÍZA VARELA TEIXEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64f76e03d2a7e70010908e96',
+          user: {
+            _id: '64b693abea39bd00105b32da',
+            name: 'Larissa Sheila Barbosa Ferreira',
+            email: 'larissa.barbosa.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7bd1ed2a7e7001092e7ed',
+          user: {
+            _id: '64f7b20ad2a7e70010926fa8',
+            name: 'Lauane Ryane Silva de Oliveira',
+            email: 'lauanesilvadeoliveira@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a060d2a7e700109624b3',
+          user: {
+            _id: '6271f5980eabf50010b71300',
+            name: 'Jasyel Trindade da Silva',
+            email: 'jasyel.trindade.705@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8e170d2a7e7001097cc64',
+          user: {
+            _id: '64b5c35aea39bd00105b2034',
+            name: 'Lorran Lima de Almeida',
+            email: 'lorran.lima.010@ufrn.edu.br',
           },
           present: false,
         },
@@ -1309,7 +2149,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '1-Discutir a construção de Roteiros Turísticos;\n2-Avaliar o uso do Patrimônio Cultural em roteiros Turísticos;\n3-Apreender o uso da Interpretação do Patrimônio na criação dos Roteiros Turísticos\n4-Observar a possibilidade da construção de Roteiros Turístico.',
@@ -1324,7 +2164,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Computador com Data Show.',
         },
@@ -1339,7 +2179,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Almir Félix Batista de Oliveira',
         },
@@ -1353,7 +2193,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '(84) 994011949',
         },
@@ -1368,12 +2208,31 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'almirfbo@yahoo.com.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64f79a6dd2a7e7001091a761',
+          user: {
+            _id: '64f799d0d2a7e7001091a3a2',
+            name: 'Mirella Costa Barbosa',
+            email: 'mirellacosta062@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f9220ad2a7e700109955d6',
+          user: {
+            _id: '64de2c5567aaa40010e4e197',
+            name: 'Andreza da Silva Leite',
+            email: 'andreza.leite.121@ufrn.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1438,7 +2297,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Apresentar as principais estratégias de marketing jurídico;\nDebater os limites éticos referentes ao marketing jurídico;\nDebater modalidades de marketing jurídico possíveis de serem empregadas por estudantes de direito;\nRealizar exercício prático sobre como o marketing jurídico pode ser promovido por estudantes de direito como início de construção de imagem profissional.\n',
@@ -1453,7 +2312,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Computador e projetor',
         },
@@ -1468,7 +2327,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Marco Bruno Miranda Clementino',
         },
@@ -1482,7 +2341,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84-996099651',
         },
@@ -1497,18 +2356,63 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'marcobruno@jfrn.jus.br',
         },
       ],
       ofEnrollments: [
         {
-          _id: '64e8a5ac431f3e001046e51e',
+          _id: '64f1fb40431f3e00105eefe5',
           user: {
-            _id: '64e8a53e431f3e001046e0b4',
-            name: 'Giordano Bruno Xavier de Andrade Filho',
-            email: 'giordano.filho.099@ufrn.edu.br',
+            _id: '64deaaae67aaa40010e57104',
+            name: 'Isa Medeiros de Souza',
+            email: 'isa.medeiros.099@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f20410431f3e00105f2ad0',
+          user: {
+            _id: '64f20233431f3e00105f1a0b',
+            name: 'Emerson Alexandre da Silva',
+            email: 'emersonalexandre333@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6605b9a988f001051ede1',
+          user: {
+            _id: '64f65d9c9a988f001051d484',
+            name: 'Leticia lobo lima',
+            email: 'leticialobolima@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6605c9a988f001051edfa',
+          user: {
+            _id: '64f1ffa7431f3e00105f0558',
+            name: 'Lara Gomes Pereira Barros',
+            email: 'lara.gomes.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7a88dd2a7e700109224be',
+          user: {
+            _id: '64f77d9fd2a7e7001090f9da',
+            name: 'Nicholas Matheus Braga da Fonseca',
+            email: 'nicholasmtheus@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8cad6d2a7e70010975cee',
+          user: {
+            _id: '64ac437bea39bd00105a5ddc',
+            name: 'Julia Gandin Araujo',
+            email: 'julia.araujo.708@ufrn.br',
           },
           present: false,
         },
@@ -1586,7 +2490,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Geral: Apresentar as técnicas de Direito Visual e como aplica-las em peças jurídicas.\n\nEspecíficos:\nIntroduzir os conceitos princípios básicos para a aplicação do direito visual;\nApresentar as técnicas e regras de aplicação do direito visual em peças jurídicas;\nDemonstrar a aplicação do direito visual em textos jurídicos fazendo uso de ferramentas com gráficos, linhas do tempo, imagens e fluxogramas;\nDemonstrar como aplicar recursos de direito visual em ferramentas de texto, como Word;\nExplanar sobre a importância do uso do direito visual e seu impacto na melhor compreensão do texto.',
@@ -1601,7 +2505,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Computador e projetor',
         },
@@ -1616,7 +2520,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Marco Bruno Miranda Clementino',
         },
@@ -1630,7 +2534,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84-996099651',
         },
@@ -1645,7 +2549,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'marcobruno@jfrn.jus.br',
         },
@@ -1657,6 +2561,33 @@ export const workshopActivities = [
             _id: '64e7d8e5431f3e001046538c',
             name: 'Carlos José Fernandes Rêgo',
             email: 'carlosjrego@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f08b88431f3e001056e9a8',
+          user: {
+            _id: '64c713b3ea39bd00105cbc4b',
+            name: 'João Pedro Pinto do Monte',
+            email: 'joaopedromonte150@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f5cf1d431f3e00106656f3',
+          user: {
+            _id: '64c69e24ea39bd00105c7eb2',
+            name: 'Letícia Viana de Carvalho Lima',
+            email: 'leticia.viana.079@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7ab50d2a7e700109233d8',
+          user: {
+            _id: '64f20233431f3e00105f1a0b',
+            name: 'Emerson Alexandre da Silva',
+            email: 'emersonalexandre333@outlook.com',
           },
           present: false,
         },
@@ -1725,7 +2656,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '- Apresentar o funcionamento do setor comercial de um hotel, incluindo suas principais atividades e funções.\n- Demonstrar a importância da integração entre as equipes de vendas e marketing para o sucesso do setor.\n- Compreender a jornada do cliente desde o interesse inicial até a conversão em reserva.\n- Explorar as tendências e desafios atuais no cenário hoteleiro.',
@@ -1740,7 +2671,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '• Projetor multimídia para apresentações.\n• Acesso à internet para demonstrações online.\n• Material de apoio impresso para os participantes.',
@@ -1756,7 +2687,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Michel Vieira',
         },
@@ -1770,7 +2701,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84988030731',
         },
@@ -1785,12 +2716,112 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'michel.vieira@ufrn.br',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64f08786431f3e001056a3a8',
+          user: {
+            _id: '5d966920c397d7000f5604e8',
+            email: 'fernandavarelateixeira@hotmail.com',
+            name: 'FERNANDA RAÍZA VARELA TEIXEIRA',
+          },
+          present: false,
+        },
+        {
+          _id: '64f095d2431f3e0010576eec',
+          user: {
+            _id: '64f090c4431f3e0010573925',
+            name: 'Débora Christine Pinheiro de Medeiros',
+            email: 'debora.cpm@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f623169a988f001050d8ca',
+          user: {
+            _id: '64f61a7d9a988f0010508728',
+            name: 'Flávia Beatriz Medeiros da Fonsêca',
+            email: 'flavia.medeiros.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f74664d2a7e700108f36d1',
+          user: {
+            _id: '64de0bbd67aaa40010e4abcb',
+            name: 'Júlia Felipe Campos',
+            email: 'juliafelipecampos@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f74846d2a7e700108f46a4',
+          user: {
+            _id: '627efc850eabf50010b96315',
+            name: 'Ana Claudia Fernandes Gurgel',
+            email: 'anaclaudiafernandesgurgela@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f7484ad2a7e700108f46f9',
+          user: {
+            _id: '627efd530eabf50010b96406',
+            name: 'Beatriz Nascimento da Silva',
+            email: 'beatriz.nascimento.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8f0d5d2a7e7001098115e',
+          user: {
+            _id: '64d15d9dea39bd00105fa136',
+            name: 'Eloisa Beatriz Farias de Oliveira',
+            email: 'eloisa.oliveira.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91160d2a7e7001098a5c2',
+          user: {
+            _id: '64ee4dbb431f3e00104cab1a',
+            name: 'Beatriz Helena Canela',
+            email: 'beatrizhcanela@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91bfed2a7e7001099117b',
+          user: {
+            _id: '64f768c3d2a7e70010905592',
+            name: 'Vinicius de Oliveira Melo',
+            email: 'viniciusoliveira2627@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91c05d2a7e70010991261',
+          user: {
+            _id: '64f76798d2a7e7001090418e',
+            name: 'Maria Giovana Melo de Almeida',
+            email: 'mgiovanxmelo@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92fcdd2a7e7001099b731',
+          user: {
+            _id: '64f76779d2a7e70010903d1f',
+            name: 'Austin Razera Papa Florêncio',
+            email: 'austinrpflorencio@gmail.com',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -1844,7 +2875,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Desenvolver a escrita científica dos alunos de graduação a partir do uso de bases de dados; \nMapear o processo de revisões bibliográficas (operadores booleanos, strings de busca etc); \nApresentar caminhos metodológicos possíveis; \nEstimular o senso crítico e análise de metadados de artigos. ',
@@ -1859,7 +2890,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'É preferível que haja o apoio de sala com computadores ou solicitação aos participantes que levem seus notebooks. É necessário wifi. ',
@@ -1875,7 +2906,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Anatália Saraiva ',
         },
@@ -1890,7 +2921,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'anataliasaraiva@gmail.com',
         },
@@ -1904,7 +2935,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '+55 84 8807-3324',
         },
@@ -1971,9 +3002,9 @@ export const workshopActivities = [
             finalDate: '2023-09-13T18:00:29.000Z',
           },
         ],
-        _id: '64e9e4f9431f3e001047b1ad',
+        _id: '64f8c46ad2a7e70010972dce',
         location: 'Sala F3 - Setor 1',
-        vacancies: 25,
+        vacancies: 30,
       },
       code: 'NBwAhINm2d3R93J',
       _id: '64dc1a4a67aaa40010e3e234',
@@ -1993,7 +3024,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Desenvolver a escrita científica dos alunos de graduação a partir do\nuso de bases de dados; Mapear o processo de revisões bibliográficas (operadores\nbooleanos, strings de busca etc); Apresentar caminhos metodológicos possíveis;\nEstimular o senso crítico e análise de metadados de artigos.',
@@ -2008,7 +3039,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Sala de aula com computadores ou, pelo menos, wifi para que os participantes levem seus notebooks. ',
@@ -2024,7 +3055,7 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Rebeka Coelho de Almeida Alves ',
         },
@@ -2038,7 +3069,7 @@ export const workshopActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '84 999363123',
         },
@@ -2053,7 +3084,7 @@ export const workshopActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'rebeka.coelho.016@ufrn.edu.br',
         },
@@ -2074,6 +3105,231 @@ export const workshopActivities = [
             _id: '64ed3226431f3e00104a911a',
             name: 'Evannielle de Oliveira',
             email: 'evannielleoliveira@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee2ed2431f3e00104c3db7',
+          user: {
+            _id: '64ee08d1431f3e00104ba587',
+            name: 'MARCEL LUIS SOARES LINS',
+            email: 'marcel.lins77@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef29db431f3e00104e643d',
+          user: {
+            _id: '64ec180c431f3e001048df68',
+            name: 'Pedro Guilherme Macedo da Silva',
+            email: 'pedroguimacedo0@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef2c3d431f3e00104e7c0e',
+          user: {
+            _id: '64de9e0267aaa40010e5565d',
+            name: 'Marina da Silva Barbalho Freire',
+            email: 'marinabfreire11@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3cd2431f3e00104efa31',
+          user: {
+            _id: '64ebc039431f3e001048a4d2',
+            name: 'Cynthya Ranyelly Neves de Freitas',
+            email: 'cyrnfreitas@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef495a431f3e00104f8502',
+          user: {
+            _id: '64decc2467aaa40010e58147',
+            name: 'Júlia Rosas de Mendonça',
+            email: 'jrosas.mendonca@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4b25431f3e00104f9a7d',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9023431f3e0010519136',
+          user: {
+            _id: '64e3783267aaa40010e7c031',
+            name: 'Dante Lucena de Oliveira',
+            email: 'dantezao123@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd82d431f3e001054586e',
+          user: {
+            _id: '64efbe5e431f3e0010533c4e',
+            name: 'Nathálya da Silva Leopoldino',
+            email: 'nathalyaleopoldino291@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e241431f3e001059b818',
+          user: {
+            _id: '64f0e1b6431f3e001059ae0a',
+            name: 'Diogo Robson Monte Fernandes',
+            email: 'diogorobson@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0f6f6431f3e00105a2ac5',
+          user: {
+            _id: '64e2567467aaa40010e74e27',
+            name: 'hellen beatriz pereira da silva',
+            email: 'hellenbpsif@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f10d5f431f3e00105ae33c',
+          user: {
+            _id: '64e5330367aaa40010e8b23e',
+            name: 'Anderson de Souza Costa',
+            email: 'andersonzz@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1370b431f3e00105c2314',
+          user: {
+            _id: '64ee32d4431f3e00104c55c8',
+            name: 'Laynara Silva Chacon',
+            email: 'laynara.chacon.137@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c00d431f3e00105d640f',
+          user: {
+            _id: '64e8daee431f3e0010471808',
+            name: 'Washington Brenno Bezerra Nobrega',
+            email: 'nobregabrenno@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1cd93431f3e00105dc6ce',
+          user: {
+            _id: '64dfc5c267aaa40010e62560',
+            name: 'Ana Carolina A. de Medeiros',
+            email: 'ana.aragao@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d761431f3e00105e0eb8',
+          user: {
+            _id: '64c8308cea39bd00105e1f6a',
+            name: 'Ellen Alfredo Marques da Silva',
+            email: 'e.kobayashi15@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f239d2431f3e0010603e0d',
+          user: {
+            _id: '5aad7fb47b9ca4000feda172',
+            email: 'kellycvilela@hotmail.com',
+            name: 'Kelly Cristina Cunha Vilela',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29059431f3e001061ca03',
+          user: {
+            _id: '64e88d11431f3e001046bd0d',
+            name: 'JAMILLY CAROLINE ESEQUIAS DE MELO',
+            email: 'jamilly.melo.101@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f3bab5431f3e001063ec92',
+          user: {
+            _id: '64f37460431f3e001063465f',
+            name: 'Iasmyns Layanne de Mendonça Bezerra',
+            email: 'iasmyns.bezerra.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f603029a988f00104f8208',
+          user: {
+            _id: '64f5f3f09a988f00104f2311',
+            name: 'Larissa de Farias Ribeiro',
+            email: 'larissa.dfte@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f604d69a988f00104f9961',
+          user: {
+            _id: '649f1fe50e9dba00104b13c5',
+            name: 'franciele carvalho de araújo',
+            email: 'francielecarvalho188@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f605179a988f00104f9ff6',
+          user: {
+            _id: '64f603c09a988f00104f8dbc',
+            name: 'Ketlyn Susiê Conceição de Lima',
+            email: 'susie.conceicao.118@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f6051c9a988f00104fa07b',
+          user: {
+            _id: '64f6030e9a988f00104f8304',
+            name: 'Gisele de Carvalho Monteiro',
+            email: 'gisele.carvalho.114@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f86d47d2a7e7001094a848',
+          user: {
+            _id: '64dfcb9367aaa40010e62f49',
+            name: 'Amanda Iris Silva Confessor',
+            email: 'irissamd@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8c5bfd2a7e7001097371f',
+          user: {
+            _id: '64f6144f9a988f001050130e',
+            name: 'SUZANA LETICIA DANTAS',
+            email: 'suzanaleticiadantas@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f9156ad2a7e7001098bf2c',
+          user: {
+            _id: '5cdad0b6fb85e4000f77aceb',
+            email: 'arthurl.silva2@gmail.com',
+            name: 'Arthur Lopes da Silva',
           },
           present: false,
         },
@@ -2120,6 +3376,96 @@ export const workshopActivities = [
             _id: '64e12dca67aaa40010e72190',
             name: 'Rodolfo Fernando Carvalho Vieira',
             email: 'rodolfo.vieira.079@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0b129431f3e00105833df',
+          user: {
+            _id: '64ee43cf431f3e00104c8ede',
+            name: 'RAYANE BARTIRA DE ARAÚJO GRILO',
+            email: 'rayme_araujo@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f134d3431f3e00105c05a7',
+          user: {
+            _id: '64c97005ea39bd00105f04b9',
+            name: 'CLAUDIO ROGERIO DOS SANTOS',
+            email: 'claudiopotiguarrn7@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1d31b431f3e00105de2e6',
+          user: {
+            _id: '64e2567467aaa40010e74e27',
+            name: 'hellen beatriz pereira da silva',
+            email: 'hellenbpsif@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f75b1ed2a7e700108fcc53',
+          user: {
+            _id: '64ef46e0431f3e00104f7134',
+            name: 'Bruna Carla da Silva',
+            email: 'bruna.carla.silva.105@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f895f8d2a7e7001095c641',
+          user: {
+            _id: '64f689059a988f0010529f75',
+            name: 'júlia Ametista Pinheiro de Oliveira',
+            email: 'juliaAmetistapinheiro@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8f8c9d2a7e70010983445',
+          user: {
+            _id: '64f1ebbf431f3e00105eab1b',
+            name: 'RAYANNA BEATRIZ BARBALHO FONTES',
+            email: 'rayanna.fontes.018@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8ff02d2a7e700109865e6',
+          user: {
+            _id: '64e874aa431f3e001046a888',
+            name: 'Artur Capistrano Braga',
+            email: 'arturcbbraga@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91b1cd2a7e700109904d1',
+          user: {
+            _id: '64c83b2bea39bd00105e3a4d',
+            name: 'Maria Morgana D´ Amar Araújo Freitas',
+            email: 'morgana.araujo.139@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f926f3d2a7e700109972ee',
+          user: {
+            _id: '5cdad0b6fb85e4000f77aceb',
+            email: 'arthurl.silva2@gmail.com',
+            name: 'Arthur Lopes da Silva',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92fbed2a7e7001099b6c2',
+          user: {
+            _id: '6273351e0eabf50010b748c3',
+            name: 'Maria Gabriela da Silva Lima',
+            email: 'gabriela.lima3204@gmail.com',
           },
           present: false,
         },
@@ -2170,7 +3516,7 @@ export const workshopActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Equipamentos presentes no laboratório do Hotel Escola Senac Barreira Roxa',
@@ -2185,7 +3531,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: '',
         },
@@ -2200,12 +3546,49 @@ export const workshopActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value: 'Michel Vieira (UFRN) e Eliane Soares Senac',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64efeb2a431f3e0010552a17',
+          user: {
+            _id: '64ee7e6c431f3e00104d3618',
+            name: 'Francielly Jaciara Da Silva Lopes',
+            email: 'francielly.jaciara.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f29641431f3e0010620283',
+          user: {
+            _id: '64de794f67aaa40010e53ba1',
+            name: 'Hortencia Arliane Quintiliano Xavier',
+            email: 'hortenciaarliane@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f911edd2a7e7001098ad93',
+          user: {
+            _id: '64ee4dbb431f3e00104cab1a',
+            name: 'Beatriz Helena Canela',
+            email: 'beatrizhcanela@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92365d2a7e700109961e8',
+          user: {
+            _id: '64de2c5567aaa40010e4e197',
+            name: 'Andreza da Silva Leite',
+            email: 'andreza.leite.121@ufrn.br',
+          },
+          present: false,
+        },
+      ],
     },
   },
   {
@@ -2231,9 +3614,9 @@ export const workshopActivities = [
             finalDate: '2023-09-12T18:00:29.000Z',
           },
         ],
-        _id: '64edceb1431f3e00104aebb3',
+        _id: '64ef7b9a431f3e001050f109',
         location: 'Sala A3 - Setor 1',
-        vacancies: 30,
+        vacancies: 45,
       },
       code: 'L6dyAMEQ5EoRFvU',
       _id: '64e37de667aaa40010e7c929',
@@ -2253,7 +3636,7 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             'Objetivo 1- Ambientar o participante no contexto das perícias contábeis\n    • Proporcionar aos participantes uma compreensão simplificada sobre a perícia contábil, a sua importância no contexto judicial e como ela contribui para a resolução de litígios judiciais;\n    • Fornecer uma visão geral das leis, regulamentos e normas que norteiam a perícia contábil, garantindo que os participantes estejam cientes das obrigações legais e dos padrões profissionais relevantes;\n    • Explorar os elementos essenciais à perícia contábil, incluindo a confecção de laudos e petições;\n    • Abordar os aspectos práticos relacionados ao credenciamento do perito contábil junto aos tribunais.\n\nObjetivo 2- Demonstrar um caso prático de cálculo pericial\n    • Apresentar a sequência lógica para leitura do processo judicial;\n    • Identificar termos chaves para a elaboração dos cálculos;\n    • Expor documentos que fundamentam os cálculos a serem elaborados;\n    • Explicar tratamento dado a atualização de valores dispostos em sentenças judiciais.\n',
@@ -2413,6 +3796,258 @@ export const workshopActivities = [
           },
           present: false,
         },
+        {
+          _id: '64edf4a0431f3e00104b7540',
+          user: {
+            _id: '64ddf42767aaa40010e4a015',
+            name: 'João victor Coringa',
+            email: 'joao.coringa.112@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64edf63a431f3e00104b7e63',
+          user: {
+            _id: '64e88d11431f3e001046bd0d',
+            name: 'JAMILLY CAROLINE ESEQUIAS DE MELO',
+            email: 'jamilly.melo.101@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ee382f431f3e00104c6fd2',
+          user: {
+            _id: '64eba3c8431f3e0010488c3b',
+            name: 'MATHEUS DE ARAUJO BARBOSA',
+            email: 'matheus.ar.ju@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef2523431f3e00104e2d91',
+          user: {
+            _id: '64e65cba431f3e00104560e4',
+            name: 'Maria Luiza Bento Mateus',
+            email: 'luiza.bento.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef29ab431f3e00104e6147',
+          user: {
+            _id: '64ec180c431f3e001048df68',
+            name: 'Pedro Guilherme Macedo da Silva',
+            email: 'pedroguimacedo0@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef2b79431f3e00104e74b3',
+          user: {
+            _id: '64de9e0267aaa40010e5565d',
+            name: 'Marina da Silva Barbalho Freire',
+            email: 'marinabfreire11@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3c3f431f3e00104ef450',
+          user: {
+            _id: '64ef3a6d431f3e00104ee535',
+            name: 'Rebeca Ferreira Resende',
+            email: 'rebsende@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3d63431f3e00104f043c',
+          user: {
+            _id: '5ce6a9a86bc2a2000f03902b',
+            email: 'raquelnb_10@hotmail.com',
+            name: 'Raquel Nobre Teixeira',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3d69431f3e00104f04be',
+          user: {
+            _id: '64e87767431f3e001046a9b4',
+            name: 'Maria Luísa Freitas Rocha',
+            email: 'freitasmarialuisa03@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef3ec4431f3e00104f11a7',
+          user: {
+            _id: '64ede1da431f3e00104b2dfa',
+            name: 'Maria Jardiane Cordeiro da Silva',
+            email: 'jardiane.silva.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4220431f3e00104f3eea',
+          user: {
+            _id: '64ebc039431f3e001048a4d2',
+            name: 'Cynthya Ranyelly Neves de Freitas',
+            email: 'cyrnfreitas@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef4b23431f3e00104f9a4a',
+          user: {
+            _id: '64ef498f431f3e00104f86fa',
+            name: 'Andressa Bezerra da Rocha Palhares',
+            email: 'andressa.rocha.065@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef8a80431f3e00105160af',
+          user: {
+            _id: '64ef5fee431f3e0010505174',
+            name: 'Raphaella Savanna da Costa Silva',
+            email: 'raphaellasavanna@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9406431f3e001051b94f',
+          user: {
+            _id: '64ef92b4431f3e001051a1c8',
+            name: 'Diores Kiara dos Santos Dantas',
+            email: 'diores.kiara@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef9455431f3e001051bf37',
+          user: {
+            _id: '64e8a584431f3e001046e329',
+            name: 'Nayara Suassuna da Silva',
+            email: 'nayara.suassuna@ufrn.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64ef98a9431f3e001051e335',
+          user: {
+            _id: '64e7ebf1431f3e00104683b7',
+            name: 'Adilson Custodio da Silva',
+            email: 'adilson.silva.700@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efbc77431f3e0010532219',
+          user: {
+            _id: '64dff62d67aaa40010e67cb0',
+            name: 'Maria Kamylle dos Santos Paiva',
+            email: 'kamyllesantos001@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd5a7431f3e00105427db',
+          user: {
+            _id: '64dea4ad67aaa40010e56671',
+            name: 'RITA DE CÁSCIA VASCONCELOS',
+            email: 'rita.cascia.vasconcelos.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64efd89a431f3e0010545e63',
+          user: {
+            _id: '64efbe5e431f3e0010533c4e',
+            name: 'Nathálya da Silva Leopoldino',
+            email: 'nathalyaleopoldino291@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efe604431f3e00105501f2',
+          user: {
+            _id: '64ef23ff431f3e00104e279d',
+            name: 'Luiz Henrique Félix de Souza',
+            email: 'souzahenrique201598@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0c08d431f3e001058aaeb',
+          user: {
+            _id: '64ef27a2431f3e00104e4f6a',
+            name: 'Gabriel jules de Azevedo Pontes Confessor',
+            email: 'gabrieljules@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0d75e431f3e0010596263',
+          user: {
+            _id: '64e4a67a67aaa40010e86c4a',
+            name: 'MARCOS ANTONIO DA SILVA FILHO',
+            email: 'marcos_filho95@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f0e1ba431f3e001059aebc',
+          user: {
+            _id: '64e3736b67aaa40010e7ba0f',
+            name: 'Emilly Beatriz Bezerra da Silva',
+            email: 'emillybeatriz1820@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f106f4431f3e00105aaedc',
+          user: {
+            _id: '64e5330367aaa40010e8b23e',
+            name: 'Anderson de Souza Costa',
+            email: 'andersonzz@yahoo.com.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f116c4431f3e00105b271f',
+          user: {
+            _id: '64efd00f431f3e001053eafc',
+            name: 'Denis Ferreira de Almeida',
+            email: 'denis.almeida.110@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13ca5431f3e00105c6374',
+          user: {
+            _id: '64ee32d4431f3e00104c55c8',
+            name: 'Laynara Silva Chacon',
+            email: 'laynara.chacon.137@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f13df8431f3e00105c6e7a',
+          user: {
+            _id: '64dfa9e667aaa40010e5f775',
+            name: 'Izaura Katerine Martins Araújo',
+            email: 'izaurakaterine279@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8fe17d2a7e70010985a2b',
+          user: {
+            _id: '64e39b3e67aaa40010e7f42c',
+            name: 'emilly beatriz gomes dos santos',
+            email: 'emillybeatrizxp@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -2461,13 +4096,86 @@ export const workshopActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-08-29T12:02:49.745Z',
+            createdAt: '2023-09-07T22:40:10.226Z',
           },
           value:
             '- Conhecer as informações econômico-financeiras disponíveis na plataforma EIKON-REFINITV\n- Aprender sobre as formas possíveis de baixar dados e utilizá-los em trabalhos científicos ou para análise financeira.2',
         },
       ],
-      ofEnrollments: [],
+      ofEnrollments: [
+        {
+          _id: '64ee2f1e431f3e00104c403d',
+          user: {
+            _id: '64ee08d1431f3e00104ba587',
+            name: 'MARCEL LUIS SOARES LINS',
+            email: 'marcel.lins77@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64efec01431f3e00105532f3',
+          user: {
+            _id: '64ee7e6c431f3e00104d3618',
+            name: 'Francielly Jaciara Da Silva Lopes',
+            email: 'francielly.jaciara.701@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f1c88e431f3e00105dadb1',
+          user: {
+            _id: '64e65074431f3e00104551c6',
+            name: 'ADBIEL ERICK SERAFIM ANDRADE',
+            email: 'adbielerickserafim@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f668709a988f0010523721',
+          user: {
+            _id: '64f5f3f09a988f00104f2311',
+            name: 'Larissa de Farias Ribeiro',
+            email: 'larissa.dfte@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f86f6fd2a7e7001094b2e4',
+          user: {
+            _id: '64dfcb9367aaa40010e62f49',
+            name: 'Amanda Iris Silva Confessor',
+            email: 'irissamd@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f88affd2a7e7001095732e',
+          user: {
+            _id: '64f79d81d2a7e7001091ba3b',
+            name: 'Luismario Rocha Machado Filho',
+            email: 'luismariofilho@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8f1fbd2a7e7001098172b',
+          user: {
+            _id: '64f656279a988f001051bf94',
+            name: 'Marcus Vinicius Gurgel de Araújo',
+            email: 'marcuship@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91524d2a7e7001098bdab',
+          user: {
+            _id: '5cdad0b6fb85e4000f77aceb',
+            email: 'arthurl.silva2@gmail.com',
+            name: 'Arthur Lopes da Silva',
+          },
+          present: false,
+        },
+      ],
     },
   },
 ]

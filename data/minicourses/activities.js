@@ -71,7 +71,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Gerais: Estudar a Política Tributária brasileira, analisando especialmente a tributação da renda no país ao longo dos últimos anos por meio de uma metodologia interdisciplinar, fortemente baseada em dados públicos; Formar uma compreensão mais esclarecida sobre os problemas do atual sistema tributário para permitir um debate sobre como melhorar a tributação da renda no Brasil. Específicos: 1. Estudar os aspectos básicos do sistema tributário brasileiro; 2. Compreender a política tributária presente no sistema, especialmente na legislação; 3. Entender os desafios e as dificuldades da tributação da renda no país; 4. Discutir as melhorias possíveis no sistema.',
@@ -86,7 +86,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'computador, projetor (ou outro equipamento para apresentação de slides) e quadro.',
@@ -102,7 +102,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Igor Alexandre Felipe de Macedo',
         },
@@ -116,7 +116,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84991262092',
         },
@@ -131,7 +131,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'igor.macedo@law.nyu.edu',
         },
@@ -215,15 +215,6 @@ export const minicourseActivities = [
             _id: '64e88d11431f3e001046bd0d',
             name: 'JAMILLY CAROLINE ESEQUIAS DE MELO',
             email: 'jamilly.melo.101@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64f05c78431f3e001055ac06',
-          user: {
-            _id: '64e39b3e67aaa40010e7f42c',
-            name: 'emilly beatriz gomes dos santos',
-            email: 'emillybeatrizxp@gmail.com',
           },
           present: false,
         },
@@ -430,7 +421,7 @@ export const minicourseActivities = [
           user: {
             _id: '64f7b974d2a7e7001092b761',
             name: 'Beatriz sayuri do nascimento kato',
-            email: 'Sayuri.kato.2@gmail.com',
+            email: 'sayuri.kato.2@gmail.com',
           },
           present: false,
         },
@@ -467,6 +458,51 @@ export const minicourseActivities = [
             _id: '64c7dce1ea39bd00105d4421',
             name: 'Susana Dantas Duarte',
             email: 'susana.dantas.065@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f881d1d2a7e700109549f5',
+          user: {
+            _id: '64ee9563431f3e00104d6ea2',
+            name: 'Joana Jardim Duarte',
+            email: 'joanajjdd@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b07bd2a7e7001096b043',
+          user: {
+            _id: '64f215f6431f3e00105f9f11',
+            name: 'tamila godeiro delgado',
+            email: 'tameladelgado@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b096d2a7e7001096b1f4',
+          user: {
+            _id: '5ce332c26bc2a2000ffe1e97',
+            email: 'hadassacarvalho@hotmail.com',
+            name: 'hadassa carvalho de sant anna',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b7c0d2a7e7001096e38f',
+          user: {
+            _id: '64df4e7467aaa40010e5a540',
+            name: 'Jamily da Cruz Araújo de Lima',
+            email: 'jamillyaraujo47@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8dce9d2a7e7001097b9e2',
+          user: {
+            _id: '64ac40e7ea39bd00105a5bae',
+            name: 'Maria Laura Urbano Sousa Costa',
+            email: 'marialauraurbanosousacosta@gmail.com',
           },
           present: false,
         },
@@ -545,7 +581,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'OBJETIVOS a. Geral: Proporcionar aos participantes uma visão ampla acerca do funcionamento da gestão de projetos, demonstrando de maneira prática ferramentas para o gerenciamento de projetos.  b.  Específicos: ● Compreender os conceitos de gestão de projetos; ● Conhecer todas as fases da gestão de projetos; ● Vislumbrar as ferramentas principais para o planejamento de projetos; ● Desenvolver a percepção do aluno acerca das ferramentas para a gestão de projetos: gerenciamento, ações e métricas. ',
@@ -560,7 +596,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'a) 1 computador com acesso à internet; b) Projetor funcionamento para exposição do conteúdo; c) 1 entrada HDMI; d) 1 entrada VGA; e) 1 Teclado; f) 1 Mouse; g) Pacote Office instalado (Powerpoint, Excel e Word); h) 1 monitor para controlar o acesso e lista de frequência dos participantes; i) 1 sala; j) 35 Cadeiras;  k) Lista de e-mails dos participantes do curso para envio dos materiais, slides e templates fornecidos no minicurso. l) 30 impressões do LCC colorida; m) 30 impressões do quadro 5W2H; ',
@@ -576,7 +612,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Dr. Wattson José Saenz Perales',
         },
@@ -590,7 +626,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 3343-2344',
         },
@@ -605,7 +641,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'wattson.perales@ufrn.br',
         },
@@ -729,15 +765,6 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f5b92e431f3e001066120f',
-          user: {
-            _id: '64df4e7467aaa40010e5a540',
-            name: 'Jamily da Cruz Araújo de Lima',
-            email: 'jamillyaraujo47@gmail.com',
-          },
-          present: false,
-        },
-        {
           _id: '64f5eceb9a988f00104f06f3',
           user: {
             _id: '64f1c427431f3e00105d8927',
@@ -854,6 +881,24 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f9178ed2a7e7001098d4f2',
+          user: {
+            _id: '6261828e0eabf50010b599c9',
+            name: 'Lívia Maria Silva Coutinho',
+            email: 'livia.coutinho.715@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92c60d2a7e700109993dd',
+          user: {
+            _id: '64f11acb431f3e00105b4511',
+            name: 'Matheus José da Costa Silva',
+            email: 'matheus.costa.074@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -928,7 +973,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Oferecer oportunidade de formação, no formato de minicurso,  sobre o fenômeno da  monitoração eletrônica de pessoas pelo Estado, considerando precipuamente as ambivalências\ndecorrentes da tríade humano – máquina – Estado.',
@@ -943,7 +988,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Data show, microfone, caixa de som, computador, mouse, bureau, cadeiras e ar condicionado. ',
@@ -959,7 +1004,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Ana Paula Ferreira Felizardo ',
         },
@@ -973,7 +1018,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84999603256',
         },
@@ -988,7 +1033,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'ana.paula.felizardo@hotmail.com ',
         },
@@ -1018,15 +1063,6 @@ export const minicourseActivities = [
             _id: '64c713b3ea39bd00105cbc4b',
             name: 'João Pedro Pinto do Monte',
             email: 'joaopedromonte150@gmail.com',
-          },
-          present: false,
-        },
-        {
-          _id: '64f0bb5f431f3e0010587d72',
-          user: {
-            _id: '64c936f7ea39bd00105eeb40',
-            name: 'Jéssica Felipe de Lemos Soares',
-            email: 'jessicafsoares015@gmail.com',
           },
           present: false,
         },
@@ -1120,6 +1156,24 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f88555d2a7e70010955691',
+          user: {
+            _id: '64dea18767aaa40010e56164',
+            name: 'Miryeven Torres da Silva',
+            email: 'miryeventorres@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b9fbd2a7e7001096fa7a',
+          user: {
+            _id: '64c936f7ea39bd00105eeb40',
+            name: 'Jéssica Felipe de Lemos Soares',
+            email: 'jessicafsoares015@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -1210,7 +1264,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '1.\tContribuir com a apreensão crítica de concepções e trajetórias históricas de intervenções orientadas pelas perspectivas de combate à seca e de modernização conservadora no Semiárido brasileiro; e \n2.\tRefletir sobre desafios e potencialidades regionais a partir do paradigma da Convivência com o Semiárido.',
@@ -1225,7 +1279,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'computador com acesso à internet; Projetor; Papel ofício; pinceis piloto.',
@@ -1241,7 +1295,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Roberto Marinho Alves da Silva',
         },
@@ -1255,7 +1309,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 9 9612 7696',
         },
@@ -1270,7 +1324,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'roberto.alves@ufrn.br',
         },
@@ -1381,15 +1435,6 @@ export const minicourseActivities = [
             _id: '64c12520ea39bd00105baa6a',
             name: 'GLAUCIA LAVINEA OLIVEIRA XAVIER',
             email: 'glaucia.oliveira.121@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64f1ec52431f3e00105eaeae',
-          user: {
-            _id: '64f1ebbf431f3e00105eab1b',
-            name: 'RAYANNA BEATRIZ BARBALHO FONTES',
-            email: 'rayanna.fontes.018@ufrn.edu.br',
           },
           present: false,
         },
@@ -1513,7 +1558,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Apresentar ferramentas para gerenciamento de referências e citações bibliográficas;\nExplorar o uso de editores de texto específicos para papers acadêmicos, como LaTeX;\nDemonstrar o uso de ferramentas colaborativas para revisão e feedback;\nEnsinar técnicas de formatação de acordo com as normas acadêmicas;\nCapacitar os participantes a utilizar efetivamente as ferramentas apresentadas em seus próprios projetos de papers. \n',
@@ -1528,7 +1573,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Recursos Solicitados:\nComputadores com acesso à internet;\nProjetor e tela para apresentação;\nSoftwares instalados, como Mendeley, Zotero, Overleaf, Microsoft Word, Google Docs, entre outros.\n',
@@ -1544,7 +1589,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Renato Henrique Gurgel Mota',
         },
@@ -1558,7 +1603,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '99945-7090',
         },
@@ -1573,21 +1618,12 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'renato.mota@ufrn.br',
         },
       ],
       ofEnrollments: [
-        {
-          _id: '64ebe113431f3e001048c0a8',
-          user: {
-            _id: '64df2c3467aaa40010e58b47',
-            name: 'Bianca Jamily Da Rocha Costa',
-            email: 'jamilybianca96@gmail.com',
-          },
-          present: false,
-        },
         {
           _id: '64ef8be7431f3e0010516cde',
           user: {
@@ -1750,6 +1786,24 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f89eb0d2a7e700109613b5',
+          user: {
+            _id: '64de1ba067aaa40010e4c326',
+            name: 'Maria Eduarda Graciano da Silva',
+            email: 'meduarda.gslv@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8dde4d2a7e7001097be5e',
+          user: {
+            _id: '64ac40e7ea39bd00105a5bae',
+            name: 'Maria Laura Urbano Sousa Costa',
+            email: 'marialauraurbanosousacosta@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -1830,7 +1884,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Capacitar os participantes a aplicarem a metodologia de Design Thinking como uma poderosa ferramenta para a formulação de problemas de pesquisa nas áreas das Ciências Sociais Aplicadas. Durante o mini curso, os alunos irão aprender os princípios fundamentais do Design Thinking e como utilizá-lo de forma eficaz para identificar, analisar e definir problemas de pesquisa relevantes em suas respectivas áreas de estudo. Ao final do curso, os participantes estarão aptos a aplicar essa abordagem inovadora e criativa em suas pesquisas, proporcionando uma base sólida para a geração de soluções impactantes e relevantes na área das Ciências Sociais Aplicadas. ',
@@ -1845,7 +1899,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Projetor multimídia. Caixa de som, microfone.',
         },
@@ -1860,7 +1914,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'MARKE GEISY DA SILVA DANTAS ',
         },
@@ -1874,7 +1928,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84)988.425.931',
         },
@@ -1889,7 +1943,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'markegeisy@hotmail.com',
         },
@@ -1901,6 +1955,15 @@ export const minicourseActivities = [
             _id: '64eceacf431f3e001049f40d',
             name: 'Júlio César de Albuquerque Xavier',
             email: 'julio.cesar.703@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f90fdbd2a7e70010989f84',
+          user: {
+            _id: '64f744bdd2a7e700108f282b',
+            name: 'Valdislene Silva dos Santos',
+            email: 'lene.silva.tur@gmail.com',
           },
           present: false,
         },
@@ -1984,7 +2047,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'a)\tCompreender os acontecimentos corporativos da fraude das Americanas S.A.;\nb)\tVerificar as aplicações técnicas da auditoria e dos órgãos de governança corporativa no processo de fraude das Americanas S.A.\n',
@@ -1999,7 +2062,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'a)\tAuditório (para 100 alunos); e\nb)\tMaterial para projeção de slides e computador.\n',
@@ -2015,7 +2078,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Égon José Mateus Celestino',
         },
@@ -2029,7 +2092,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84)99922-4592',
         },
@@ -2044,7 +2107,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'egonmateus@ymail.com',
         },
@@ -2608,6 +2671,60 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f895d4d2a7e7001095c3b1',
+          user: {
+            _id: '64f6784c9a988f0010526531',
+            name: 'Victor Ramalho',
+            email: 'victor.ramalho.106@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b020d2a7e7001096aad5',
+          user: {
+            _id: '5ce332c26bc2a2000ffe1e97',
+            email: 'hadassacarvalho@hotmail.com',
+            name: 'hadassa carvalho de sant anna',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b044d2a7e7001096ae89',
+          user: {
+            _id: '64f215f6431f3e00105f9f11',
+            name: 'tamila godeiro delgado',
+            email: 'tameladelgado@outlook.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8ca6dd2a7e700109758fd',
+          user: {
+            _id: '64f0c088431f3e001058aa85',
+            name: 'MARA REJANE DA SILVA LOBATO DELGADO',
+            email: 'jjanefonda@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8f3ead2a7e70010981edd',
+          user: {
+            _id: '64e401a567aaa40010e83799',
+            name: 'Tiago Silva de Oliveira',
+            email: 'tiago.silvao@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92815d2a7e70010997871',
+          user: {
+            _id: '64e6599e431f3e0010455ce3',
+            name: 'Marlos Henrique Diniz Cavalcante',
+            email: 'marlos101@hotmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -2666,7 +2783,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Compreender os conceitos básicos de planejamento tributário;\n- Conhecer as estratégias e técnicas de planejamento tributário;\n- Conhecer os principais tributos;\n- Conhecer as questões legais e éticas;\n- Fomentar a troca de conhecimentos e experiências.',
@@ -2681,7 +2798,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Computador e projetor ',
         },
@@ -2696,7 +2813,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'João Maria Montenegro Ribeiro',
         },
@@ -2710,7 +2827,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84-98859-0126',
         },
@@ -2725,7 +2842,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'joao@montenegrocontabilidade.com.br',
         },
@@ -2773,15 +2890,6 @@ export const minicourseActivities = [
             _id: '64eba9e7431f3e0010488fa2',
             name: 'Eveny Lays Fernandes Lima',
             email: 'evenylays@gmail.com',
-          },
-          present: false,
-        },
-        {
-          _id: '64ed0820431f3e00104a29ce',
-          user: {
-            _id: '64e874aa431f3e001046a888',
-            name: 'Artur Capistrano Braga',
-            email: 'arturcbbraga@gmail.com',
           },
           present: false,
         },
@@ -3271,7 +3379,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '●\tContextualizar a trajetória da Reforma Psiquiátrica diante dos principais avanços e retrocessos na Saúde Mental;\n●\tProblematizar acerca do trabalho profissional desenvolvido por Assistentes Sociais na Política de Saúde Mental;\n●\tApreender a importância do trabalho interprofissional nos dispositivos de saúde mental, como elemento fundamental para as mudanças necessárias do modelo assistencial na direção da luta antimanicomial. ',
@@ -3286,7 +3394,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Bloco de anotações;\nPapel Sulfite (A4);\nCanetas; \nPowerPoint/Canva; \nData show; \nNotebook ou Computador; \nPincel Marcador Quadro Branco;\nApagador;\nFita adesiva (Crepe, preferencialmente)\nCartolinas. ',
@@ -3302,7 +3410,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Maria Márcia de Oliveira Freire ',
         },
@@ -3316,7 +3424,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 99163-4800',
         },
@@ -3331,7 +3439,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'maria.marcia.095@ufrn.edu.br',
         },
@@ -3682,7 +3790,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '•\tIntroduzir aos participantes os fundamentos básicos acerca do funcionamento da indústria de petróleo em suas diferentes dimensões\n•\tApresentar a inserção da indústria petrolífera no setor energético a partir da discussão dos seus aspectos históricos, técnicos e econômicos elementares\n•\tExplicar como funcionam os principais segmentos do mercado de petróleo e derivados e as diferentes formas precificar os produtos em cada mercado\n•\tAnalisar o mercado brasileiro de petróleo e combustíveis a partir dos conhecimentos adquiridos ao longo do minicurso',
@@ -3697,7 +3805,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '•\tSala de aula climatizada\n•\tQuadro branco\n•\tRecursos multimídia\n•\tComputador com internet',
@@ -3713,7 +3821,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Breno Carvalho Roos',
         },
@@ -3727,7 +3835,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84988091050',
         },
@@ -3742,7 +3850,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'breno.roos@ufrn.br',
         },
@@ -4117,6 +4225,42 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f89777d2a7e7001095da2d',
+          user: {
+            _id: '64f87ab5d2a7e70010950519',
+            name: 'Vitoria kelly dantas do Nascimento',
+            email: 'vitoria-parelhas@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8bf33d2a7e70010970d2f',
+          user: {
+            _id: '64efe332431f3e001054de24',
+            name: 'Silvino',
+            email: 'silvino.brito.088@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8c2f2d2a7e70010971f35',
+          user: {
+            _id: '64f87afad2a7e700109505ae',
+            name: 'Suelton Richard Barbosa Paulo',
+            email: 'suelton_richard@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f90472d2a7e70010987e6f',
+          user: {
+            _id: '64ee00e9431f3e00104b9429',
+            name: 'Manoel Gustavo da Silva Ramos',
+            email: 'manoelramos017@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -4202,7 +4346,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'a) Problematizar a categoria trabalho com base nos estudos marxistas em sua perspectiva ontológica.\nb) Compreender o sentido das transformações do trabalho na sociedade contemporânea, bem como os modelos de controle e gestão da força de trabalho.\n3) Discutir as determinações das transformações do mundo do trabalho na contemporaneidade na saúde dos/as trabalhadores/as.',
@@ -4217,7 +4361,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Recursos audiovisuais (notebook/computador, datashow, caixa de som)\n- Papel Sulfite (A4)\n- Pincel Marcador Quadro Branco;\n- Apagador;\n- Fita adesiva (Crepe, preferencialmente).',
@@ -4233,7 +4377,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'emilly.bezerra.700@ufrn.edu.br',
         },
@@ -4248,7 +4392,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Emilly Bezerra Fernandes do Nascimento',
         },
@@ -4262,7 +4406,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84999185805',
         },
@@ -4385,6 +4529,42 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f87c37d2a7e700109510e1',
+          user: {
+            _id: '64f878bed2a7e7001094f3c6',
+            name: 'João Vitor Borges Cirilo',
+            email: 'borges2494@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87c3cd2a7e7001095111b',
+          user: {
+            _id: '64f877d0d2a7e7001094e3e3',
+            name: 'Felipe moreira nobre',
+            email: 'felipemnobre2012@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87d16d2a7e70010951de4',
+          user: {
+            _id: '64f1c45a431f3e00105d89f2',
+            name: 'sarah cosme freires',
+            email: 'sarah.freires.123@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f88d48d2a7e700109588bc',
+          user: {
+            _id: '64f72bc9d2a7e700108e7d8d',
+            name: 'Wesley Emanoel Andrade Bezerra',
+            email: 'wesley.andrade.702@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -4460,7 +4640,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Capacitar os alunos a compreenderem a importância e os benefícios de desenvolver uma marca pessoal estratégica, fornecendo-lhes conhecimentos e estratégias práticas para construir e gerenciar a sua própria marca pessoal de forma eficaz. \n\nAo término do minicurso, espera-se que os participantes sejam capazes de: \na.\tEntender o conceito de personal branding e a sua relevância para o contexto atual;\nb.\tIdentificar seus valores, habilidades, experiências e paixões para desenhar o seu posicionamento pessoal;\nc.\tEstabelecer objetivos claros e realistas para sua marca pessoal, alinhados com demandas do seu público-alvo;\nd.\tDesenvolver uma estratégia de comunicação consistente e autêntica, utilizando os canais de comunicação adequados;\ne.\tCriar e manter uma presença online coerente e positiva, gerenciando suas redes sociais e construindo uma reputação on-line sólida;\nf.\tCompreender a relevância do networking para a construção da sua marca pessoal, estabelecendo relacionamentos profissionais e identificando oportunidades;\ng.\tGerenciar sua reputação on-line, monitorando sua imagem e lidando de forma adequada com críticas e feedbacks.',
@@ -4475,7 +4655,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Não se solicita recursos extras. Serão usados datashow, computador e internet.',
@@ -4491,7 +4671,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Anatália Saraiva Martins Ramos',
         },
@@ -4505,7 +4685,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84988073324',
         },
@@ -4520,7 +4700,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'anataliasaraiva@gmail.com',
         },
@@ -4643,6 +4823,24 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f8a3c4d2a7e70010964505',
+          user: {
+            _id: '64ee24c5431f3e00104bfc53',
+            name: 'Hylkaely Barbosa',
+            email: 'hylkaely.barbosa.129@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b175d2a7e7001096b9c8',
+          user: {
+            _id: '64f215f6431f3e00105f9f11',
+            name: 'tamila godeiro delgado',
+            email: 'tameladelgado@outlook.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -4718,7 +4916,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Objetivo geral: Capacitar os participantes na utilização das normas da ABNT, tendo em vista elaborar pesquisas bem estruturadas.\n\nObjetivos específicos: \n\na)\tConhecer as principais normas da ABNT sobre a formação de trabalhos acadêmicos: NBR 6023 - Referências. NBR 6024 - Numeração progressiva das seções de um documento. NBR 6027 - Sumário. NBR 6028 - Resumo, resenha e recessão. NBR 10520 - Citações em documentos. NBR 14724 - Trabalhos acadêmicos;\nb)\tAprender, de forma prática, a formatar trabalhos acadêmicos no Microsoft Word;\nc)\tAprender a utilizar aparatos tecnológicos capazes de auxiliar na formação de trabalhos acadêmicos: Recursos do Microsoft Word e softwares de geração de referências bibliográficas.',
@@ -4733,7 +4931,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Neste minicurso utilizaremos como abordagem teórico-metodológica de ensino e aprendizagem a “aprendizagem ativa”, consequentemente os participantes aprenderão na prática as normas da ABNT. Frente ao exposto, sugerimos que o minicurso ocorra em um laboratório de informática com acesso à Internet e ao Microsoft Word. Lembramos que é importante que os participantes consigam acessar, em sala, os sites de geração referências, caso seja necessário algum tipo de liberação de acesso, segue os endereços eletrônicos: \n\nMORE: https://more.ufsc.br/inicio .\nGerador de referências ABNT: https://www.mybib.com/pt/ferramentas/gerador-referencias-abnt  .\nFormatador de referência bibliográfica: https://referenciabibliografica.net/a/pt-br/ref/abnt  .\nBibguru: https://app.bibguru.com/p/0db59957-9a2b-423b-b037-a5ffbe2d2679  .\n',
@@ -4749,7 +4947,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Prof. Dr. Fernando Luiz Vechiato',
         },
@@ -4763,7 +4961,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 99601-7788',
         },
@@ -4778,7 +4976,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'vechiato2008@gmail.com',
         },
@@ -5020,7 +5218,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '•\tInterpretar a legislação trabalhista e previdenciária vigente; \n•\tConhecer o processo demissional atendendo a legislação vigente; \n•\tIdentificar as leis trabalhistas e previdenciária, acompanhando as modificações; \n•\tIdentificar a legislação e aplicar na demissão de pessoal;\n•\tRealizar os cálculos de folha de pagamento; \n•\tIdentificar, atualizar e calcular encargos sociais sobre a folha de pagamento. \n•\tCalcular a Rescisão Contratual com as respectivas verbas indenizatórias.\n',
@@ -5035,7 +5233,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Internet; Lousa branca; Projetor Multimídia',
         },
@@ -5050,7 +5248,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'LENILSON FIRMINO DE SOUSA JUNIOR',
         },
@@ -5064,7 +5262,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84988172094',
         },
@@ -5079,7 +5277,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'lenilsonfsjr@gmail.com',
         },
@@ -5319,6 +5517,69 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f87c66d2a7e7001095126e',
+          user: {
+            _id: '64c90ef5ea39bd00105ebd5e',
+            name: 'Ingrid Eduarda Gomes da Silva',
+            email: 'ingridgomeseduarda@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8959bd2a7e7001095be52',
+          user: {
+            _id: '64f6784c9a988f0010526531',
+            name: 'Victor Ramalho',
+            email: 'victor.ramalho.106@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a2cfd2a7e700109637ff',
+          user: {
+            _id: '64dfd82467aaa40010e65336',
+            name: 'BRENDA GLEYZIANY DA SILVA',
+            email: 'brenda.gleyziany.silva.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a775d2a7e70010966687',
+          user: {
+            _id: '64dfd47e67aaa40010e64c1f',
+            name: 'Laissa Davi de Lima',
+            email: 'laissanatal@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a9d5d2a7e70010967ad0',
+          user: {
+            _id: '64e0122e67aaa40010e6bc54',
+            name: 'CAROLINE ISABELLE MARQUES DOS SANTOS',
+            email: 'isabelle.marques.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8d8d6d2a7e7001097a44a',
+          user: {
+            _id: '64e0082367aaa40010e6aa7d',
+            name: 'Jhonata Alexandre Felix de Lima',
+            email: 'jhonataalexandre78@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92de6d2a7e70010999f65',
+          user: {
+            _id: '64f11acb431f3e00105b4511',
+            name: 'Matheus José da Costa Silva',
+            email: 'matheus.costa.074@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -5394,7 +5655,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Fornecer elementos para a apreensão da diversidade sexual e de gênero na sociedade patriarcal-racista-capitalista;\n- Apresentar um quadro histórico das políticas de saúde voltadas à diversidade sexual e de gênero;\n- Discutir o direito à saúde da população LGBTI+ no contexto de avanço do neoliberalismo e do neoconservadorismo.',
@@ -5409,7 +5670,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Computador para a apresentação dos slides e textos que serão disponibilizados em PDF aos participantes.',
@@ -5425,7 +5686,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Profa. Dra. Larisse de Oliveira Rodrigues',
         },
@@ -5439,7 +5700,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 99600-3124',
         },
@@ -5454,7 +5715,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'larisse.rodrigues@ufrn.br',
         },
@@ -5559,6 +5820,15 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f8e642d2a7e7001097da7b',
+          user: {
+            _id: '649f512e0e9dba00104b160c',
+            name: 'Maria Amália Lima Silva',
+            email: 'amaliamj@gmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -5617,8 +5887,8 @@ export const minicourseActivities = [
             finalDate: '2023-09-14T23:00:00.000Z',
           },
         ],
-        _id: '64f1eb7e431f3e00105eaae0',
-        location: 'Sala C1 - Setor 1',
+        _id: '64f9c992d2a7e7001099fd86',
+        location: 'Sala C2 - Setor 1',
         vacancies: 30,
       },
       code: 'oKy9s1zogd8Uram',
@@ -5638,7 +5908,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'GERAL\n•\tApresentar a gestão Estratégica com a metodologia de OKRs em canvas;\n\nESPECÍFICOS\n•\tGestão estratégica com Okrs;\n•\tConstrução dos Okrs Estratégicos;\n•\tCriação de indicadores Estratégicos de monitoramento.\n',
@@ -5653,7 +5923,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'QUADRO BRANCO\nPROJETOR',
         },
@@ -5668,7 +5938,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Josué Vitor de Medeiros Júnior   ',
         },
@@ -5682,7 +5952,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84988161007',
         },
@@ -5697,7 +5967,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'JOSUE.VITOR@UFRN.BR',
         },
@@ -5820,6 +6090,42 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f88bb5d2a7e70010957b3d',
+          user: {
+            _id: '64f77efdd2a7e700109105c0',
+            name: 'Geovanna Bezerra de Souza',
+            email: 'euagisouza@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f89a2dd2a7e7001095ed9c',
+          user: {
+            _id: '64f649479a988f00105193c3',
+            name: 'ANA IVELINA NASCIMENTO DE MEDEIROS ALENCAR',
+            email: 'anaivelina@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8c1ced2a7e700109719de',
+          user: {
+            _id: '64c83ff9ea39bd00105e4e1a',
+            name: 'Gabriely Miguel da Costa',
+            email: 'gabriely.miguel.118@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92e08d2a7e7001099a0cd',
+          user: {
+            _id: '64f11acb431f3e00105b4511',
+            name: 'Matheus José da Costa Silva',
+            email: 'matheus.costa.074@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -5883,7 +6189,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Fomentar o debate sobre a política de saúde no Brasil, a estruturação do SUS e os desafios frente à expansão dos modelos privatizantes. \n\nCompreender os fundamentos da política de saúde e as disputas entre o MRSB e o Projeto Privatista;\n\nDialogar sobre o fortalecimento e consolidação neoliberalismo no Brasil e as contrarreformas do Estado como resposta a crise do capital, apontando as implicações desse processo na política de saúde\n\nDiscutir sobre as expressões da privatização do SUS por meio da LIGA e da EBSERH em Natal/RN.',
@@ -5899,7 +6205,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Dra. Edla Hoffmann',
         },
@@ -5913,7 +6219,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84. 99672-7424',
         },
@@ -5928,7 +6234,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'edla.hoffmann@ufrn.br',
         },
@@ -5958,6 +6264,33 @@ export const minicourseActivities = [
             _id: '64f4fa46431f3e0010656185',
             name: 'Maria Francisca da Silva',
             email: 'franeteticista13@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f87d9ed2a7e70010952809',
+          user: {
+            _id: '64f1c45a431f3e00105d89f2',
+            name: 'sarah cosme freires',
+            email: 'sarah.freires.123@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8a411d2a7e7001096473a',
+          user: {
+            _id: '64f07c14431f3e00105642bd',
+            name: 'Erislayne de Moura Félix dos Santos',
+            email: 'erislayne.santos.712@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8bb00d2a7e7001096fe04',
+          user: {
+            _id: '64de9e9767aaa40010e55823',
+            name: 'vitoria camilly duarte dos santos',
+            email: 'vitoria.camillyduarte@gmail.com',
           },
           present: false,
         },
@@ -6036,7 +6369,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Promover conhecimento multidisciplinar sobre o Sistema Toyota de Produção, tendo como perspectivas os aspectos produtivos, de relações humanas, qualidade, relações de parcerias empresariais e tecnologia.\n- Desenvolver o entendimento que o STP não está vinculado apenas aos conceitos mais tradicionais, mas aos meios e formatos de produção industrial, como uma filosofia de gestão ampla e multidisciplinar.',
@@ -6051,7 +6384,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Computador; Projetor multimídia; Caixa de som; Sala de aula com ar-condicionado e capacidade mínima para 45 pessoas.\n',
@@ -6067,7 +6400,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Marcelo Barbosa de Oliveira',
         },
@@ -6081,7 +6414,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84999640166',
         },
@@ -6096,7 +6429,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'marcelo.oliveira@ufrn.br',
         },
@@ -6345,6 +6678,33 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f88b85d2a7e7001095770e',
+          user: {
+            _id: '64f77efdd2a7e700109105c0',
+            name: 'Geovanna Bezerra de Souza',
+            email: 'euagisouza@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8d4fcd2a7e70010978f1f',
+          user: {
+            _id: '64f68e019a988f001052a4fc',
+            name: 'Amanda Beatriz Silva Fernandes',
+            email: 'amandabsfernandes2@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f92d86d2a7e70010999d3f',
+          user: {
+            _id: '64f333ed431f3e001062ab3c',
+            name: 'Maria Luiza da Costa Oliveira',
+            email: 'maria.oliveira.118@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -6420,7 +6780,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Promover conhecimento multidisciplinar sobre o Sistema Toyota de Produção, tendo como perspectivas os aspectos produtivos, de relações humanas, qualidade, relações de parcerias empresariais e tecnologia.\n- Desenvolver o entendimento que o STP não está vinculado apenas aos conceitos mais tradicionais, mas aos meios e formatos de produção industrial, como uma filosofia de gestão ampla e multidisciplinar.',
@@ -6435,7 +6795,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Computador; Projetor multimídia; Caixa de som; Sala de aula com ar-condicionado e capacidade mínima para 45 pessoas.\n',
@@ -6451,7 +6811,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Marcelo Barbosa de Oliveira',
         },
@@ -6465,7 +6825,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84999640166',
         },
@@ -6480,7 +6840,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'marcelo.oliveira@ufrn.br',
         },
@@ -6703,15 +7063,6 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f77fc6d2a7e70010911102',
-          user: {
-            _id: '64f77efdd2a7e700109105c0',
-            name: 'Geovanna Bezerra de Souza',
-            email: 'euagisouza@gmail.com',
-          },
-          present: false,
-        },
-        {
           _id: '64f7883fd2a7e700109153ac',
           user: {
             _id: '64f71979d2a7e700108daf0a',
@@ -6735,6 +7086,15 @@ export const minicourseActivities = [
             _id: '64f104f9431f3e00105a8e88',
             name: 'DANIELLE ROQUE DA SILVA',
             email: 'danielle.roque.071@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8c5fad2a7e7001097390c',
+          user: {
+            _id: '64f7d4b3d2a7e70010939d40',
+            name: 'Carolinny Christina Pessoa Lima',
+            email: 'carolinny.christina84@gmail.com',
           },
           present: false,
         },
@@ -6795,7 +7155,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Capacitar e evidenciar as novas tecnologias na área contábil para os alunos.',
@@ -6810,7 +7170,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'projetor',
         },
@@ -6825,7 +7185,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'João Maria Montenegro Ribeiro',
         },
@@ -6839,7 +7199,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84-98859-0126',
         },
@@ -6854,7 +7214,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'joao@montenegrocontabilidade.com.br',
         },
@@ -7204,7 +7564,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '1-Discutir o papel dos Museus desde a sua criação até a atualidade;\n2-Avaliar o papel de Lugar de Memória e de Aprendizagem dos Museus;\n3-Compreender os Museus como Atrativos Turísticos e as formas de uso.',
@@ -7219,7 +7579,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Computador com Data Show.',
         },
@@ -7234,7 +7594,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Almir Félix Batista de Oliveira',
         },
@@ -7248,7 +7608,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 994011949',
         },
@@ -7263,7 +7623,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'almirfbo@yahoo.com.br',
         },
@@ -7288,33 +7648,6 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f5e7639a988f00104ee30c',
-          user: {
-            _id: '64f3e7d0431f3e0010645161',
-            name: 'Katsya Emanuelle Câmara da Costa',
-            email: 'katsya.costa.017@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64f5e7639a988f00104ee313',
-          user: {
-            _id: '64f3e7d0431f3e0010645161',
-            name: 'Katsya Emanuelle Câmara da Costa',
-            email: 'katsya.costa.017@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64f5e7639a988f00104ee312',
-          user: {
-            _id: '64f3e7d0431f3e0010645161',
-            name: 'Katsya Emanuelle Câmara da Costa',
-            email: 'katsya.costa.017@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
           _id: '64f60b939a988f00104fcaf9',
           user: {
             _id: '64e4aec467aaa40010e8707a',
@@ -7329,6 +7662,51 @@ export const minicourseActivities = [
             _id: '64f76cded2a7e70010908346',
             name: 'Alice Iasmim de Oliveira Maciel',
             email: 'aliceiasmim2@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8b222d2a7e7001096c226',
+          user: {
+            _id: '64f8b0d6d2a7e7001096b3d3',
+            name: 'Ivanna Cristina Rodrigues de Moura',
+            email: 'ivanna.cristina.088@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8d5b3d2a7e700109792ac',
+          user: {
+            _id: '627245540eabf50010b71515',
+            name: 'Nathália Maria Brito Carlos',
+            email: 'nathaliamariabc@hotmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8d5d3d2a7e700109793c8',
+          user: {
+            _id: '627040d90eabf50010b6e233',
+            name: 'Renata Cristine dos Santos Marques ',
+            email: 'renatacristine42@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91895d2a7e7001098e680',
+          user: {
+            _id: '64f6161c9a988f00105036f8',
+            name: 'Shirlene Adriana Santos de Souza',
+            email: 'shirleneadr001@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91d47d2a7e700109921b9',
+          user: {
+            _id: '64f3e7d0431f3e0010645161',
+            name: 'Katsya Emanuelle Câmara da Costa',
+            email: 'katsya.costa.017@ufrn.edu.br',
           },
           present: false,
         },
@@ -7367,7 +7745,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Teste',
         },
@@ -7381,7 +7759,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Teste',
         },
@@ -7396,7 +7774,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Teste',
         },
@@ -7410,7 +7788,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Teste',
         },
@@ -7425,7 +7803,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Teste',
         },
@@ -7505,7 +7883,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Conhecer as etapas e elementos essenciais para o desenvolvimento do trabalho científico em turismo.',
@@ -7520,7 +7898,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '•\tDatashow\n•\tQuadro-branco\n•\tCaneta Pilot',
         },
@@ -7535,7 +7913,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Jéssyca Rodrigues Henrique da Silva ',
         },
@@ -7549,7 +7927,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84)99943-8777',
         },
@@ -7564,7 +7942,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'jessyca.r.henrique@gmail.com',
         },
@@ -7625,7 +8003,52 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f6189c9a988f0010506c81',
+          _id: '64f770cdd2a7e7001090a9c8',
+          user: {
+            _id: '64b693abea39bd00105b32da',
+            name: 'Larissa Sheila Barbosa Ferreira',
+            email: 'larissa.barbosa.017@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f898d7d2a7e7001095e2ce',
+          user: {
+            _id: '64c7fb6cea39bd00105d8669',
+            name: 'Andressa Alves dos Santos',
+            email: 'andressa.alves.702@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f89f36d2a7e70010961820',
+          user: {
+            _id: '64de658c67aaa40010e53032',
+            name: 'Hillary de Oliveira Silva',
+            email: 'hillaryoliveirasa@gmail.com',
+          },
+          present: false,
+        },
+        {
+          _id: '64f89ff7d2a7e70010962049',
+          user: {
+            _id: '6271f5980eabf50010b71300',
+            name: 'Jasyel Trindade da Silva',
+            email: 'jasyel.trindade.705@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8ab85d2a7e700109684a4',
+          user: {
+            _id: '625dfcd80eabf50010b4ca34',
+            name: 'Luzia Andreina Costa de Oliveira',
+            email: 'luzia.andreina.costa.707@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f91bdcd2a7e70010990e6e',
           user: {
             _id: '64f617529a988f0010504ede',
             name: 'Joyce Maria Gomes de Oliveira',
@@ -7634,20 +8057,11 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f627dc9a988f001051027a',
+          _id: '64f91cbed2a7e70010991ae8',
           user: {
-            _id: '64e39b3e67aaa40010e7f42c',
-            name: 'emilly beatriz gomes dos santos',
-            email: 'emillybeatrizxp@gmail.com',
-          },
-          present: false,
-        },
-        {
-          _id: '64f770cdd2a7e7001090a9c8',
-          user: {
-            _id: '64b693abea39bd00105b32da',
-            name: 'Larissa Sheila Barbosa Ferreira',
-            email: 'larissa.barbosa.017@ufrn.edu.br',
+            _id: '64f6176d9a988f0010505022',
+            name: 'Noemi Barbosa de Oliveira',
+            email: 'noemib.oliveira20@gmail.com',
           },
           present: false,
         },
@@ -7736,7 +8150,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Discutir sobre as inovações tecnológicas na Contabilidade;\nDiscutir sobre os desafios e oportunidades advindos das novas tecnologias;\nRealizar atividades práticas com os alunos abordando as inovações tecnológicas na área de Ciências Contábeis.',
@@ -7751,7 +8165,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Sala de aula com projetor multimídia.',
         },
@@ -7766,7 +8180,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Erivan Ferreira Borges',
         },
@@ -7780,7 +8194,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 99976-2324',
         },
@@ -7795,7 +8209,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'erivanfborges@gmail.com',
         },
@@ -7816,6 +8230,24 @@ export const minicourseActivities = [
             _id: '64f79eb8d2a7e7001091c166',
             name: 'Diego Cavalcante Mafaldo',
             email: 'diego.mafaldo.114@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8972bd2a7e7001095d415',
+          user: {
+            _id: '64ecc74b431f3e001049b22e',
+            name: 'David Luan Fontes Ambrósio',
+            email: 'david.ambrosio.132@ufrn.edu.br',
+          },
+          present: false,
+        },
+        {
+          _id: '64f8974cd2a7e7001095d74d',
+          user: {
+            _id: '64eccbed431f3e001049bdd2',
+            name: 'Eduardo de Oliveira Bento',
+            email: 'eduardo.bento.112@ufrn.edu.br',
           },
           present: false,
         },
@@ -7893,7 +8325,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '•\tDiscutir de forma introdutória o processo sócio-político de construção das demandas coletivas na área das políticas públicas;\n•\tDiscutir os processos decisórios em relação às políticas públicas;\n•\tProporcionar aos/as participantes elementos de análise e reflexão sobre a gestão das políticas públicas na atualidade, destacando aspectos da realidade brasileira.\n•\tAbordar os conceitos e fundamentos teóricos e metodológicos para a elaboração, implementação e avaliação de políticas, programas e projetos sociais.\n',
@@ -7908,7 +8340,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Computador, projetor, caixa de som, marcador para quadro branco, apagador.',
@@ -7924,7 +8356,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Daline Maria de Souza',
         },
@@ -7938,7 +8370,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 99976-5920',
         },
@@ -7953,7 +8385,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'daline.souza@ufrn.br',
         },
@@ -8049,6 +8481,15 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f8c9d6d2a7e7001097565c',
+          user: {
+            _id: '5cc74b68f47e3d000f73e6a9',
+            email: 'aldeyzea@gmail.com',
+            name: 'ALDEYZE ALESSANDRA DE ARAÚJO SILVA',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -8128,7 +8569,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Capacitar os participantes a utilizar técnicas de textmining para extrair informações relevantes de textos, aplicando essas habilidades em cenários de pesquisa.',
@@ -8143,7 +8584,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Datashow, internet e computador.',
         },
@@ -8158,7 +8599,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Anatalia Saraiva Martins Ramos',
         },
@@ -8172,7 +8613,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84988073324',
         },
@@ -8187,7 +8628,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'anataliasaraiva@gmail.com',
         },
@@ -8364,6 +8805,15 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f8b257d2a7e7001096c5f8',
+          user: {
+            _id: '64ef9bc0431f3e001051fe02',
+            name: 'Hyasnaia Luanna Barros de Oliveira Silva Lima',
+            email: 'hyasnaia@hotmail.com',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -8449,7 +8899,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Compreender a Residência Multiprofissional em Saúde como um espaço de formação e trabalho no e para o SUS;\n• Propiciar reflexões sobre a inserção do Serviço Social no programa de Residência Multiprofissional em Saúde no âmbito da Universidade Federal do Rio Grande do Norte (UFRN), particularizando o Programa de Atenção Psicossocial.\nExpor as experiências vivenciadas pelos(as) profissionais residentes, preceptores, tutores e coordenadores do Serviço Social na Residência Multiprofissional em Saúde no programa de Atenção Psicossocial;\n• Fomentar o debate sobre os desafios e potencialidades que perpassam o trabalho profissional dos/as assistentes sociais no âmbito da atenção psicossocial e da RAPS.',
@@ -8464,7 +8914,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Sala de aula com cadeiras que possibilitem a formação de rodas, pincel para lousa, apagador, 60 folhas de ofício em branco, recursos audiovisuais (computador, caixa de som e data show)',
@@ -8480,7 +8930,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Edla Hoffmann',
         },
@@ -8494,7 +8944,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 99672-7424',
         },
@@ -8509,7 +8959,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'edlahoff@gmail.com',
         },
@@ -8700,7 +9150,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Problematizar os principais elementos norteadores sobre a necessária articulação entre as Políticas de Saúde Mental e de Atenção Básica no SUS;\n• Discutir sobre a assistência ao sofrimento psíquico na Política de Atenção básica;\n• Refletir sobre a inserção do Serviço Social na Atenção Básica e suas particularidades na assistência à saúde mental;\n• Compreender o processo de Acolhimento, Matriciamento e Projeto Terapêutico Singular (PTS) nas particularidades da assistência ao sofrimento psíquico na atenção básica de saúde.',
@@ -8715,7 +9165,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Sala de aula com cadeiras que possibilitem a formação de rodas, pincel para lousa, apagador, 60 folhas de ofício em branco, recursos audiovisuais (computador, caixa de som e data show)',
@@ -8731,7 +9181,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Edla Hoffmann',
         },
@@ -8745,7 +9195,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 99672-7424',
         },
@@ -8760,7 +9210,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'edlahoff@gmail.com',
         },
@@ -8850,7 +9300,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Problematizar os principais elementos norteadores sobre a necessária articulação entre as Políticas de Saúde Mental e de Atenção Básica no SUS;\n• Discutir sobre a assistência ao sofrimento psíquico na Política de Atenção básica;\n• Refletir sobre a inserção do Serviço Social na Atenção Básica e suas particularidades na assistência à saúde mental;\n• Compreender o processo de Acolhimento, Matriciamento e Projeto Terapêutico Singular (PTS) nas particularidades da assistência ao sofrimento psíquico na atenção básica de saúde.',
@@ -8865,7 +9315,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Sala de aula com cadeiras que possibilitem a formação de rodas, pincel para lousa, apagador, 60 folhas de ofício em branco, recursos audiovisuais (computador, caixa de som e data show)',
@@ -8881,7 +9331,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Edla Hoffmann',
         },
@@ -8895,7 +9345,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84 99672-7424',
         },
@@ -8910,7 +9360,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'edlahoff@gmail.com',
         },
@@ -9305,7 +9755,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Articular saberes interdisciplinares entre Direito, Economia e Criminologia para compreender o crime como fenômeno e fato jurídico, promovendo uma análise econômica do Direito Penal orientado pelo funcionalismo-teleológico.',
@@ -9320,7 +9770,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Mini-auditório com projetor.',
         },
@@ -9335,7 +9785,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'FILLIPE AZEVEDO RODRIGUES',
         },
@@ -9349,7 +9799,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84-981201111',
         },
@@ -9364,7 +9814,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'rodrigues.cgern@gmail.com',
         },
@@ -9486,7 +9936,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Auxiliar no estabelecimento de estratégias iniciais para o alcance dos objetivos de aprendizagem. \n- Auxiliar os estudantes no desenvolvimento da autonomia para aprendizagem e demais produções na vida academica.\n- Apresentar estratégias de aprendizagem e organização para aprimorar a produtividade de forma sustentável e saudável.\n- Propor um espaço de diálogo acerca das dificuldades da graduação e pós-graduação visando a proposição de alternativas. \n- Compartilhar experiências de aprendizagem com foco na apresentação de conteúdos e técnicas que auxiliem o estudante no alcance de seus objetivos de aprendizagem. \n',
@@ -9501,7 +9951,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Computador com Datashow conectado a internet para apresentação de slides e conteúdos. ',
@@ -9517,7 +9967,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Leandro do Nascimento de Souza',
         },
@@ -9531,7 +9981,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84-996266688',
         },
@@ -9546,7 +9996,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'leandroso@gmail.com',
         },
@@ -9614,7 +10064,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Compreender o ciclo das políticas públicas como modelo de análise de políticas públicas. Entender a interface da análise cíclica com outros modelos de análise de políticas públicas. Evidenciar o desmonte e a necessidade de reconstrução de políticas públicas.',
@@ -9629,7 +10079,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Projetor multimídia.',
         },
@@ -9644,7 +10094,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Maria Arlete Duarte de Araújo',
         },
@@ -9658,7 +10108,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '84999814860',
         },
@@ -9673,7 +10123,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'mariaarlete1956@gmail.com',
         },
@@ -9763,7 +10213,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Projetor multimídia\nPiloto para quadro',
         },
@@ -9778,7 +10228,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Alexandre Magno',
         },
@@ -9792,7 +10242,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 9 8620 - 8212',
         },
@@ -9807,7 +10257,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'amagnosf@gmail.com',
         },
@@ -9821,7 +10271,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             '- Apresentar para os participantes o processo de evolução do marketing a partir das mudanças do comportamento do consumidor;\n- Fomentar uma discussão sobre o impacto da tecnologia no hábito de consumo na perspectiva do marketing 5.0;\n- Discutir os pilares da construção de uma estratégia omnichannel;\n- Debater sobre as características que tornam a experiência do usuário inesquecível a partir da aplicação dos ativos omnichannel',
@@ -9891,6 +10341,15 @@ export const minicourseActivities = [
           },
           present: false,
         },
+        {
+          _id: '64f8a48ad2a7e70010964b11',
+          user: {
+            _id: '64ee24c5431f3e00104bfc53',
+            name: 'Hylkaely Barbosa',
+            email: 'hylkaely.barbosa.129@ufrn.edu.br',
+          },
+          present: false,
+        },
       ],
     },
   },
@@ -9928,7 +10387,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '',
         },
@@ -9991,7 +10450,7 @@ export const minicourseActivities = [
             name: 'resources',
             readableName: 'Recursos solicitados',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'sala de aula, projetor, pincel piloto, apagador, caixa de som. ',
@@ -10007,7 +10466,7 @@ export const minicourseActivities = [
             readableName:
               'Coordenador(Digite mesmo ele já se encontrando na lista de expositores)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'Tássia Rejane Monte dos Santos',
         },
@@ -10021,7 +10480,7 @@ export const minicourseActivities = [
             name: 'phone',
             readableName: 'Telefone do coordenador',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: '(84) 99960-2353',
         },
@@ -10036,7 +10495,7 @@ export const minicourseActivities = [
             readableName:
               'Email do coordenador(O mesmo da página do SIGAA de preferência)',
             HTMLtype: 'text',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value: 'tassia.monte@ufrn.br',
         },
@@ -10050,7 +10509,7 @@ export const minicourseActivities = [
             name: 'goals',
             readableName: 'Objetivos',
             HTMLtype: 'textarea',
-            createdAt: '2023-09-06T12:31:51.953Z',
+            createdAt: '2023-09-07T22:39:43.637Z',
           },
           value:
             'Oportunizar um espaço de introdução ao pensamento de Antônio Gramsci para estudantes de graduação; Apresentar autor e obra, a partir do debate sobre o Estado e Hegemonia, que são categorias centrais no pensamento de Gramsci, Contribuir com uma interlocução entre pesquisadores/as que investigam ou tem interesse pela temática, em especial, na abordagem feita pelo campo  marxista. Contribuir com o debate, a atualização e fundamentação teórica das análises sobre o Estado e as classes sociais, na contemporaneidade. ',
@@ -10184,15 +10643,6 @@ export const minicourseActivities = [
           present: false,
         },
         {
-          _id: '64f3fe65431f3e0010647fdb',
-          user: {
-            _id: '64f13964431f3e00105c43b1',
-            name: 'Letícia Ferreira de Lima Silva',
-            email: 'leticia.ferreira.122@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
           _id: '64f5cd85431f3e0010664c4d',
           user: {
             _id: '5ac79aac9324c9000ff8faa8',
@@ -10263,35 +10713,7 @@ export const minicourseActivities = [
       syllabus:
         'Palestrante: Maria Teresa Pires Costa\nResponsável: Grupos de Pesquisa em Gestão Institucional e Políticas Públicas\n\n',
       ofFields: [],
-      ofEnrollments: [
-        {
-          _id: '64f0d35d431f3e0010593fac',
-          user: {
-            _id: '64f07c14431f3e00105642bd',
-            name: 'Erislayne de Moura Félix dos Santos',
-            email: 'erislayne.santos.712@ufrn.edu.br',
-          },
-          present: false,
-        },
-        {
-          _id: '64f513f8431f3e0010659479',
-          user: {
-            _id: '64e89011431f3e001046be0a',
-            name: 'Cauâny Lins dos Santos',
-            email: 'cauanysanto@gmail.com',
-          },
-          present: false,
-        },
-        {
-          _id: '64f546d1431f3e001065c5e1',
-          user: {
-            _id: '64f53e65431f3e001065b913',
-            name: 'Cleiton Emanuel Bezerra de Moura',
-            email: 'kleycursos@gmail.com',
-          },
-          present: false,
-        },
-      ],
+      ofEnrollments: [],
     },
   },
 ]
