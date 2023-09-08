@@ -6686,6 +6686,11 @@ export const articlePresentations = [
           name: 'KEVIN PEREIRA DANTAS',
           email: 'kevin.pereira.700@ufrn.br',
         },
+        {
+          _id: '64e001a567aaa40010e6a22a',
+          name: 'João Carlos Moura Sena',
+          email: 'Karllossenna23@gmail.com',
+        },
       ],
       files: ['64e01cbc67aaa40010e6d481', '64e01cc167aaa40010e6d485'],
       state: 'approved',
