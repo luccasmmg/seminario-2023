@@ -108,7 +108,7 @@ export default function Home() {
           <h4
             className={`max-w-2xl  text-xl font-medium  tracking-tight md:text-2xl lg:max-w-3xl ${unna.className}`}
           >
-            <span className="text-slate-800"> Nepsa 1 - 15/09 19:00</span>
+            <span className="text-slate-800"> Nepsa 1 - 11/09 19:00</span>
           </h4>
           <p className="py-4">
             A Cerimônia de abertura do Seminário será às 19h, com conferencia
