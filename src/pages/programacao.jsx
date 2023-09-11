@@ -18,6 +18,7 @@ import { articlePresentations } from 'data/articles/presentations'
 import { articleSessions } from 'data/articles/sessions'
 import { teachingCasePresentations } from 'data/teachingcases/presentations'
 import { teachingCaseSessions } from 'data/teachingcases/sessions'
+import { posterFiles } from 'data/posters/files'
 
 const unna = Unna({ subsets: ['latin'], weight: '700' })
 
@@ -55,11 +56,34 @@ function compareTwoPresentations(a, b, sessions) {
   })
   if (!dateTimeA) return 1
   if (!dateTimeB) return 1
-  console.log(dateTimeA.initialDate)
   return new Date(dateTimeA.initialDate) - new Date(dateTimeB.initialDate)
 }
 
 export default function Home() {
+  const _posterFiles = posterFiles.map((file) => file.split('.')[0])
+  const posters = posterPresentations
+    .filter(
+      (poster) =>
+        poster.data.state === 'approved' && poster.data.deleted === false
+    )
+    .map((poster) => {
+      const _poster = {}
+      const name = poster.data.title
+      const authors = poster.data.authors
+        .map((author) => `${author.name}(${author.email})`)
+        .join(', ')
+      poster.data.files.forEach((file, index) => {
+        if (_posterFiles.includes(file))
+          _poster[`Arquivo - ${index + 1}`] = file
+      })
+      return {
+        name,
+        authors,
+        GT: poster.data.thematicGroup.data.name,
+        ..._poster,
+      }
+    })
+  console.log(posters)
   return (
     <>
       <Head>
@@ -235,7 +259,6 @@ function ActivitiesList({ sessions, activities }) {
       {sessions
         .sort((a, b) => new Date(a.initialDate) - new Date(b.initialDate))
         .map((session) => {
-          console.log(session.initialDate)
           const thisSessionActivities = activities.filter((activity) =>
             isPartOfSession(session, activity)
           )
@@ -244,17 +267,17 @@ function ActivitiesList({ sessions, activities }) {
             <>
               <div key={session.id} className="flex gap-x-2 py-4">
                 <h4
-                  className={`max-w-2xl  text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+                  className={`max-w-2xl  text-xl font-medium  tracking-tight text-slate-800 md:text-4xl lg:max-w-3xl ${unna.className}`}
                 >
                   {formatDate(session.initialDate)}
                 </h4>
                 <h4
-                  className={`max-w-2xl  text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+                  className={`max-w-2xl  text-xl font-medium  tracking-tight text-slate-800 md:text-4xl lg:max-w-3xl ${unna.className}`}
                 >
                   -
                 </h4>
                 <h4
-                  className={`max-w-2xl  text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+                  className={`max-w-2xl  text-xl font-medium  tracking-tight text-slate-800 md:text-4xl lg:max-w-3xl ${unna.className}`}
                 >
                   {formatDate(session.finalDate)}
                 </h4>
