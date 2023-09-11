@@ -100,6 +100,21 @@ export default function Home() {
               Programação
             </h2>
           </div>
+          <h3
+            className={`mx-auto max-w-2xl pt-6 text-center text-4xl  font-medium tracking-tight text-slate-800 lg:max-w-3xl ${unna.className}`}
+          >
+            Abertura
+          </h3>
+          <h4
+            className={`max-w-2xl  text-xl font-medium  tracking-tight md:text-2xl lg:max-w-3xl ${unna.className}`}
+          >
+            <span className="text-slate-800"> Nepsa 1 - 15/09 19:00</span>
+          </h4>
+          <p className="py-4">
+            A Cerimônia de abertura do Seminário será às 19h, com conferencia
+            com o tema do evento(As controvérsias da inovação e tecnologia no
+            mundo do trabalho) e proferida pelo prof. Fellipe Coelho Lima (UFRN)
+          </p>
           <div className="py-8">
             <div className="flex flex-col py-4">
               <h3
