@@ -6248,7 +6248,7 @@ export const conferenceActivities = [
         'Inteligência Artificial e seus Impactos nas Organizações Públicas - Ciclo de Debates em Administração Pública',
       shift: 2,
       syllabus:
-        'Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/PPGA/UFRN). \nParticipantes: Joaquim Caeiro (ISCSP/ULisboa - Portugal), Hironobu Sano e Thiago Ferreira Dias (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)\n',
+        'Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/PPGA/UFRN). \nParticipantes: Joaquim Caeiro (ISCSP/ULisboa - Portugal), Hironobu Sano e Thiago Ferreira Dias (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)',
       ofFields: [],
       ofEnrollments: [
         {
