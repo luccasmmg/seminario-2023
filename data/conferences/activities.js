@@ -4633,7 +4633,7 @@ export const conferenceActivities = [
           _id: '64f7307bd2a7e700108eafd5',
           user: {
             _id: '64f110fe431f3e00105afb76',
-            name: 'Amanda Gomes',
+            name: 'Amanda Dayseane Ferreira Gomes',
             email: 'amanda.gomes.142@ufrn.edu.br',
           },
           present: false,
@@ -6248,7 +6248,7 @@ export const conferenceActivities = [
         'Inteligência Artificial e seus Impactos nas Organizações Públicas - Ciclo de Debates em Administração Pública',
       shift: 2,
       syllabus:
-        'Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)\nParticipantes: Joaquim Caeiro (ISCSP/ULisboa - Portugal) e Hironobu Sano (UFRN)',
+        'Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/PPGA/UFRN). \nParticipantes: Joaquim Caeiro (ISCSP/ULisboa - Portugal), Hironobu Sano e Thiago Ferreira Dias (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)Responsável: Hironobu Sano (Núcleo de Inovação em Gestão Pública e PPGP/UFRN)\n',
       ofFields: [],
       ofEnrollments: [
         {
