@@ -336,7 +336,7 @@ function ActivitiesList({ sessions, activities }) {
                         ? activity.data.consolidation.vacancies
                         : 'Número ilimitado'}
                     </h6>
-                    <p className={`line-clamp truncate tracking-tight`}>
+                    <p className={`tracking-tight`}>
                       <span className="font-bold">Ementa: </span>
                       {activity.data.syllabus}
                     </p>
