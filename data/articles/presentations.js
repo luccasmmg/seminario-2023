@@ -6061,14 +6061,14 @@ export const articlePresentations = [
       keywords:
         'Gestão da informação e do conhecimento (GIC). Análise sociométrica. Análise Bibliométrica. ',
       thematicGroup: {
-        _id: '649dda9855c6e80010777273',
+        _id: '649ddab455c6e8001077728d',
         entity: 'thematicgroups',
         data: {
           coordinators: [
             {
-              _id: '64de51a667aaa40010e4fb48',
-              name: 'Andréa Vasconcelos Carvalho',
-              email: 'andrea.carvalho@ufrn.br',
+              _id: '64d13616ea39bd00105f9aac',
+              name: 'Pedro Alves Barbosa Neto',
+              email: 'pedrocorone2@gmail.com',
             },
             {
               _id: '5cadd571452c13000fee6a7b',
@@ -6076,10 +6076,10 @@ export const articlePresentations = [
               name: 'Aluno de Pós-Graduação',
             },
           ],
-          _id: '649dda9855c6e80010777272',
-          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
+          _id: '649ddab455c6e8001077728c',
+          name: 'Organização, Mediação, Tecnologia e Sociedade',
           description:
-            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
+            'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
           area: {
             _id: '64908476e6bcd204d9504b08',
             name: 'Ciência da Informação',
@@ -6478,14 +6478,14 @@ export const articlePresentations = [
       keywords:
         'Gestão da informação, Sistema de Informação, Gestão de Riscos e Auditoria de Informação.',
       thematicGroup: {
-        _id: '649dda9855c6e80010777273',
+        _id: '649ddab455c6e8001077728d',
         entity: 'thematicgroups',
         data: {
           coordinators: [
             {
-              _id: '64de51a667aaa40010e4fb48',
-              name: 'Andréa Vasconcelos Carvalho',
-              email: 'andrea.carvalho@ufrn.br',
+              _id: '64d13616ea39bd00105f9aac',
+              name: 'Pedro Alves Barbosa Neto',
+              email: 'pedrocorone2@gmail.com',
             },
             {
               _id: '5cadd571452c13000fee6a7b',
@@ -6493,10 +6493,10 @@ export const articlePresentations = [
               name: 'Aluno de Pós-Graduação',
             },
           ],
-          _id: '649dda9855c6e80010777272',
-          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
+          _id: '649ddab455c6e8001077728c',
+          name: 'Organização, Mediação, Tecnologia e Sociedade',
           description:
-            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
+            'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
           area: {
             _id: '64908476e6bcd204d9504b08',
             name: 'Ciência da Informação',
@@ -6927,11 +6927,6 @@ export const articlePresentations = [
           _id: '5abafe32c9ea41000ff9c722',
           email: 'isabelacavalcantidesouza@gmail.com',
           name: 'Isabela Cavalcanti de Souza',
-        },
-        {
-          _id: '5cd55fe2eddaaa000fb43751',
-          email: 'fausto.pn@hotmail.com',
-          name: 'Fausto Pereira Neto',
         },
       ],
       files: ['64e02a8567aaa40010e6deaa', '64e02a9867aaa40010e6deae'],
