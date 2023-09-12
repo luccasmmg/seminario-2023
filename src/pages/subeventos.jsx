@@ -67,16 +67,9 @@ export default function Home() {
               </p>
               <p>
                 No evento durante a exibição do Primeiro filme teremos os
-                comentários da Profa. titular da UFRN Sandra F Erickson que é
-                Graduada em Filosofia, possui Mestrado em Inglês, Doutorado em
-                Literatura e Cultura Brasileira, Pós-Doutorado em Teoria e
-                Crítica Literária e Pós-Doutorado em Ciências da Religião. Além
-                disso, durante a segunda exibição, contaremos com os comentários
-                do Professor Marcos Botelho que é Professor adjunto da UFRJ,
-                possui Mestrado e Doutorado em Serviço Social e tem experiência
-                na área de conhecimento do Serviço Social, com ênfase na
-                pesquisa da teoria social de Marx e da vida cotidiana no
-                capitalismo.
+                comentários Professor Marcos Botelho que é Professor da UFRJ e a
+                segunda exibição, contaremos com os comentários da Profa. da
+                UFRN Sandra F Erickson.
               </p>
             </div>
           </div>

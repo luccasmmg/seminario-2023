@@ -58,13 +58,6 @@ export const Tgs = {
       name: 'Ciência da Informação',
       tgs: [
         {
-          name: 'Uso, Comunicação e Gestão da Informação e do Conhecimento',
-          syllabus:
-            'Gestão da informação e do conhecimento; gestão de dados; gestão documental; inteligência governamental, competitiva e de negócios; auditoria da informação e do conhecimento; fluxos de informação nas organizações; interfaces da gestão da informação e da gestão de processos de negócios (BPM); avaliação da aceitação e do uso de sistemas de informação; gestão de sistemas e tecnologia da informação; alinhamento estratégico e governança de TI; gestão da segurança da informação; segurança de dados e privacidade; segurança cibernética; estudos das redes sociotécnicas, redes sociais e redes de conhecimento; cultura e comunicação organizacional; curadoria de conteúdo; competência em informação, comportamento informacional e práticas informacionais; tomada de decisão; inovação.',
-          coordinators: '',
-          id: '649dda9855c6e80010777272',
-        },
-        {
           name: 'Organização, Mediação, Tecnologia e Sociedade',
           syllabus:
             'Estudos históricos, críticos, epistemológicos e aplicados da Biblioteconomia e da Ciência da Informação; Ética, política e regimes de informação; Direito à Informação; Democratização da Informação; Cultura Informacional; Mediação da Informação e Mediação Cultural; Bibliotecas como dispositivos infocomunicacionais; Competência crítica em informação e Protagonismo Social; Memória social e Patrimônio Cultural; Comunicação científica e Ciência Aberta; Estudos métricos da informação e Visualização da Informação; Humanidades Digitais; Repositórios Digitais; Arquitetura da Informação Digital; Metadados e interoperabilidade em Sistemas de Informação; Organização da Informação e do Conhecimento.',
