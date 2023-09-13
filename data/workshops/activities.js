@@ -3003,7 +3003,7 @@ export const workshopActivities = [
           },
         ],
         _id: '64f8c46ad2a7e70010972dce',
-        location: 'Sala F3 - Setor 1',
+        location: 'Sala B3 - Setor 5',
         vacancies: 30,
       },
       code: 'NBwAhINm2d3R93J',
