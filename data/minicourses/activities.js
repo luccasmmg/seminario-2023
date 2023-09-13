@@ -6104,6 +6104,11 @@ export const minicourseActivities = [
           name: 'Rodrigo de Souza Medeiros',
           email: 'rodrigo.souza@ufrn.br',
         },
+        {
+          _id: '649c830455c6e800107762bd',
+          name: 'IVANEIDE DUARTE DE FREITAS',
+          email: 'ivaneideduarte87@hotmail.com',
+        },
       ],
       status: 'consolidated',
       deleted: false,
