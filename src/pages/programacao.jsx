@@ -307,7 +307,7 @@ function ActivitiesList({ sessions, activities }) {
                     key={activity._id}
                   >
                     <h5
-                      className={`text-2xl font-bold capitalize tracking-tight text-red-900 ${unna.className}`}
+                      className={`text-2xl font-bold uppercase tracking-tight text-red-900 ${unna.className}`}
                     >
                       {activity.data.title.toLowerCase()}
                     </h5>
