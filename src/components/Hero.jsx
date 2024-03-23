@@ -22,8 +22,8 @@ export function Hero() {
     },
     {
       title: 'Anais',
-      subtitle: '(Em breve)',
-      href: '#',
+      subtitle: '',
+      href: '/anais',
       icon: <CalendarIcon className="h-6 w-6" />,
     },
     {
