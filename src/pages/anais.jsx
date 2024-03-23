@@ -24,6 +24,21 @@ function withTg(item, filetype) {
   return { ...item, tg: presentation?.data.thematicGroup.data.name }
 }
 
+//write a function that capitalizes every first letter of a word in a string
+function capitalize(name) {
+  const words = name.toLowerCase().split(' ')
+  const capitalizedWords = words.map(
+    (word) => word.charAt(0).toUpperCase() + word.slice(1)
+  )
+  return capitalizedWords.join(' ')
+}
+
+function removeEmail(name) {
+  let names = name.split(',')
+  names = names.flatMap((n) => n.split('(').filter((n) => !n.includes('@')))
+  return names.map(capitalize)
+}
+
 export default function Home() {
   return (
     <>
@@ -97,10 +112,15 @@ function WorkCard({ item, fileType }) {
       <h5
         className={`text-2xl font-bold tracking-tight text-red-900 ${unna.className}`}
       >
-        {item.title}
+        {item.title.toUpperCase()}
       </h5>
       <h6 className={`max-w-2xl lg:max-w-3xl`}>
-        <span className="font-bold">Autores:</span> {item.authors}
+        <span className="font-bold">Autores:</span>
+        <ul className="ml-6 list-disc">
+          {removeEmail(item.authors).map((author) => (
+            <li key={author}>{author}</li>
+          ))}
+        </ul>
       </h6>
       <p className={`tracking-tight `}>
         <span className="font-bold">Abstrato: </span>
