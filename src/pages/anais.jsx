@@ -112,7 +112,7 @@ function WorkCard({ item, fileType }) {
       </p>
       <p className={`tracking-tight `}>
         <span className="font-bold">Palavras-chave: </span>
-        {item.keyword}
+        {item.keywords}
       </p>
       <p className={`tracking-tight `}>
         <span className="font-bold">Arquivo: </span>
