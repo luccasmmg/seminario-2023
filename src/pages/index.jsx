@@ -18,7 +18,7 @@ import { ExclamationCircleIcon, XMarkIcon } from '@heroicons/react/24/solid'
 import Link from 'next/link'
 
 export function PopUp() {
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false)
 
   const cancelButtonRef = useRef(null)
 
