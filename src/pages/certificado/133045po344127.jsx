@@ -27,8 +27,7 @@ export default function Certificado() {
                 <div style="margin-top:1cm;text-align:center;">
 	    			<!--<img height="35px" src="https://seminario2016.ccsa.ufrn.br/assets//signature.jpg" >-->
 	    		</div>
-	    		<p style="text-align:center;font-size:21px;font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;">Maria Arlete Duarte de Araújo</p>
-	    		<p style="text-align:center;font-size:21px;margin-top:-0.3cm;font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;">Coordenadora Geral</p>
+<img style="margin-left: 10rem;" src="/assinatura_pamela.png"></img>
 	    	</div>
 	    </div>
 	    <h1 style="margin-top:0.5cm;margin-left:5%;width:90%;border-bottom:5px solid #b5171f;font-size:10px;">Para verificar a validade do certificado entre em <b>www.seminario.ccsa.ufrn.br/133045po344127</b></h1>
